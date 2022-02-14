@@ -5,13 +5,12 @@ import (
 	"log"
 	"net/rpc"
 	"strings"
-
-	"study/pkg/crawler/engine"
-	"study/pkg/crawler/scheduler"
-	"study/pkg/crawler/zhenai/parser"
-	client1 "study/pkg/crawler_distributed/persist/client"
-	"study/pkg/crawler_distributed/rpcsupport"
-	"study/pkg/crawler_distributed/worker/client"
+	"study/internal/crawler/engine"
+	"study/internal/crawler/scheduler"
+	"study/internal/crawler/zhenai/parser"
+	client1 "study/internal/crawler_distributed/persist/client"
+	"study/internal/crawler_distributed/rpcsupport"
+	"study/internal/crawler_distributed/worker/client"
 )
 
 const (

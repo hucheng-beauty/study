@@ -1,10 +1,10 @@
 package main
 
 import (
-	"study/pkg/crawler/engine"
-	"study/pkg/crawler/persist"
-	"study/pkg/crawler/scheduler"
-	"study/pkg/crawler/zhenai/parser"
+	"study/internal/crawler/engine"
+	"study/internal/crawler/persist"
+	"study/internal/crawler/scheduler"
+	"study/internal/crawler/zhenai/parser"
 )
 
 /*

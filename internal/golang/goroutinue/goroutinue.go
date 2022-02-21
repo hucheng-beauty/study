@@ -31,7 +31,7 @@ import (
 		runtime.Gosched()
 */
 
-func main() {
+func test() {
 	var arr [10]int
 	for i := 0; i < 10; i++ {
 		go func(i int) {

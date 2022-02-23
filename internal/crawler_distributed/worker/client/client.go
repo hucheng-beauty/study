@@ -3,9 +3,9 @@ package client
 import (
 	"net/rpc"
 
-	"study/pkg/crawler/engine"
-	"study/pkg/crawler_distributed/config"
-	"study/pkg/crawler_distributed/worker"
+	"study/internal/crawler/engine"
+	"study/internal/crawler_distributed/config"
+	"study/internal/crawler_distributed/worker"
 )
 
 func CreateProcessor(pool chan *rpc.Client) engine.Processor {

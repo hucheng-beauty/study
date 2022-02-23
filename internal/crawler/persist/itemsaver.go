@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"study/pkg/crawler/engine"
+	"study/internal/crawler/engine"
 
 	"github.com/olivere/elastic/v7"
 	"golang.org/x/net/context"

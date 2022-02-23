@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"study/pkg/crawler_distributed/config"
-	"study/pkg/crawler_distributed/persist"
-	"study/pkg/crawler_distributed/rpcsupport"
+	"study/internal/crawler_distributed/config"
+	"study/internal/crawler_distributed/persist"
+	"study/internal/crawler_distributed/rpcsupport"
 
 	"github.com/olivere/elastic/v7"
 )

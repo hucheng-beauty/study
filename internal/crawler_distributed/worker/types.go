@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"study/pkg/crawler/engine"
-	"study/pkg/crawler/zhenai/parser"
+	"study/internal/crawler/engine"
+	"study/internal/crawler/zhenai/parser"
 )
 
 type SerializedParser struct {

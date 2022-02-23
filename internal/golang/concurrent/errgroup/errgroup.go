@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"log"
 	"net/http"
 
 	"golang.org/x/sync/errgroup"
@@ -10,7 +9,7 @@ import (
 
 func main() {
 	var g errgroup.Group
-	var urls = []string{
+	urls := []string{
 		"http://www.golang.org/",
 		"http://www.google.com/",
 		"http://www.somestupidname.com/",
@@ -21,9 +20,8 @@ func main() {
 		g.Go(func() error {
 			// Fetch the URL.
 			resp, err := http.Get(url)
+			fmt.Printf("Url: %s, Resp:%v\n", url, resp)
 			if err == nil {
-				log.Println(resp)
-				fmt.Println()
 				resp.Body.Close()
 			}
 			return err

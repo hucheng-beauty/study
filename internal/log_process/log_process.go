@@ -44,4 +44,3 @@ func NewLogProcess(read Reader, write *WriteToInfluxDB) *LogProcess {
 		Writer: write,
 	}
 }
-

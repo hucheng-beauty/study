@@ -1,7 +1,7 @@
 package worker
 
 import (
-	"study/pkg/crawler/engine"
+	"study/internal/crawler/engine"
 )
 
 type CrawService struct{}

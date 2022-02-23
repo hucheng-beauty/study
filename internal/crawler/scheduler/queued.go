@@ -1,8 +1,6 @@
 package scheduler
 
-import (
-	"study/pkg/crawler/engine"
-)
+import "study/internal/crawler/engine"
 
 // QueuedScheduler :Scheduler with requestChan and workerChan
 type QueuedScheduler struct {

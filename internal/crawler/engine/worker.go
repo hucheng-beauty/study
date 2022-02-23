@@ -3,7 +3,7 @@ package engine
 import (
 	"log"
 
-	"study/pkg/crawler/fetcher"
+	"study/internal/crawler/fetcher"
 )
 
 func Worker(r Request) (ParseResult, error) {

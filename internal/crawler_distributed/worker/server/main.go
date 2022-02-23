@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"study/pkg/crawler_distributed/rpcsupport"
-	"study/pkg/crawler_distributed/worker"
+	"study/internal/crawler_distributed/rpcsupport"
+	"study/internal/crawler_distributed/worker"
 )
 
 var port = flag.Int("port", 0, "the port for me to listen on")

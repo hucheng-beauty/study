@@ -18,15 +18,13 @@ import "errors"
 		适合:
 */
 
-// 1.实现一个抽象的类
-
+// Cache 1.实现一个抽象的类
 type Cache interface {
 	Set(key, value string)
 	Get(key string) string
 }
 
-// 2.实现具体的产品Redis
-
+// Redis 2.实现具体的产品Redis
 type Redis struct {
 	m map[string]string
 }
@@ -43,8 +41,7 @@ func (r *Redis) Get(key string) string {
 	return r.m[key]
 }
 
-// 3.实现具体的产品 Memory
-
+// MemoryCache 3.实现具体的产品 Memory
 type MemoryCache struct {
 	m map[string]string
 }
@@ -61,8 +58,7 @@ func (m *MemoryCache) Get(key string) string {
 	return m.m[key]
 }
 
-// 4.1实现简单工厂类:适合对象中无字段
-
+// CachesFactory 4.1实现简单工厂类:适合对象中无字段
 var CachesFactory = map[string]Cache{
 	"Redis":       new(Redis),
 	"MemoryCache": new(MemoryCache),
@@ -78,8 +74,7 @@ func SelectCache(cacheType string) Cache {
 	return cache
 }
 
-// 4.2实现简单工厂类
-
+// CacheFactory 4.2实现简单工厂类
 type CacheFactory struct{}
 
 func (CacheFactory) Create(cacheType string) (Cache, error) {
@@ -89,6 +84,6 @@ func (CacheFactory) Create(cacheType string) (Cache, error) {
 	case "MemoryCache":
 		return NewMemoryCache(make(map[string]string)), nil
 	default:
-		return nil, errors.New("cacheType invalid!")
+		return nil, errors.New("cache type invalid")
 	}
 }

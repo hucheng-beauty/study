@@ -3,9 +3,9 @@ package client
 import (
 	"log"
 
-	"study/pkg/crawler/engine"
-	"study/pkg/crawler_distributed/config"
-	"study/pkg/crawler_distributed/rpcsupport"
+	"study/internal/crawler/engine"
+	"study/internal/crawler_distributed/config"
+	"study/internal/crawler_distributed/rpcsupport"
 )
 
 // ItemSaver :Send data to ElasticSearch

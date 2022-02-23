@@ -1,8 +1,6 @@
 package scheduler
 
-import (
-	"study/pkg/crawler/engine"
-)
+import "study/internal/crawler/engine"
 
 // SimpleScheduler :Scheduler without workerChan
 type SimpleScheduler struct {

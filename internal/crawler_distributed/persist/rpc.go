@@ -1,8 +1,8 @@
 package persist
 
 import (
-	"study/pkg/crawler/engine"
-	"study/pkg/crawler/persist"
+	"study/internal/crawler/engine"
+	"study/internal/crawler/persist"
 
 	"github.com/olivere/elastic/v7"
 )

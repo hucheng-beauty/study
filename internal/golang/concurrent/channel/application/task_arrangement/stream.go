@@ -1,4 +1,4 @@
-package patterns
+package task_arrangement
 
 // 把 Channel 当作流式管道使用的方式，
 // 也就是把 Channel 看作流（Stream），

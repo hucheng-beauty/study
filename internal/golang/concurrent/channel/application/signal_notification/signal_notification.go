@@ -8,6 +8,7 @@ import (
 	"time"
 )
 
+// 优雅关闭
 func doCleanup(closed chan struct{}) {
 	time.Sleep(time.Minute) // simulate cleanup
 	close(closed)

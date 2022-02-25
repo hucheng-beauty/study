@@ -1,4 +1,4 @@
-package patterns
+package task_arrangement
 
 // 扇出模式只有一个输入源 Channel，有多个目标 Channel，
 // 扇出比就是 1 比目标 Channel 数的值，经常用在设计模式中的

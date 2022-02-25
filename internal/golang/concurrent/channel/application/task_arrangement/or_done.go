@@ -1,4 +1,4 @@
-package patterns
+package task_arrangement
 
 import "reflect"
 

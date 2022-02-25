@@ -1,4 +1,4 @@
-package patterns
+package task_arrangement
 
 import "reflect"
 
@@ -69,6 +69,39 @@ func merge(a, b <-chan interface{}) <-chan interface{} {
 					continue
 				}
 				out <- v
+			}
+		}
+	}()
+	return out
+}
+
+// 适用 channel 数量未知
+func fanInByGoroutine(c1, c2 chan string) chan string {
+	out := make(chan string)
+	go func() {
+		for {
+			out <- <-c1
+		}
+	}()
+	go func() {
+		for {
+			out <- <-c2
+		}
+	}()
+	return out
+}
+
+// 适用 channel 数量已知
+func fanInBySelect(c1, c2 chan string) chan string {
+	out := make(chan string)
+	go func() {
+		s := ""
+		for {
+			select {
+			case s = <-c1:
+				out <- s
+			case s = <-c2:
+				out <- s
 			}
 		}
 	}()

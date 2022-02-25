@@ -45,7 +45,7 @@ func msgGenerate(name string, done chan struct{}) chan string {
 	return out
 }
 
-func fanIn_new(chs ...chan string) chan string {
+func fanInNew(chs ...chan string) chan string {
 	out := make(chan string)
 
 	// first

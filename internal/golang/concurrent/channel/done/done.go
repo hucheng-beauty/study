@@ -9,7 +9,7 @@ type worker struct {
 	done chan bool
 }
 
-func do_worker(id int, c chan int, done chan bool) {
+func doWorker(id int, c chan int, done chan bool) {
 	for n := range c {
 		fmt.Printf("worker %d received %c\n", id, n)
 		done <- true
@@ -17,9 +17,9 @@ func do_worker(id int, c chan int, done chan bool) {
 	}
 }
 
-func create_worker(id int) worker {
+func createWorker(id int) worker {
 	w := worker{in: make(chan int), done: make(chan bool)}
-	go do_worker(id, w.in, w.done)
+	go doWorker(id, w.in, w.done)
 	return w
 }
 
@@ -27,7 +27,7 @@ func chanDemo() {
 	var workers [10]worker
 	// crete_worker
 	for i := 0; i < 10; i++ {
-		workers[i] = create_worker(i)
+		workers[i] = createWorker(i)
 	}
 
 	// write 'a'

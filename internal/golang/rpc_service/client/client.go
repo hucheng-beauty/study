@@ -5,7 +5,7 @@ import (
 	"net"
 	"net/rpc/jsonrpc"
 
-	"study/internal/golang/rpcService"
+	"study/internal/golang/rpc_service"
 )
 
 func main() {
@@ -17,13 +17,13 @@ func main() {
 	client := jsonrpc.NewClient(conn)
 
 	var result float64
-	if err = client.Call("DemoService.Div", rpcService.Args{A: 2, B: 4}, &result); err != nil {
+	if err = client.Call("DemoService.Div", rpc_service.Args{A: 2, B: 4}, &result); err != nil {
 		fmt.Println(err)
 	} else {
 		fmt.Println(result)
 	}
 
-	if err = client.Call("DemoService.Div", rpcService.Args{A: 2, B: 0}, &result); err != nil {
+	if err = client.Call("DemoService.Div", rpc_service.Args{A: 2, B: 0}, &result); err != nil {
 		fmt.Println(err)
 	} else {
 		fmt.Println(result)

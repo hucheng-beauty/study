@@ -39,7 +39,7 @@ func worker(id int, c chan int) {
 	}
 }
 
-func create_worker(id int) chan<- int {
+func createWorker(id int) chan<- int {
 	c := make(chan int)
 	go worker(id, c)
 	return c
@@ -47,7 +47,7 @@ func create_worker(id int) chan<- int {
 
 func main() {
 	var c1, c2 = generator(), generator()
-	var worker = create_worker(0)
+	var worker = createWorker(0)
 
 	tm := time.After(10 * time.Second)
 	tt := time.Tick(time.Second)

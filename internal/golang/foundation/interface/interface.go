@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"study/internal/golang/interface/mock"
-	"study/internal/golang/interface/real"
+	mock2 "study/internal/golang/foundation/interface/mock"
+	real2 "study/internal/golang/foundation/interface/real"
 )
 
 /*
@@ -51,24 +51,24 @@ func inspect(r Retriever) {
 
 	// Type Switch
 	switch v := r.(type) {
-	case mock.Retriever:
+	case mock2.Retriever:
 		fmt.Println("Contents:", v.Content)
-	case *real.Retriever:
+	case *real2.Retriever:
 		fmt.Println("UserAgent", v.UserAgent)
 	}
 }
 
 func main() {
 	var r Retriever
-	r = mock.Retriever{"This is a fake website."}
-	r = &real.Retriever{
+	r = mock2.Retriever{"This is a fake website."}
+	r = &real2.Retriever{
 		UserAgent: "Mozilla/5.0",
 		TimeOut:   time.Minute,
 	}
 	inspect(r)
 
 	// Type assertion,接口断言
-	if mockRetriever, ok := r.(mock.Retriever); ok {
+	if mockRetriever, ok := r.(mock2.Retriever); ok {
 		fmt.Println(mockRetriever.Content)
 	} else {
 		fmt.Println("Not a mock retriever.")

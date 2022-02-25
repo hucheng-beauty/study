@@ -1,4 +1,4 @@
-package rpcService
+package rpc_service
 
 import "errors"
 

@@ -6,11 +6,11 @@ import (
 	"net/rpc"
 	"net/rpc/jsonrpc"
 
-	"study/internal/golang/rpcService"
+	"study/internal/golang/rpc_service"
 )
 
 func main() {
-	if err := rpc.Register(rpcService.DemoService{}); err != nil {
+	if err := rpc.Register(rpc_service.DemoService{}); err != nil {
 		panic(err)
 	}
 

@@ -26,7 +26,7 @@ func NewArrayQueue(n int) *ArrayQueue {
 	}
 }
 
-func (aq *ArrayQueue) enqueue(item string) bool {
+func (aq *ArrayQueue) Enqueue(item string) bool {
 	if (aq.tail+1)%aq.n == aq.head {
 		return false
 	}
@@ -35,10 +35,57 @@ func (aq *ArrayQueue) enqueue(item string) bool {
 	return true
 }
 
-func (aq *ArrayQueue) dequeue() string {
+func (aq *ArrayQueue) Dequeue() string {
 	if aq.head == aq.tail {
 		return ""
 	}
 	aq.head = (aq.head + 1) % aq.n
 	return aq.items[aq.tail]
+}
+
+type ListNode struct {
+	Next  *ListNode
+	Value string
+}
+
+type ListQueue struct {
+	head *ListNode
+	tail *ListNode
+}
+
+func NewListQueue() *ListQueue {
+	return &ListQueue{
+		head: nil,
+		tail: nil,
+	}
+}
+
+func (lq *ListQueue) Enqueue(value string) {
+	newNode := &ListNode{Value: value}
+
+	// 处理空链表
+	if lq.tail == nil {
+		lq.head = newNode
+		lq.tail = newNode
+	} else {
+		// 更新 tail 指针
+		lq.tail.Next = newNode
+		lq.tail = newNode
+	}
+}
+
+func (lq *ListQueue) Dequeue() string {
+	if lq.head == nil {
+		return ""
+	}
+
+	rt := lq.head.Value
+	lq.head = lq.head.Next
+
+	// 处理队列只有一个值
+	if lq.head == nil {
+		lq.tail = nil
+	}
+	return rt
+
 }

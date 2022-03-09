@@ -39,5 +39,6 @@ func (aq *ArrayQueue) dequeue() string {
 	if aq.head == aq.tail {
 		return ""
 	}
+	aq.head = (aq.head + 1) % aq.n
 	return aq.items[aq.tail]
 }

@@ -2,8 +2,7 @@ package parser
 
 import (
 	"regexp"
-
-	"study/pkg/crawler/engine"
+	"study/internal/crawler/engine"
 )
 
 var (

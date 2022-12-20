@@ -2,8 +2,7 @@ package parser
 
 import (
 	"regexp"
-
-	"study/pkg/crawler/engine"
+	"study/internal/crawler/engine"
 )
 
 var cityListRe = regexp.MustCompile(`<a href="(https://www.zhenai.com/zhenhun/[0-9a-z]+)"[^>]*>([^<]+)</a>`)

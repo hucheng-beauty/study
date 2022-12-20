@@ -1,7 +1,6 @@
 package main
 
 import (
-	"log"
 	"sync"
 )
 
@@ -22,10 +21,21 @@ func NewCounter() *Counter {
 }
 
 func main() {
-	c := NewCounter()
-	log.Printf("before, counter:%d\n", c.c)
+	//c := NewCounter()
+	//log.Printf("before, counter:%d\n", c.c)
+	//for i := 0; i < 10; i++ {
+	//	go c.Increase()
+	//}
+	//
+	//time.Sleep(100 * time.Millisecond)
+	//log.Printf("after, counter:%d\n", c.c)
+
+	// data race
+	number := 0
 	for i := 0; i < 10; i++ {
-		c.Increase()
+		go func() {
+			number++
+		}()
 	}
-	log.Printf("after, counter:%d\n", c.c)
+
 }

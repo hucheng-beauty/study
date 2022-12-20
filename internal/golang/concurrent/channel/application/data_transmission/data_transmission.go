@@ -7,21 +7,26 @@ import (
 
 type Token struct{}
 
-func newWorker(id int, ch chan Token, nextCh chan Token) {
-	for {
-		token := <-ch       // 取得令牌
-		fmt.Println(id + 1) // id 从 1 开始
-		time.Sleep(time.Second)
-		nextCh <- token
-	}
-}
-
 func main() {
-	chs := []chan Token{make(chan Token), make(chan Token), make(chan Token), make(chan Token)}
+	chs := []chan Token{
+		make(chan Token),
+		make(chan Token),
+		make(chan Token),
+		make(chan Token),
+	}
+	/*
+		go chs[0] ==> go chs[1] ==> go chs[2] ==> go chs[3] ==> go chs[0]
+	*/
 
-	// 创建4个worker
 	for i := 0; i < 4; i++ {
-		go newWorker(i, chs[i], chs[(i+1)%4])
+		go func(id int) {
+			for {
+				token := <-chs[id]
+				fmt.Println(id + 1)
+				time.Sleep(100 * time.Millisecond)
+				chs[(id+1)%4] <- token
+			}
+		}(i)
 	}
 
 	//首先把令牌交给第一个worker

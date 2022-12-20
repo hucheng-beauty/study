@@ -7,11 +7,11 @@ import "fmt"
 		策略模式: 作为一种软件设计模式,指对象有某个行为,但是在不同的场景中,该行为有不同的实现算法
 		eg. 个人所得税:	美国个税与中国个税有着不同的算法
 
-					 依赖 				    实现
-	context上下文类  ==========>  抽象策略类 =========> 具体的策略1
-													  具体的策略2
-					  调用
-	context上下文类 ==========>	具体的策略
+			       依赖 		    实现
+	LoggerManager  ==>  Logger  ==>  DB
+
+			       调用
+	LoggerManager  ==>  File/DB
 
 	优点:
 		完美支持"开闭原则"
@@ -27,26 +27,47 @@ import "fmt"
 		多个类区别仅在于他们的行为或算法不同的场景
 */
 
-// Context 实现一个 context 上下文类
-type Context struct {
-	Strategy
+// LoggerManager 实现一个日志记录器(相当于Context)
+type LoggerManager struct {
+	Logger
 }
 
-// Strategy 抽象的策略
-type Strategy interface {
-	Do()
+func NewLoggerManager(logger Logger) *LoggerManager {
+	return &LoggerManager{Logger: logger}
 }
 
-// Strategy1 实现具体的策略: 策略1
-type Strategy1 struct{}
-
-func (s *Strategy1) Do() {
-	fmt.Println("Strategy1")
+// Logger 抽象的日志
+type Logger interface {
+	Info()
+	Error()
 }
 
-// Strategy2 实现具体的策略: 策略2
-type Strategy2 struct{}
+// FileLog 实现具体的日志: 文件方式记录日志
+type FileLog struct{}
 
-func (s *Strategy2) Do() {
-	fmt.Println("Strategy2")
+func NewFileLog() *FileLog {
+	return &FileLog{}
+}
+
+func (FileLog) Info() {
+	fmt.Println("FileLog: Info")
+}
+
+func (FileLog) Error() {
+	fmt.Println("FileLog: Error")
+}
+
+// DBLog 实现具体的日志: 数据库方式记录日志
+type DBLog struct{}
+
+func NewDBLog() *DBLog {
+	return &DBLog{}
+}
+
+func (DBLog) Info() {
+	fmt.Println("DBLog: Info")
+}
+
+func (DBLog) Error() {
+	fmt.Println("DBLog: Error")
 }

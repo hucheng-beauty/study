@@ -11,12 +11,12 @@ func Abs(x float64) float64 {
 	return math.Abs(x)
 }
 
-// Max returns the larger of x or y.
+// Max returns the largest of x or y.
 func Max(x, y float64) float64 {
 	return math.Max(x, y)
 }
 
-// Min returns the smaller of x or y.
+// Min returns the smallest of x or y.
 func Min(x, y float64) float64 {
 	return math.Min(x, y)
 }

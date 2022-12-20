@@ -1,6 +1,4 @@
-package main
-
-import "fmt"
+package sort
 
 // BubbleSort 时间复杂度:最好 O(n)、最坏 O(n^2)、平均 O(n^2); 空间复杂度:O(1); 原地性:是; 稳定性: 是
 // 思路: 比较当前值与下一个值,大的往后移动,一趟冒泡后,至少有一个是拍好序的
@@ -126,12 +124,4 @@ func QuickSort(arr []int, left, right int) {
 	arr[left], arr[j] = arr[j], arr[left]
 	QuickSort(arr, left, j)
 	QuickSort(arr, j+1, right)
-}
-
-func main() {
-	//arr := []int{4, 5, 1, 2, 6, 3}
-	arr := []int{5, 6, 1, 2, 3, 4}
-	fmt.Println(arr)
-	QuickSort(arr, 0, len(arr))
-	fmt.Println(arr)
 }

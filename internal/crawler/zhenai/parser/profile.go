@@ -4,9 +4,8 @@ import (
 	"log"
 	"regexp"
 	"strconv"
-
-	"study/pkg/crawler/engine"
-	"study/pkg/crawler/model"
+	"study/internal/crawler/engine"
+	"study/internal/crawler/model"
 )
 
 var (

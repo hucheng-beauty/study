@@ -30,9 +30,10 @@ func msgGenerate(name string, done chan struct{}) chan string {
 		i := 0
 		for {
 			select {
+			// 超时业务处理
 			case <-time.After(time.Duration(rand.Intn(5000)) * time.Millisecond):
 				out <- fmt.Sprintf("service: %s; message: %d", name, i)
-			case <-done:
+			case <-done: // 退出清理
 				fmt.Println("cleaning up")
 				time.Sleep(2 * time.Second)
 				fmt.Println("clean done")
@@ -48,33 +49,39 @@ func msgGenerate(name string, done chan struct{}) chan string {
 func fanInNew(chs ...chan string) chan string {
 	out := make(chan string)
 
+	// 从 chs 读取的四种方式
 	// first
-	/*for _, ch := range chs {
-		go func() {
-			for {
-				out <- <-ch
-			}
-		}()
-	}*/
+	/*
+		for _, ch := range chs {
+			go func() {
+				for {
+					out <- <-ch
+				}
+			}()
+	*/
 
 	// second
-	for _, ch := range chs {
-		chCopy := ch
-		go func() {
-			for {
-				out <- <-chCopy
-			}
-		}()
-	}
+	/*
+		for _, ch := range chs {
+			chCopy := ch
+			go func() {
+				for {
+					out <- <-chCopy
+				}
+			}()
+		}
+	*/
 
 	// third
-	for _, ch := range chs {
-		go func(in chan string) {
-			for {
-				out <- <-in
-			}
-		}(ch)
-	}
+	/*
+		for _, ch := range chs {
+			go func(in chan string) {
+				for {
+					out <- <-in
+				}
+			}(ch)
+		}
+	*/
 
 	// fourth
 	/*for i := 0; i < len(chs); i++ {

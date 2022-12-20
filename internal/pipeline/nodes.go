@@ -64,7 +64,7 @@ func InMemorySort(in <-chan int) <-chan int {
 	return out
 }
 
-// Merge merge in1 in2 and put into <-chan
+// Merge in1 in2 and put into <-chan
 func Merge(in1, in2 <-chan int) <-chan int {
 	out := make(chan int)
 	go func() {

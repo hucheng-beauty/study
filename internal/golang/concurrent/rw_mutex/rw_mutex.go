@@ -1,51 +1,48 @@
 package main
 
 import (
+	"errors"
 	"fmt"
-	"log"
 	"sync"
 )
 
-var secureMapObject *secureMap = NewSecureMap()
+var secureMapObject = &secureMap{
+	RWMutex: sync.RWMutex{},
+	m:       make(map[string]int),
+}
 
 type secureMap struct {
-	mutex sync.RWMutex
-	m     map[string]int
+	sync.RWMutex
+	m map[string]int
 }
 
-func (m *secureMap) Get(key string) (int, bool) {
+func (m *secureMap) Get(key string) (int, error) {
 	if len(key) <= 0 {
-		return -1, false
+		return 0, errors.New("key invalid")
 	}
 
-	m.mutex.RLock()
-	defer m.mutex.RUnlock()
-	value, ok := m.m[key]
-	return value, ok
+	m.RLock()
+	defer m.RUnlock()
+	if value, ok := m.m[key]; ok {
+		return value, nil
+	}
+	return 0, nil
 }
 
-func (m *secureMap) Set(key string, value int) bool {
+func (m *secureMap) Set(key string, value int) (bool, error) {
 	if len(key) <= 0 {
-		log.Println("key invalid")
-		return false
+		return false, errors.New("key invalid")
 	}
 
 	_, isExist := m.m[key]
 	if isExist {
-		log.Printf("key is exist,key: %s\n", key)
+		return false, errors.New("key is exist")
 	}
 
-	m.mutex.Lock()
+	m.Lock()
 	m.m[key] = value
-	m.mutex.Unlock()
-	return true
-}
-
-func NewSecureMap() *secureMap {
-	return &secureMap{
-		mutex: sync.RWMutex{},
-		m:     make(map[string]int),
-	}
+	m.Unlock()
+	return true, nil
 }
 
 func main() {

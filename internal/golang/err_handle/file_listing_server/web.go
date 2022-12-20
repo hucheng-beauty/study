@@ -9,6 +9,7 @@ import (
 )
 
 /*
+
 	统一的错误处理逻辑
 */
 
@@ -49,6 +50,7 @@ func HandleFileList(writer http.ResponseWriter, request *http.Request) error {
 
 type appHandler func(writer http.ResponseWriter, request *http.Request) error
 
+// 函数式编程的应用: errWrapper
 func errWrapper(handler appHandler) func(http.ResponseWriter, *http.Request) {
 	return func(writer http.ResponseWriter, request *http.Request) {
 		defer func() {

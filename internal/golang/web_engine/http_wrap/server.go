@@ -19,10 +19,9 @@ func (s *sdkHttpServer) Route(method string, pattern string, handleFunc handleFu
 }
 
 func (s *sdkHttpServer) Start(address string) error {
-	http.HandleFunc("/",
-		func(writer http.ResponseWriter, request *http.Request) {
-			s.root(NewContext(writer, request))
-		})
+	http.HandleFunc("/", func(writer http.ResponseWriter, request *http.Request) {
+		s.root(NewContext(writer, request))
+	})
 	return http.ListenAndServe(address, nil)
 }
 

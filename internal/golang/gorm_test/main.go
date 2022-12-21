@@ -51,7 +51,7 @@ func main() {
 
 	// Update - 将 product 的 price 更新为 200
 	db.Model(&product).Update("Price", 200)
-	// Update - 更新多个字段
+	// U
 	db.Model(&product).Updates(Product{Price: 200, Code: "F42"}) // 仅更新非零值字段
 	db.Model(&product).Updates(map[string]interface{}{"Price": 200, "Code": "F42"})
 

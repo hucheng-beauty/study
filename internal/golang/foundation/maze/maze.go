@@ -109,7 +109,7 @@ func (p point) add(r point) point {
 	return point{p.i + r.i, p.j + r.j}
 }
 
-// Judge whether or not have value about the point.
+// Judge have or not have value about the point.
 func (p point) at(grid [][]int) (int, bool) {
 	// verify params
 	if p.i < 0 || p.i >= len(grid) {

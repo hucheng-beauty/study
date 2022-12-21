@@ -18,10 +18,10 @@ func main() {
 	flag.StringP("version", "v", "v0.3.9", "this is app version!")
 
 	// 支持长选项、默认值和使用文本，并将标志的值绑定到变量。
-	flag.StringVar(&name, "nam", "hello", "this si string about name!")
+	flag.StringVar(&name, "name", "hello", "this is string about name!")
 
 	// 支持长选项、短选项、默认值和使用文本，并将标志的值绑定到变量。
-	flag.StringVarP(&name, "nam", "n", "hello", "this si string about name!")
+	flag.StringVarP(&name, "name", "n", "hello", "this is string about name!")
 
 	/*
 		// 使用Get获取参数的值。

@@ -6,7 +6,7 @@ import (
 
 /*
 	slice:
-		对数组的一种抽象,可以自动扩容(小于1024,2 倍扩容;大于 1024,1。5倍扩容,同时进行内存对齐)
+		对数组的一种抽象,可以自动扩容(小于1024,2 倍扩容;大于 1024,1.5倍扩容,同时进行内存对齐)
 	注意事项:
 		俩个切片会相互影响
 		当 append 元素时,发生扩容时,对原数组不产生影响
@@ -14,12 +14,12 @@ import (
 */
 
 /*
-// src/runtime/slice.go
-type slice struct {
-	array unsafe.Pointer // 指向数组的指针
-	len   int            // 长度
-	cap   int            // 容量
-}
+	// src/runtime/slice.go
+	type slice struct {
+		array unsafe.Pointer // 指向数组的指针
+		len   int            // 长度
+		cap   int            // 容量
+	}
 */
 
 func sliceTest() {

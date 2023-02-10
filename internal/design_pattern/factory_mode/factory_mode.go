@@ -38,3 +38,14 @@ package factory_mode
 			工厂方法是抽象工厂的一种特例;抽象工厂是采用降维的思想来解决复杂问题
 
 */
+
+// Cache 抽象的产品
+type Cache interface {
+    Set(key, value string)
+    Get(key string) string
+}
+
+// CacheFactory 抽象产品的工厂
+type CacheFactory interface {
+    Create() (Cache, error)
+}

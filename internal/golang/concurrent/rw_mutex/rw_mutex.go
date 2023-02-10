@@ -6,17 +6,17 @@ import (
 	"sync"
 )
 
-var secureMapObject = &secureMap{
+var secureMap = &sMap{
 	RWMutex: sync.RWMutex{},
 	m:       make(map[string]int),
 }
 
-type secureMap struct {
+type sMap struct {
 	sync.RWMutex
 	m map[string]int
 }
 
-func (m *secureMap) Get(key string) (int, error) {
+func (m *sMap) Get(key string) (int, error) {
 	if len(key) <= 0 {
 		return 0, errors.New("key invalid")
 	}
@@ -29,7 +29,7 @@ func (m *secureMap) Get(key string) (int, error) {
 	return 0, nil
 }
 
-func (m *secureMap) Set(key string, value int) (bool, error) {
+func (m *sMap) Set(key string, value int) (bool, error) {
 	if len(key) <= 0 {
 		return false, errors.New("key invalid")
 	}
@@ -46,14 +46,12 @@ func (m *secureMap) Set(key string, value int) (bool, error) {
 }
 
 func main() {
-	t := map[string]int{
+	for k, v := range map[string]int{
 		"a": 97,
 		"b": 98,
 		"c": 99,
-	}
-
-	for k, v := range t {
-		secureMapObject.Set(k, v)
+	} {
+		_, _ = secureMap.Set(k, v)
 	}
 	fmt.Println("end")
 }

@@ -10,11 +10,9 @@ import (
 )
 
 func main() {
-	// p := createPipeline("large.in", 800*1000*100, 4)
-	// writeToFile(p, "large.out")
-	// printFile("large.out")
-
-	p := createNetworkPipeline("large.in", 800*1000*1000, 4)
+	const filename = "large.in"
+	const fileSize = 800 * 1000 * 1000
+	p := createNetworkPipeline(filename, fileSize, 4)
 	writeToFile(p, "large.out")
 	printFile("large.out")
 }

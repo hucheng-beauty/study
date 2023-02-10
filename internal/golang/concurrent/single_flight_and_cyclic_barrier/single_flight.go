@@ -17,7 +17,7 @@ import (
 type H2O struct {
 	semaH *semaphore.Weighted
 	semaO *semaphore.Weighted
-	wg    sync.WaitGroup //将循环栅栏替换成WaitGroup
+	wg    sync.WaitGroup // 将循环栅栏替换成WaitGroup
 }
 
 func New() *H2O {
@@ -49,7 +49,7 @@ func (h2o *H2O) oxygen(releaseOxygen func()) {
 	// 标记自己已达到，等待其它goroutine到达
 	h2o.wg.Done()
 	h2o.wg.Wait()
-	//都到达后重置wg
+	// 都到达后重置 wg
 	h2o.wg.Add(3)
 
 	h2o.semaO.Release(1)

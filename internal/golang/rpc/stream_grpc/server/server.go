@@ -3,9 +3,10 @@ package main
 import (
 	"fmt"
 	"net"
-	"study/internal/golang/rpc/stream_grpc/proto"
 	"sync"
 	"time"
+
+	"study/internal/golang/rpc/stream_grpc/proto"
 
 	"google.golang.org/grpc"
 )
@@ -50,7 +51,7 @@ func (s *server) AllStream(allStream proto.Greeter_AllStreamServer) error {
 
 	go func() {
 		// send
-		for true {
+		for {
 			_ = allStream.Send(&proto.StreamRespData{Data: "hello client"})
 			time.Sleep(time.Millisecond * 100)
 		}

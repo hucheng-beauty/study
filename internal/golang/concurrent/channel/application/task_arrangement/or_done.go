@@ -4,12 +4,13 @@ import "reflect"
 
 // channel 的任务编排模式
 
-// Or-Done 模式
-// 我们会使用“信号通知”实现某个任务执行完成后的通知机制，
-// 在实现时，我们为这个任务定义一个类型为 chan struct{}类型的 done 变量，
-// 等任务结束后，我们就可以 close 这个变量，然后，其它 receiver 就会收到这个通知。
-// 这是有一个任务的情况，如果有多个任务，只要有任意一个任务执行完，我们就想获得这个信号，
-// 这就是 Or-Done 模式。
+/*
+	Or-Done 模式
+	我们会使用“信号通知”实现某个任务执行完成后的通知机制,
+	在实现时,我们为这个任务定义一个类型为 chan struct{}类型的 done 变量,
+	等任务结束后，我们就可以 close 这个变量,然后，其它 receiver 就会收到这个通知;
+	这是有一个任务的情况,如果有多个任务,只要有任意一个任务执行完,我们就想获得这个信号
+*/
 // 递归实现等待信号
 func orRecursion(channels ...<-chan interface{}) <-chan interface{} {
 	// 特殊情况，只有零个或者1个chan
@@ -44,7 +45,7 @@ func orRecursion(channels ...<-chan interface{}) <-chan interface{} {
 
 // 反射实现等待信号
 func orReflect(channels ...<-chan interface{}) <-chan interface{} {
-	//特殊情况，只有0个或者1个
+	// 特殊情况，只有0个或者1个
 	switch len(channels) {
 	case 0:
 		return nil

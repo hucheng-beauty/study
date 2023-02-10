@@ -5,12 +5,12 @@ import (
 	"time"
 )
 
-// Mutex 使用chan实现互斥锁
+// Mutex 使用 chan 实现互斥锁
 type Mutex struct {
 	ch chan struct{}
 }
 
-// Lock 请求锁，直到获取到
+// Lock 请求锁,直到获取到
 func (m *Mutex) Lock() {
 	<-m.ch
 }
@@ -51,17 +51,19 @@ func (m *Mutex) IsLocked() bool {
 	return len(m.ch) == 0
 }
 
-// NewMutex 使用锁需要初始化
-func NewMutex() *Mutex {
+// New 使用锁需要初始化
+func New() *Mutex {
 	mu := &Mutex{make(chan struct{}, 1)}
 	mu.ch <- struct{}{}
 	return mu
 }
 
 func main() {
-	m := NewMutex()
-	ok := m.TryLock()
+	mutex := New()
+
+	ok := mutex.TryLock()
 	fmt.Printf("locked v %v\n", ok)
-	ok = m.TryLock()
+
+	ok = mutex.TryLock()
 	fmt.Printf("locked %v\n", ok)
 }

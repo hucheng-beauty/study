@@ -1,0 +1,11 @@
+name: admin_api
+host: 0.0.0.0
+port: 8088
+postgres_info:
+  endpoint: 192.168.0.11
+  port: 5432
+  username: postgres
+  password: HO8BftCZ6veZoQAU
+  database: example
+jwt:
+  key: 9&!B1gycDA0IulqRC&kE

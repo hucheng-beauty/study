@@ -24,9 +24,9 @@ func (r *Retriever) Get(url string) string {
 	}
 	return string(out)
 
-	//out, err := ioutil.ReadAll(resp.Body)
-	//if err != nil {
+	// out, err := ioutil.ReadAll(resp.Body)
+	// if err != nil {
 	//	panic(err)
-	//}
-	//return string(out)
+	// }
+	// return string(out)
 }

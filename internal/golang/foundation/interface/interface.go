@@ -60,7 +60,7 @@ func inspect(r Retriever) {
 
 func main() {
 	var r Retriever
-	r = mock2.Retriever{"This is a fake website."}
+	r = mock2.Retriever{Content: "This is a fake website."}
 	r = &real2.Retriever{
 		UserAgent: "Mozilla/5.0",
 		TimeOut:   time.Minute,

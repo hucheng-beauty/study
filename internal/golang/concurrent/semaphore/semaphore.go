@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	maxWorkers := runtime.GOMAXPROCS(0)              // worker 数量
+	maxWorkers := runtime.GOMAXPROCS(1)              // worker 数量
 	sema := semaphore.NewWeighted(int64(maxWorkers)) // 信号量
 	task := make([]int, maxWorkers*4)                // 任务数，是worker的四倍
 

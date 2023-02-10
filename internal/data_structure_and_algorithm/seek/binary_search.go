@@ -6,7 +6,7 @@ func BinarySearch(arr []int, target int) int {
 	high := len(arr) - 1
 
 	for low <= high {
-		//mid := (low + high) / 2
+		// mid := (low + high) / 2
 		mid := (high-low)/2 + low
 		if arr[mid] == target {
 			return mid

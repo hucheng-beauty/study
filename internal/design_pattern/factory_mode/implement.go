@@ -56,7 +56,7 @@ func SelectCache(cacheType string) Cache {
 }
 
 // NewCache 适合对象中有字段
-func CreateCache(cacheType string) (Cache, error) {
+func NewCache(cacheType string) (Cache, error) {
 	switch cacheType {
 	case "Redis":
 		return NewRedis(), nil
@@ -69,20 +69,20 @@ func CreateCache(cacheType string) (Cache, error) {
 
 type RedisFactory struct{}
 
-func (rf *RedisFactory) Create() (Cache, error) {
-	return NewRedis(), nil
-}
-
 func NewRedisFactory() *RedisFactory {
 	return &RedisFactory{}
 }
 
-type MemoryFactory struct{}
-
-func (mf *MemoryFactory) Create() (Cache, error) {
-	return NewMemory(), nil
+func (r *RedisFactory) Create() (Cache, error) {
+	return NewRedis(), nil
 }
+
+type MemoryFactory struct{}
 
 func NewMemoryFactory() *MemoryFactory {
 	return &MemoryFactory{}
+}
+
+func (m *MemoryFactory) Create() (Cache, error) {
+	return NewMemory(), nil
 }

@@ -1,8 +1,6 @@
 package task_arrangement
 
-// 把 Channel 当作流式管道使用的方式，
-// 也就是把 Channel 看作流（Stream），
-// 提供跳过几个元素，或者是只取其中的几个元素等方法。
+// 把 Channel 当作流式管道使用的方式,也就是把 Channel 看作流(Stream),提供跳过几个元素,或者是只取其中的几个元素等方法
 func asStream(done <-chan struct{}, values ...interface{}) <-chan interface{} {
 	out := make(chan interface{}) // 创建一个 unbuffered 的 channel
 	go func() {
@@ -21,7 +19,7 @@ func asStream(done <-chan struct{}, values ...interface{}) <-chan interface{} {
 }
 
 func takeN(done <-chan struct{}, inStream <-chan interface{}, num int) <-chan interface{} {
-	outStream := make(chan interface{}) // 创建输出流
+	outStream := make(chan interface{})
 	go func() {
 		defer close(outStream)
 
@@ -29,7 +27,7 @@ func takeN(done <-chan struct{}, inStream <-chan interface{}, num int) <-chan in
 			select {
 			case <-done:
 				return
-			case outStream <- <-inStream: //从输入流中读取元素
+			case outStream <- <-inStream: // 从输入流中读取元素
 			}
 		}
 	}()

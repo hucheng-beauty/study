@@ -40,7 +40,7 @@ func ReadFile(path string) ([]byte, error) {
 	}
 	defer file.Close()
 
-	return []byte("返回的流数据"), nil
+	return []byte("response stream data"), nil
 }
 
 func ReadConfig() ([]byte, error) {
@@ -52,11 +52,10 @@ func ReadConfig() ([]byte, error) {
 }
 
 func main() {
-	//writeFile("test.txt")
 	_, err := ReadConfig()
 	if err != nil {
-		fmt.Printf("original error : %T %v\n", errors.Cause(err), errors.Cause(err))
-		fmt.Printf("stack trace:\n%+v\n", err)
+		fmt.Printf("original error: %T\n", errors.Cause(err))
+		fmt.Printf("stack trace: %+v\n", err)
 		os.Exit(1)
 	}
 }

@@ -37,7 +37,7 @@ func (root *Node) Insert(data int) {
 }
 
 func insert(root *Node, data int) {
-	//preHandle(root, data)
+	// preHandle(root, data)
 
 	if root == nil {
 		root = &Node{Data: data}
@@ -193,4 +193,23 @@ func postOrder(root *Node) {
 
 func (root *Node) PostOrder() {
 	postOrder(root)
+}
+
+func inorderTraversal(root *Node) []int {
+	var result []int
+	stack := make([]*Node, 0)
+	curr := root
+	for curr != nil || len(stack) > 0 {
+		// 将当前节点的所有左子节点入栈
+		for curr != nil {
+			stack = append(stack, curr)
+			curr = curr.Left
+		}
+		// 取出栈顶元素，并将当前节点指向其右子节点
+		curr = stack[len(stack)-1]
+		stack = stack[:len(stack)-1]
+		result = append(result, curr.Data)
+		curr = curr.Right
+	}
+	return result
 }

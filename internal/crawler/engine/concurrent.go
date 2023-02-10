@@ -13,7 +13,7 @@ type Scheduler interface {
 	Run()
 }
 
-// ConcurrentEngine :concurrent version engine.
+// ConcurrentEngine concurrent version engine.
 type ConcurrentEngine struct {
 	Scheduler        Scheduler
 	WorkerCount      int

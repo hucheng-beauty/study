@@ -2,12 +2,15 @@ package task_arrangement
 
 import "reflect"
 
-// 扇入模式
-// 在软件工程中，模块的扇入是指有多少个上级模块调用它。
-// 而对于这里的扇入模式来说，就是指有多个源 Channel 输入、一个目的 Channel 输出的情况。
-// 扇入比就是源 Channel 数量比 1。每个源 Channel 的元素都会发送给目标 Channel，
-// 相当于目标 Channel 的 receiver 只需要监听目标 Channel，就可以接收所有发送给源 Channel 的数据
+/*
+	扇入模式
+	在软件工程中，模块的扇入是指有多少个上级模块调用它。
+	而对于这里的扇入模式来说，就是指有多个源 Channel 输入、一个目的 Channel 输出的情况。
+	扇入比就是源 Channel 数量比 1。每个源 Channel 的元素都会发送给目标 Channel，
+	相当于目标 Channel 的 receiver 只需要监听目标 Channel，就可以接收所有发送给源 Channel 的数据
+*/
 
+// fanInReflect
 func fanInReflect(chs ...chan interface{}) chan interface{} {
 	out := make(chan interface{})
 	go func() {
@@ -55,7 +58,7 @@ func merge(a, b <-chan interface{}) <-chan interface{} {
 	go func() {
 		defer close(out)
 
-		for a != nil || b != nil { //只要还有可读的 chan
+		for a != nil || b != nil { // 只要还有可读的 chan
 			select {
 			case v, ok := <-a:
 				if !ok { // a 已关闭，设置为 nil
@@ -75,23 +78,20 @@ func merge(a, b <-chan interface{}) <-chan interface{} {
 	return out
 }
 
-// 适用 channel 数量未知
-func fanInByGoroutine(c1, c2 chan string) chan string {
+// fanInByGoroutine 适用 channel 数量未知
+func fanInByGoroutine(chs ...chan string) chan string {
 	out := make(chan string)
-	go func() {
-		for {
-			out <- <-c1
-		}
-	}()
-	go func() {
-		for {
-			out <- <-c2
-		}
-	}()
+	for i := 0; i < len(chs); i++ {
+		go func(ii int) {
+			for {
+				out <- <-chs[ii]
+			}
+		}(i)
+	}
 	return out
 }
 
-// 适用 channel 数量已知
+// fanInBySelect 适用 channel 数量已知
 func fanInBySelect(c1, c2 chan string) chan string {
 	out := make(chan string)
 	go func() {

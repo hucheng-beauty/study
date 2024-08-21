@@ -59,7 +59,7 @@ func (e *Engine) Run(seeds ...Request) {
         e.Scheduler.Submit(r)
     }
 
-    // deal with result and continue submitting request
+    // deal with results and continue submitting request
     for {
         result := <-out
 
@@ -68,7 +68,7 @@ func (e *Engine) Run(seeds ...Request) {
             go func(i Item) { e.ItemChan <- i }(item)
         }
 
-        // deal with result
+        // deal with results
         for _, request := range result.Requests {
             if !isDuplicate(request.Url) {
                 log.Printf("repeated url: %v", request.Url)

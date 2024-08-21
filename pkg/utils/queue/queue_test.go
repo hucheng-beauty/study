@@ -51,7 +51,7 @@ func (s *StoreKafka) handle(jobs []interface{}) {
 		messages[i] = &message
 	}
 
-	// send message to kafka
+	// send a message to kafka
 	log.Println(messages)
 }
 

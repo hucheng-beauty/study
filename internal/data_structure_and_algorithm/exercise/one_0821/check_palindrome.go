@@ -19,26 +19,26 @@ package one_0821
 */
 
 func isPalindrome1(str string, left, right int) bool {
-    for left < right {
-        if str[left] != str[right] {
-            return false
-        }
-        left++
-        right--
-    }
-    return true
+	for left < right {
+		if str[left] != str[right] {
+			return false
+		}
+		left++
+		right--
+	}
+	return true
 }
 
 func checkPalindrome(str string) bool {
-    left, right := 0, len(str)-1
-    for left < right {
-        if str[left] != str[right] {
-            // 判断是否为回文
-            return isPalindrome1(str, left+1, right) ||
-                    isPalindrome1(str, left, right-1)
-        }
-        left++
-        right--
-    }
-    return true
+	left, right := 0, len(str)-1
+	for left < right {
+		if str[left] != str[right] {
+			// 判断是否为回文
+			return isPalindrome1(str, left+1, right) ||
+				isPalindrome1(str, left, right-1)
+		}
+		left++
+		right--
+	}
+	return true
 }

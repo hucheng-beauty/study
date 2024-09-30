@@ -1,32 +1,32 @@
 package builder_mode
 
 type Option struct {
-    Port     int
-    Protocol string
+	Port     int
+	Protocol string
 }
 
 type Server struct {
-    Option
+	Option
 }
 
 type ServerBuilder struct {
-    option Option
+	option Option
 }
 
 func (b *ServerBuilder) WithPort(port int) *ServerBuilder {
-    b.option.Port = port
-    return b
+	b.option.Port = port
+	return b
 }
 
 func (b *ServerBuilder) WithProtocol(protocol string) *ServerBuilder {
-    b.option.Protocol = protocol
-    return b
+	b.option.Protocol = protocol
+	return b
 }
 
 func (b *ServerBuilder) Build() *Server {
-    return &Server{b.option}
+	return &Server{b.option}
 }
 
 func NewServerBuilder() *ServerBuilder {
-    return &ServerBuilder{}
+	return &ServerBuilder{}
 }

@@ -18,17 +18,17 @@ package fourth_0914
 // 2 3 4 5 6 7 8
 
 func CountMoney(n int) int {
-    weeks := n / 7
-    days := n % 7
-    total := 0
+	weeks := n / 7
+	days := n % 7
+	total := 0
 
-    for i := 0; i < weeks; i++ {
-        total += (i * 7) + 28
-    }
+	for i := 0; i < weeks; i++ {
+		total += (i * 7) + 28
+	}
 
-    for i := 0; i < days; i++ {
-        total += weeks + 1 + i
-    }
+	for i := 0; i < days; i++ {
+		total += weeks + 1 + i
+	}
 
-    return total
+	return total
 }

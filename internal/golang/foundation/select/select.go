@@ -14,10 +14,11 @@ import (
 */
 
 /*
-	传统的同步模型
-		WaitGroup
-		Mutex
-		Cond
+传统的同步模型
+
+	WaitGroup
+	Mutex
+	Cond
 */
 func generator() chan int {
 	out := make(chan int)

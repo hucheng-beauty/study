@@ -1,10 +1,10 @@
 package exercise
 
 import (
-    "testing"
+	"testing"
 )
 
 func TestPrintChar(t *testing.T) {
-    printCharArrayConcurrent()
-    // printCharArrayConcurrentSecond()
+	printCharArrayConcurrent()
+	// printCharArrayConcurrentSecond()
 }

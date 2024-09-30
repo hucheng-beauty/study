@@ -33,6 +33,7 @@ func (ni nodeInserter) Visit(node ast.Node) ast.Visitor {
 	switch stmt := node.(type) {
 	case *ast.ImportSpec:
 		fmt.Println(stmt.Path.Value)
+
 	case *ast.FuncDecl:
 		stmt.Body.List = append(stmt.Body.List, &ast.AssignStmt{
 			Lhs: []ast.Expr{
@@ -88,15 +89,14 @@ func (ni nodeInserter) Visit(node ast.Node) ast.Visitor {
 }
 
 func main() {
-	src := `
+	str := `
 	package main
-	
 	func main() {
 		fmt.Println("hello world!")
 	}`
 
 	fset := token.NewFileSet()
-	file, err := parser.ParseFile(fset, "", src, 0)
+	file, err := parser.ParseFile(fset, "", str, 0)
 	if err != nil {
 		log.Fatal(err)
 	}

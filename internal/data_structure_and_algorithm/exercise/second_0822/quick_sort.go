@@ -8,21 +8,21 @@ package second_0822
 // r 4
 
 func QuickSort(arr []int) []int {
-    if len(arr) < 2 {
-        return arr
-    }
+	if len(arr) < 2 {
+		return arr
+	}
 
-    index := arr[0]
-    var l, g []int
-    for _, v := range arr[1:] {
-        if v <= index {
-            l = append(l, v)
-        } else {
-            g = append(g, v)
-        }
-    }
-    l = QuickSort(l)
-    g = QuickSort(g)
+	index := arr[0]
+	var l, g []int
+	for _, v := range arr[1:] {
+		if v <= index {
+			l = append(l, v)
+		} else {
+			g = append(g, v)
+		}
+	}
+	l = QuickSort(l)
+	g = QuickSort(g)
 
-    return append(append(l, index), g...)
+	return append(append(l, index), g...)
 }

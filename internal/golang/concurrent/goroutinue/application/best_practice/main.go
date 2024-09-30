@@ -1,9 +1,9 @@
 package main
 
 import (
-    "os"
-    "strconv"
-    "time"
+	"os"
+	"strconv"
+	"time"
 )
 
 /*
@@ -27,34 +27,34 @@ import (
 */
 
 var (
-    MaxWorker = os.Getenv("MAX_WORKERS")
-    maxWorker int
+	MaxWorker = os.Getenv("MAX_WORKERS")
+	maxWorker int
 
-    MaxQueue = os.Getenv("MAX_QUEUE")
-    maxQueue int
+	MaxQueue = os.Getenv("MAX_QUEUE")
+	maxQueue int
 )
 
 var JobQueue = make(chan string, maxQueue)
 
 func main() {
-    mw, err := strconv.Atoi(MaxWorker)
-    if err != nil {
-        maxWorker = 10
-    }
-    maxWorker = mw
+	mw, err := strconv.Atoi(MaxWorker)
+	if err != nil {
+		maxWorker = 10
+	}
+	maxWorker = mw
 
-    mq, err := strconv.Atoi(MaxQueue)
-    if err != nil {
-        maxQueue = 10
-    }
-    maxQueue = mq
+	mq, err := strconv.Atoi(MaxQueue)
+	if err != nil {
+		maxQueue = 10
+	}
+	maxQueue = mq
 
-    NewDispatcher(maxWorker).Run()
+	NewDispatcher(maxWorker).Run()
 
-    go func() {
-        for {
-            JobQueue <- "hello"
-        }
-    }()
-    time.Sleep(time.Millisecond)
+	go func() {
+		for {
+			JobQueue <- "hello"
+		}
+	}()
+	time.Sleep(time.Millisecond)
 }

@@ -7,42 +7,42 @@ package backtrack
 */
 
 type Solution struct {
-    result [][]int
+	result [][]int
 }
 
 // Permute 全排列
 func (s *Solution) Permute(nums []int) [][]int {
-    path := []int{}
-    s.backtrack(nums, 0, path)
-    return s.result
+	path := []int{}
+	s.backtrack(nums, 0, path)
+	return s.result
 }
 
 func (s *Solution) backtrack(nums []int /*可选列表,去除掉 path 中的数据*/, k int /*决策阶段*/, path []int /*记录路径*/) {
-    // 结束条件
-    if len(nums) == k {
-        s.result = append(s.result, append([]int{}, path...))
-        return
-    }
+	// 结束条件
+	if len(nums) == k {
+		s.result = append(s.result, append([]int{}, path...))
+		return
+	}
 
-    for i := 0; i < len(nums); i++ {
-        if s.isExist(nums[i], path) {
-            continue
-        }
-        // 做选择
-        path = append(path, nums[i])
-        // 递归
-        s.backtrack(nums, k+1, path)
-        // 撤销选择
-        path = append(path[:len(path)-1], path[len(path)-1+1:]...)
-    }
-    return
+	for i := 0; i < len(nums); i++ {
+		if s.isExist(nums[i], path) {
+			continue
+		}
+		// 做选择
+		path = append(path, nums[i])
+		// 递归
+		s.backtrack(nums, k+1, path)
+		// 撤销选择
+		path = append(path[:len(path)-1], path[len(path)-1+1:]...)
+	}
+	return
 }
 
 func (s *Solution) isExist(key int, path []int) bool {
-    for _, v := range path {
-        if v == key {
-            return true
-        }
-    }
-    return false
+	for _, v := range path {
+		if v == key {
+			return true
+		}
+	}
+	return false
 }

@@ -1,13 +1,13 @@
 package config
 
 const (
-    // service ports
-    ItemSaverPort = 1234
-    WorkerPort0   = 9000
+	// service ports
+	ItemSaverPort = 1234
+	WorkerPort0   = 9000
 
-    ElasticIndex = "dating_profile"
+	ElasticIndex = "dating_profile"
 
-    // RPC Endpoints
-    ItemSaverRpc   = "ItemSaverService.Save"
-    CrawServiceRpc = "CrawlService.Process"
+	// RPC Endpoints
+	ItemSaverRpc   = "ItemSaverService.Save"
+	CrawServiceRpc = "CrawlService.Process"
 )

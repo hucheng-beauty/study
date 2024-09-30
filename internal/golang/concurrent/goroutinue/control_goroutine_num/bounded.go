@@ -1,8 +1,8 @@
 package main
 
 import (
-    "sync"
-    "time"
+	"sync"
+	"time"
 )
 
 /*
@@ -18,21 +18,21 @@ import (
 
 // runBoundedTask 起 maxTaskNum 个协程共同处理任务
 func runBoundedTask(dataSource <-chan int /*数据源*/, maxTaskNum int /*协程数量*/) {
-    var wg sync.WaitGroup
-    wg.Add(maxTaskNum)
+	var wg sync.WaitGroup
+	wg.Add(maxTaskNum)
 
-    for i := 0; i < maxTaskNum; i++ {
-        go func() {
-            defer wg.Add(-1)
+	for i := 0; i < maxTaskNum; i++ {
+		go func() {
+			defer wg.Add(-1)
 
-            for data := range dataSource {
-                func(data int) {
-                    // do something
-                    time.Sleep(3 * time.Second)
-                }(data)
-            }
-        }()
-    }
+			for data := range dataSource {
+				func(data int) {
+					// do something
+					time.Sleep(3 * time.Second)
+				}(data)
+			}
+		}()
+	}
 
-    wg.Wait()
+	wg.Wait()
 }

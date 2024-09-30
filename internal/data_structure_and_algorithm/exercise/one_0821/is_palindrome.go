@@ -1,9 +1,9 @@
-package main
+package one_0821
 
 import (
-    "fmt"
-    "strings"
-    "unicode"
+	"fmt"
+	"strings"
+	"unicode"
 )
 
 /*
@@ -30,26 +30,26 @@ import (
 */
 
 func isPalindrome(str string) bool {
-    dealStr := strings.Builder{}
-    for _, s := range str {
-        // 大写字符转换为小写
-        // 移除所有非字母数字字符
-        if unicode.IsLetter(s) || unicode.IsDigit(s) {
-            dealStr.WriteRune(unicode.ToLower(s))
-        }
-    }
+	dealStr := strings.Builder{}
+	for _, s := range str {
+		// 大写字符转换为小写
+		// 移除所有非字母数字字符
+		if unicode.IsLetter(s) || unicode.IsDigit(s) {
+			dealStr.WriteRune(unicode.ToLower(s))
+		}
+	}
 
-    runes := []rune(dealStr.String())
-    for i := 0; i < len(runes)/2; i++ {
-        if runes[i] != runes[len(runes)-1-i] {
-            return false
-        }
-    }
+	runes := []rune(dealStr.String())
+	for i := 0; i < len(runes)/2; i++ {
+		if runes[i] != runes[len(runes)-1-i] {
+			return false
+		}
+	}
 
-    return true
+	return true
 }
 
 func main() {
-    s := "abc"
-    fmt.Println(s[0])
+	s := "abc"
+	fmt.Println(s[0])
 }

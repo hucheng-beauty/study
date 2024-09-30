@@ -41,7 +41,7 @@ func (h *HandlerBasedMap) key(method string, pattern string) string {
 	return method + "#" + pattern
 }
 
-// 	确保 HandlerBasedMap 一定实现了 Handler 接口
+// 确保 HandlerBasedMap 一定实现了 Handler 接口
 var _ Handler = &HandlerBasedMap{}
 
 func NewHandleBasedMap() Handler {

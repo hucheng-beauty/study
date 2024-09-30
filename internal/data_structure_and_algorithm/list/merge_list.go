@@ -18,59 +18,59 @@ import "fmt"
 */
 
 type Node struct {
-    Val  int
-    Next *Node
+	Val  int
+	Next *Node
 }
 
 func MergeList(l1 *Node, l2 *Node) *Node {
 
-    head := &Node{}
-    index := head
-    for l1 != nil && l2 != nil {
-        if l1.Val < l2.Val {
-            index.Next = l1
-            l1 = l1.Next
-        } else {
-            index.Next = l2
-            l2 = l2.Next
-        }
-        index = index.Next
-    }
-    if l1 != nil {
-        index.Next = l1
-    } else {
-        index.Next = l2
-    }
-    return head
+	head := &Node{}
+	index := head
+	for l1 != nil && l2 != nil {
+		if l1.Val < l2.Val {
+			index.Next = l1
+			l1 = l1.Next
+		} else {
+			index.Next = l2
+			l2 = l2.Next
+		}
+		index = index.Next
+	}
+	if l1 != nil {
+		index.Next = l1
+	} else {
+		index.Next = l2
+	}
+	return head
 }
 
 func TestMergeList() {
-    l1 := &Node{
-        Val: 1,
-        Next: &Node{
-            Val: 2,
-            Next: &Node{
-                Val:  4,
-                Next: nil,
-            },
-        },
-    }
-    l2 := &Node{
-        Val: 1,
-        Next: &Node{
-            Val: 3,
-            Next: &Node{
-                Val:  4,
-                Next: nil,
-            },
-        },
-    }
+	l1 := &Node{
+		Val: 1,
+		Next: &Node{
+			Val: 2,
+			Next: &Node{
+				Val:  4,
+				Next: nil,
+			},
+		},
+	}
+	l2 := &Node{
+		Val: 1,
+		Next: &Node{
+			Val: 3,
+			Next: &Node{
+				Val:  4,
+				Next: nil,
+			},
+		},
+	}
 
-    list := MergeList(l1, l2)
-    index := list
+	list := MergeList(l1, l2)
+	index := list
 
-    for index.Next != nil {
-        fmt.Println(index.Next.Val)
-        index = index.Next
-    }
+	for index.Next != nil {
+		fmt.Println(index.Next.Val)
+		index = index.Next
+	}
 }

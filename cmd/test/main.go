@@ -71,8 +71,8 @@
 package main
 
 import (
-    "fmt"
-    "sync"
+	"fmt"
+	"sync"
 )
 
 // POOL 定义打印范围
@@ -80,37 +80,37 @@ var POOL = 100
 
 // printOdd 函数用于打印奇数
 func printOdd(p chan int, group *sync.WaitGroup) {
-    defer group.Done()
-    // 输出奇数
-    for i := 1; i <= POOL; i++ {
-        // 将 i 发送到通道 p
-        p <- i //
-        if i%2 == 1 {
-            fmt.Println("奇数:", i) //
-        }
-    }
+	defer group.Done()
+	// 输出奇数
+	for i := 1; i <= POOL; i++ {
+		// 将 i 发送到通道 p
+		p <- i //
+		if i%2 == 1 {
+			fmt.Println("奇数:", i) //
+		}
+	}
 }
 
 // printEven 函数用于打印偶数
 func printEven(p chan int, group *sync.WaitGroup) {
-    defer group.Done()
-    for i := 1; i <= POOL; i++ {
-        // 从通道 p 接收数据，并赋值给 num
-        num := <-p
-        // time.Sleep(100 * time.Millisecond)
-        if num%2 == 0 {
-            fmt.Println("偶数:", num)
-        }
-    }
+	defer group.Done()
+	for i := 1; i <= POOL; i++ {
+		// 从通道 p 接收数据，并赋值给 num
+		num := <-p
+		// time.Sleep(100 * time.Millisecond)
+		if num%2 == 0 {
+			fmt.Println("偶数:", num)
+		}
+	}
 }
 
 func main() {
-    // 创建一个无缓冲的整型通道
-    msg := make(chan int, 1)
-    var s sync.WaitGroup
-    s.Add(2)
-    // 启动两个 goroutine
-    go printOdd(msg, &s)
-    go printEven(msg, &s)
-    s.Wait()
+	// 创建一个无缓冲的整型通道
+	msg := make(chan int, 1)
+	var s sync.WaitGroup
+	s.Add(2)
+	// 启动两个 goroutine
+	go printOdd(msg, &s)
+	go printEven(msg, &s)
+	s.Wait()
 }

@@ -6,8 +6,9 @@ import (
 )
 
 /*
-	错误处理的综合示例
-			defer + panic + recover
+错误处理的综合示例
+
+	defer + panic + recover
 */
 func Recover() {
 	defer func() {

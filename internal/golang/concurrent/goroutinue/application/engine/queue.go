@@ -1,6 +1,5 @@
 package main
 
-// QueuedScheduler :Scheduler with requestChan and workerChan
 type QueuedScheduler struct {
 	requestChan chan string
 	workerChan  chan chan string

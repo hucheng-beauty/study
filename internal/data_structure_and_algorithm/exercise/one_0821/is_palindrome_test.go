@@ -2,8 +2,6 @@ package one_0821
 
 import (
     "testing"
-
-    "study/internal/data_structure_and_algorithm/exercise/one_0821"
 )
 
 func Test_isHuiWenString(t *testing.T) {
@@ -30,7 +28,7 @@ func Test_isHuiWenString(t *testing.T) {
     }
     for _, tt := range tests {
         t.Run(tt.name, func(t *testing.T) {
-            if got := main.isPalindrome(tt.args.str); got != tt.want {
+            if got := isPalindrome(tt.args.str); got != tt.want {
                 t.Errorf("isPalindrome() = %v, want %v", got, tt.want)
             }
         })

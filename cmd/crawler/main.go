@@ -1,7 +1,7 @@
 package main
 
 import (
-    "study/pkg/crawler"
+	"study/pkg/crawler"
 )
 
 /*
@@ -24,23 +24,23 @@ import (
 */
 
 const (
-    url   = "https://www.zhenai.com/zhenghun"
-    index = "dating_profile"
+	url   = "https://www.zhenai.com/zhenghun"
+	index = "dating_profile"
 )
 
 func main() {
-    itemChan, err := crawler.ItemSaver(index)
-    if err != nil {
-        panic(err)
-    }
+	itemChan, err := crawler.ItemSaver(index)
+	if err != nil {
+		panic(err)
+	}
 
-    crawler.NewEngine(
-        crawler.WithScheduler(crawler.NewQueuedScheduler()),
-        crawler.WithProcessor(crawler.FetchProcessor),
-        crawler.WithWorkerCount(10),
-        crawler.WithItemChan(itemChan),
-    ).Run(crawler.Request{
-        Url:    url,
-        Parser: crawler.NewFuncParser(crawler.ParseCityList, "ParseCityList"),
-    })
+	crawler.NewEngine(
+		crawler.WithScheduler(crawler.NewQueuedScheduler()),
+		crawler.WithProcessor(crawler.FetchProcessor),
+		crawler.WithWorkerCount(10),
+		crawler.WithItemChan(itemChan),
+	).Run(crawler.Request{
+		Url:    url,
+		Parser: crawler.NewFuncParser(crawler.ParseCityList, "ParseCityList"),
+	})
 }

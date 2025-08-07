@@ -17,13 +17,14 @@ require (
 	github.com/panjf2000/ants/v2 v2.8.1
 	github.com/petermattis/goid v0.0.0-20230511192846-912c8d40bed9
 	github.com/pkg/errors v0.9.1
+	github.com/samber/lo v1.51.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.15.0
 	go.mongodb.org/mongo-driver v1.17.1
 	go.uber.org/zap v1.27.0
 	golang.org/x/net v0.33.0
-	golang.org/x/sync v0.10.0
-	golang.org/x/text v0.21.0
+	golang.org/x/sync v0.11.0
+	golang.org/x/text v0.22.0
 	golang.org/x/time v0.8.0
 	google.golang.org/grpc v1.67.1
 	google.golang.org/protobuf v1.35.1

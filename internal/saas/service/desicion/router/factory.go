@@ -3,24 +3,26 @@ package router
 import (
     "net/url"
 
-    "github.com/gin-gonic/gin"
+    "github.com/cloudwego/hertz/pkg/app"
+    "github.com/cloudwego/hertz/pkg/app/server"
+    "github.com/cloudwego/hertz/pkg/route"
     "github.com/samber/lo"
 )
 
 type Factory struct {
-    engine          *gin.Engine
+    engine          *server.Hertz
     url             *url.URL
-    baseMiddleware  []gin.HandlerFunc
-    innerMiddleware []gin.HandlerFunc
-    openMiddleware  []gin.HandlerFunc
+    baseMiddleware  []app.HandlerFunc
+    innerMiddleware []app.HandlerFunc
+    openMiddleware  []app.HandlerFunc
 }
 
 type Routers struct {
-    InnerRouter *gin.RouterGroup
-    OpenRouter  *gin.RouterGroup
+    InnerRouter *route.RouterGroup
+    OpenRouter  *route.RouterGroup
 }
 
-func NewFactory(e *gin.Engine) *Factory { return &Factory{engine: e, url: &url.URL{}} }
+func NewFactory(e *server.Hertz) *Factory { return &Factory{engine: e, url: &url.URL{}} }
 
 func (f *Factory) Clone() *Factory {
     cloned := lo.ToPtr(*f)
@@ -33,34 +35,34 @@ func (f *Factory) Clone() *Factory {
     return cloned
 }
 
+func (f *Factory) cloneMiddleware(in []app.HandlerFunc) (out []app.HandlerFunc) {
+    return append(out, in...)
+}
+
 func (f *Factory) AddPath(path string) *Factory {
     f.url = f.url.JoinPath(path)
     return f
 }
 
-func (f *Factory) AppendBaseMiddleware(fn ...gin.HandlerFunc) *Factory {
+func (f *Factory) AppendBaseMiddleware(fn ...app.HandlerFunc) *Factory {
     f.baseMiddleware = append(f.baseMiddleware, fn...)
     return f
 }
 
-func (f *Factory) AppendInnerMiddleware(fn ...gin.HandlerFunc) *Factory {
+func (f *Factory) AppendInnerMiddleware(fn ...app.HandlerFunc) *Factory {
     f.innerMiddleware = append(f.innerMiddleware, fn...)
     return f
 }
 
-func (f *Factory) AppendOpenMiddleware(fn ...gin.HandlerFunc) *Factory {
+func (f *Factory) AppendOpenMiddleware(fn ...app.HandlerFunc) *Factory {
     f.openMiddleware = append(f.openMiddleware, fn...)
     return f
 }
 
-func (f *Factory) Routers() *Routers {
+func (f *Factory) Groups() *Routers {
     baseRouter := f.engine.Group(f.url.String(), f.baseMiddleware...)
     return &Routers{
         InnerRouter: baseRouter.Group("/inner", f.innerMiddleware...),
         OpenRouter:  baseRouter.Group("/open", f.openMiddleware...),
     }
-}
-
-func (f *Factory) cloneMiddleware(in []gin.HandlerFunc) (out []gin.HandlerFunc) {
-    return append(out, in...)
 }

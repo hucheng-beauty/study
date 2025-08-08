@@ -1,0 +1,837 @@
+{
+  "status": 0,
+  "data": {
+    "batch_responses": [
+      {
+        "workload": {
+          "allowed_tuples": [
+            {
+              "identity": {
+                "id": 96595,
+                "version": 1688141258,
+                "ns": "user",
+                "location": "",
+                "path": "id:gaohongliang.ghl",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "ldap_role": "外包",
+                  "work_country": "中国大陆",
+                  "employee_type": 3,
+                  "en_ldap_role": "Outsourcing",
+                  "en_name": "Hongliang Gao",
+                  "is_eu_white": 0,
+                  "large_department": "产品研发和工程架构部",
+                  "dimission_stage": -1,
+                  "en_work_country": "Chinese Mainland",
+                  "is_tg": 0,
+                  "ldap_title": "质量保障",
+                  "name": "高宏亮",
+                  "email": "gaohongliang.ghl@bytedance.com",
+                  "en_ldap_title": "Test",
+                  "is_gso_white": 0
+                },
+                "pathV2": [
+                  {
+                    "key": "id",
+                    "val": "gaohongliang.ghl"
+                  }
+                ],
+                "locationV2": null
+              },
+              "role": {
+                "id": 119778134,
+                "version": 1688960753,
+                "ns": "kani_842",
+                "location": "r:cn",
+                "path": "resource:project-1337/action:read",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "creator": 128448,
+                  "name": "Operation"
+                },
+                "pathV2": [
+                  {
+                    "key": "resource",
+                    "val": "project-1337"
+                  },
+                  {
+                    "key": "action",
+                    "val": "read"
+                  }
+                ],
+                "locationV2": [
+                  {
+                    "key": "r",
+                    "val": "cn"
+                  }
+                ]
+              },
+              "resource": {
+                "id": 21606190,
+                "version": 1688960753,
+                "ns": "kani_842",
+                "location": "r:cn",
+                "path": "key:project-1337",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "region": "",
+                  "product": {
+                    "default": "kani_product_112549_6gv5ym1p"
+                  },
+                  "resource_url": "https://ee.byted.org/kani",
+                  "security_level": 2,
+                  "country": [],
+                  "creator": 128448,
+                  "description": "project-1337",
+                  "auth_block_type": 0,
+                  "authorizable": 1,
+                  "en_name": "project-1337",
+                  "audit_periodicity": 360,
+                  "audit_status": 0,
+                  "region_type": 2,
+                  "admin_url": "https://ee.byted.org/kani/",
+                  "name": "project-1337"
+                },
+                "pathV2": [
+                  {
+                    "key": "key",
+                    "val": "project-1337"
+                  }
+                ],
+                "locationV2": [
+                  {
+                    "key": "r",
+                    "val": "cn"
+                  }
+                ]
+              },
+              "expire_time": 2696754738621000000,
+              "condition": [
+                {}
+              ],
+              "is_enable": true,
+              "is_break_glass": false,
+              "policies": [
+                {
+                  "id": 17254898319,
+                  "version": 1688978739090795000,
+                  "identity": {
+                    "id": 96595,
+                    "version": 1688141258,
+                    "ns": "user",
+                    "location": "",
+                    "path": "id:gaohongliang.ghl",
+                    "metadata": [
+                      {}
+                    ],
+                    "attributes": {
+                      "employee_type": 3,
+                      "en_ldap_role": "Outsourcing",
+                      "en_name": "Hongliang Gao",
+                      "is_eu_white": 0,
+                      "large_department": "产品研发和工程架构部",
+                      "dimission_stage": -1,
+                      "en_work_country": "Chinese Mainland",
+                      "is_tg": 0,
+                      "ldap_title": "质量保障",
+                      "name": "高宏亮",
+                      "email": "gaohongliang.ghl@bytedance.com",
+                      "en_ldap_title": "Test",
+                      "is_gso_white": 0,
+                      "ldap_role": "外包",
+                      "work_country": "中国大陆"
+                    },
+                    "pathV2": [
+                      {
+                        "key": "id",
+                        "val": "gaohongliang.ghl"
+                      }
+                    ],
+                    "locationV2": null
+                  },
+                  "identity_type": 0,
+                  "role": {
+                    "id": 119778134,
+                    "version": 1688960753,
+                    "ns": "kani_842",
+                    "location": "r:cn",
+                    "path": "resource:project-1337/action:read",
+                    "metadata": [
+                      {}
+                    ],
+                    "attributes": {
+                      "creator": 128448,
+                      "name": "Operation"
+                    },
+                    "pathV2": [
+                      {
+                        "key": "resource",
+                        "val": "project-1337"
+                      },
+                      {
+                        "key": "action",
+                        "val": "read"
+                      }
+                    ],
+                    "locationV2": [
+                      {
+                        "key": "r",
+                        "val": "cn"
+                      }
+                    ]
+                  },
+                  "role_type": 1,
+                  "resource": {
+                    "id": 21606190,
+                    "version": 1688960753,
+                    "ns": "kani_842",
+                    "location": "r:cn",
+                    "path": "key:project-1337",
+                    "metadata": [
+                      {}
+                    ],
+                    "attributes": {
+                      "region": "",
+                      "security_level": 2,
+                      "country": [],
+                      "creator": 128448,
+                      "description": "project-1337",
+                      "product": {
+                        "default": "kani_product_112549_6gv5ym1p"
+                      },
+                      "resource_url": "https://ee.byted.org/kani",
+                      "en_name": "project-1337",
+                      "audit_periodicity": 360,
+                      "audit_status": 0,
+                      "auth_block_type": 0,
+                      "authorizable": 1,
+                      "admin_url": "https://ee.byted.org/kani/",
+                      "name": "project-1337",
+                      "region_type": 2
+                    },
+                    "pathV2": [
+                      {
+                        "key": "key",
+                        "val": "project-1337"
+                      }
+                    ],
+                    "locationV2": [
+                      {
+                        "key": "r",
+                        "val": "cn"
+                      }
+                    ]
+                  },
+                  "resource_type": 2,
+                  "expire_time": 2696754738621000000,
+                  "condition": [
+                    {}
+                  ],
+                  "is_enable": true,
+                  "is_break_glass": false,
+                  "information": {},
+                  "create_time": 1688978739090795000
+                }
+              ],
+              "num_policies": 1,
+              "create_time": 1688978739090795000,
+              "version": 1688978739090795000
+            },
+            {
+              "identity": {
+                "id": 96595,
+                "version": 1688141258,
+                "ns": "user",
+                "location": "",
+                "path": "id:gaohongliang.ghl",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "en_ldap_title": "Test",
+                  "en_name": "Hongliang Gao",
+                  "is_tg": 0,
+                  "large_department": "产品研发和工程架构部",
+                  "ldap_title": "质量保障",
+                  "name": "高宏亮",
+                  "dimission_stage": -1,
+                  "en_ldap_role": "Outsourcing",
+                  "ldap_role": "外包",
+                  "email": "gaohongliang.ghl@bytedance.com",
+                  "en_work_country": "Chinese Mainland",
+                  "is_gso_white": 0,
+                  "work_country": "中国大陆",
+                  "employee_type": 3,
+                  "is_eu_white": 0
+                },
+                "pathV2": [
+                  {
+                    "key": "id",
+                    "val": "gaohongliang.ghl"
+                  }
+                ],
+                "locationV2": null
+              },
+              "role": {
+                "id": 119778135,
+                "version": 1688960753,
+                "ns": "kani_842",
+                "location": "r:cn",
+                "path": "resource:project-1337/action:write",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "creator": 128448,
+                  "name": "Read-only"
+                },
+                "pathV2": [
+                  {
+                    "key": "resource",
+                    "val": "project-1337"
+                  },
+                  {
+                    "key": "action",
+                    "val": "write"
+                  }
+                ],
+                "locationV2": [
+                  {
+                    "key": "r",
+                    "val": "cn"
+                  }
+                ]
+              },
+              "resource": {
+                "id": 21606190,
+                "version": 1688960753,
+                "ns": "kani_842",
+                "location": "r:cn",
+                "path": "key:project-1337",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "admin_url": "https://ee.byted.org/kani/",
+                  "en_name": "project-1337",
+                  "audit_periodicity": 360,
+                  "authorizable": 1,
+                  "resource_url": "https://ee.byted.org/kani",
+                  "security_level": 2,
+                  "country": [],
+                  "auth_block_type": 0,
+                  "creator": 128448,
+                  "description": "project-1337",
+                  "name": "project-1337",
+                  "region_type": 2,
+                  "audit_status": 0,
+                  "product": {
+                    "default": "kani_product_112549_6gv5ym1p"
+                  },
+                  "region": ""
+                },
+                "pathV2": [
+                  {
+                    "key": "key",
+                    "val": "project-1337"
+                  }
+                ],
+                "locationV2": [
+                  {
+                    "key": "r",
+                    "val": "cn"
+                  }
+                ]
+              },
+              "expire_time": 2696754738621000000,
+              "condition": [
+                {}
+              ],
+              "is_enable": true,
+              "is_break_glass": false,
+              "policies": [
+                {
+                  "id": 17254898320,
+                  "version": 1688978739090795000,
+                  "identity": {
+                    "id": 96595,
+                    "version": 1688141258,
+                    "ns": "user",
+                    "location": "",
+                    "path": "id:gaohongliang.ghl",
+                    "metadata": [
+                      {}
+                    ],
+                    "attributes": {
+                      "email": "gaohongliang.ghl@bytedance.com",
+                      "en_work_country": "Chinese Mainland",
+                      "ldap_role": "外包",
+                      "is_gso_white": 0,
+                      "work_country": "中国大陆",
+                      "employee_type": 3,
+                      "is_eu_white": 0,
+                      "is_tg": 0,
+                      "large_department": "产品研发和工程架构部",
+                      "ldap_title": "质量保障",
+                      "name": "高宏亮",
+                      "dimission_stage": -1,
+                      "en_ldap_role": "Outsourcing",
+                      "en_ldap_title": "Test",
+                      "en_name": "Hongliang Gao"
+                    },
+                    "pathV2": [
+                      {
+                        "key": "id",
+                        "val": "gaohongliang.ghl"
+                      }
+                    ],
+                    "locationV2": null
+                  },
+                  "identity_type": 0,
+                  "role": {
+                    "id": 119778135,
+                    "version": 1688960753,
+                    "ns": "kani_842",
+                    "location": "r:cn",
+                    "path": "resource:project-1337/action:write",
+                    "metadata": [
+                      {}
+                    ],
+                    "attributes": {
+                      "creator": 128448,
+                      "name": "Read-only"
+                    },
+                    "pathV2": [
+                      {
+                        "key": "resource",
+                        "val": "project-1337"
+                      },
+                      {
+                        "key": "action",
+                        "val": "write"
+                      }
+                    ],
+                    "locationV2": [
+                      {
+                        "key": "r",
+                        "val": "cn"
+                      }
+                    ]
+                  },
+                  "role_type": 1,
+                  "resource": {
+                    "id": 21606190,
+                    "version": 1688960753,
+                    "ns": "kani_842",
+                    "location": "r:cn",
+                    "path": "key:project-1337",
+                    "metadata": [
+                      {}
+                    ],
+                    "attributes": {
+                      "auth_block_type": 0,
+                      "creator": 128448,
+                      "description": "project-1337",
+                      "name": "project-1337",
+                      "region_type": 2,
+                      "audit_status": 0,
+                      "product": {
+                        "default": "kani_product_112549_6gv5ym1p"
+                      },
+                      "region": "",
+                      "admin_url": "https://ee.byted.org/kani/",
+                      "en_name": "project-1337",
+                      "audit_periodicity": 360,
+                      "authorizable": 1,
+                      "resource_url": "https://ee.byted.org/kani",
+                      "security_level": 2,
+                      "country": []
+                    },
+                    "pathV2": [
+                      {
+                        "key": "key",
+                        "val": "project-1337"
+                      }
+                    ],
+                    "locationV2": [
+                      {
+                        "key": "r",
+                        "val": "cn"
+                      }
+                    ]
+                  },
+                  "resource_type": 2,
+                  "expire_time": 2696754738621000000,
+                  "condition": [
+                    {}
+                  ],
+                  "is_enable": true,
+                  "is_break_glass": false,
+                  "information": {},
+                  "create_time": 1688978739090795000
+                }
+              ],
+              "num_policies": 1,
+              "create_time": 1688978739090795000,
+              "version": 1688978739090795000
+            }
+          ],
+          "allowed_policies": [
+            {
+              "id": 17254898319,
+              "version": 1688978739090795000,
+              "identity": {
+                "id": 96595,
+                "version": 1688141258,
+                "ns": "user",
+                "location": "",
+                "path": "id:gaohongliang.ghl",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "ldap_role": "外包",
+                  "work_country": "中国大陆",
+                  "large_department": "产品研发和工程架构部",
+                  "employee_type": 3,
+                  "en_ldap_role": "Outsourcing",
+                  "en_name": "Hongliang Gao",
+                  "is_eu_white": 0,
+                  "name": "高宏亮",
+                  "dimission_stage": -1,
+                  "en_work_country": "Chinese Mainland",
+                  "is_tg": 0,
+                  "ldap_title": "质量保障",
+                  "email": "gaohongliang.ghl@bytedance.com",
+                  "en_ldap_title": "Test",
+                  "is_gso_white": 0
+                },
+                "pathV2": [
+                  {
+                    "key": "id",
+                    "val": "gaohongliang.ghl"
+                  }
+                ],
+                "locationV2": null
+              },
+              "identity_type": 0,
+              "role": {
+                "id": 119778134,
+                "version": 1688960753,
+                "ns": "kani_842",
+                "location": "r:cn",
+                "path": "resource:project-1337/action:read",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "creator": 128448,
+                  "name": "Operation"
+                },
+                "pathV2": [
+                  {
+                    "key": "resource",
+                    "val": "project-1337"
+                  },
+                  {
+                    "key": "action",
+                    "val": "read"
+                  }
+                ],
+                "locationV2": [
+                  {
+                    "key": "r",
+                    "val": "cn"
+                  }
+                ]
+              },
+              "role_type": 1,
+              "resource": {
+                "id": 21606190,
+                "version": 1688960753,
+                "ns": "kani_842",
+                "location": "r:cn",
+                "path": "key:project-1337",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "security_level": 2,
+                  "country": [],
+                  "creator": 128448,
+                  "description": "project-1337",
+                  "product": {
+                    "default": "kani_product_112549_6gv5ym1p"
+                  },
+                  "resource_url": "https://ee.byted.org/kani",
+                  "en_name": "project-1337",
+                  "audit_periodicity": 360,
+                  "audit_status": 0,
+                  "auth_block_type": 0,
+                  "authorizable": 1,
+                  "admin_url": "https://ee.byted.org/kani/",
+                  "name": "project-1337",
+                  "region_type": 2,
+                  "region": ""
+                },
+                "pathV2": [
+                  {
+                    "key": "key",
+                    "val": "project-1337"
+                  }
+                ],
+                "locationV2": [
+                  {
+                    "key": "r",
+                    "val": "cn"
+                  }
+                ]
+              },
+              "resource_type": 2,
+              "expire_time": 2696754738621000000,
+              "condition": [
+                {}
+              ],
+              "is_enable": true,
+              "is_break_glass": false,
+              "information": {},
+              "create_time": 1688978739090795000
+            },
+            {
+              "id": 17254898320,
+              "version": 1688978739090795000,
+              "identity": {
+                "id": 96595,
+                "version": 1688141258,
+                "ns": "user",
+                "location": "",
+                "path": "id:gaohongliang.ghl",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "email": "gaohongliang.ghl@bytedance.com",
+                  "en_work_country": "Chinese Mainland",
+                  "ldap_role": "外包",
+                  "is_gso_white": 0,
+                  "work_country": "中国大陆",
+                  "employee_type": 3,
+                  "is_eu_white": 0,
+                  "en_name": "Hongliang Gao",
+                  "is_tg": 0,
+                  "large_department": "产品研发和工程架构部",
+                  "ldap_title": "质量保障",
+                  "name": "高宏亮",
+                  "dimission_stage": -1,
+                  "en_ldap_role": "Outsourcing",
+                  "en_ldap_title": "Test"
+                },
+                "pathV2": [
+                  {
+                    "key": "id",
+                    "val": "gaohongliang.ghl"
+                  }
+                ],
+                "locationV2": null
+              },
+              "identity_type": 0,
+              "role": {
+                "id": 119778135,
+                "version": 1688960753,
+                "ns": "kani_842",
+                "location": "r:cn",
+                "path": "resource:project-1337/action:write",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "creator": 128448,
+                  "name": "Read-only"
+                },
+                "pathV2": [
+                  {
+                    "key": "resource",
+                    "val": "project-1337"
+                  },
+                  {
+                    "key": "action",
+                    "val": "write"
+                  }
+                ],
+                "locationV2": [
+                  {
+                    "key": "r",
+                    "val": "cn"
+                  }
+                ]
+              },
+              "role_type": 1,
+              "resource": {
+                "id": 21606190,
+                "version": 1688960753,
+                "ns": "kani_842",
+                "location": "r:cn",
+                "path": "key:project-1337",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "admin_url": "https://ee.byted.org/kani/",
+                  "en_name": "project-1337",
+                  "audit_periodicity": 360,
+                  "authorizable": 1,
+                  "resource_url": "https://ee.byted.org/kani",
+                  "security_level": 2,
+                  "country": [],
+                  "auth_block_type": 0,
+                  "creator": 128448,
+                  "description": "project-1337",
+                  "name": "project-1337",
+                  "region_type": 2,
+                  "audit_status": 0,
+                  "product": {
+                    "default": "kani_product_112549_6gv5ym1p"
+                  },
+                  "region": ""
+                },
+                "pathV2": [
+                  {
+                    "key": "key",
+                    "val": "project-1337"
+                  }
+                ],
+                "locationV2": [
+                  {
+                    "key": "r",
+                    "val": "cn"
+                  }
+                ]
+              },
+              "resource_type": 2,
+              "expire_time": 2696754738621000000,
+              "condition": [
+                {}
+              ],
+              "is_enable": true,
+              "is_break_glass": false,
+              "information": {},
+              "create_time": 1688978739090795000
+            }
+          ],
+          "denied_policies": [
+            {
+              "id": 222533342,
+              "version": 1686214286401744000,
+              "identity": {
+                "id": 2323012,
+                "version": 1657327748,
+                "ns": "",
+                "location": "",
+                "path": "",
+                "metadata": [
+                  {}
+                ],
+                "pathV2": null,
+                "locationV2": null
+              },
+              "identity_type": 0,
+              "role": {
+                "id": 71224118,
+                "version": 1650775697,
+                "ns": "",
+                "location": "",
+                "path": "",
+                "metadata": [
+                  {}
+                ],
+                "pathV2": null,
+                "locationV2": null
+              },
+              "role_type": 1,
+              "resource": {
+                "id": 12384535,
+                "version": 1657754634,
+                "ns": "",
+                "location": "",
+                "path": "",
+                "metadata": [
+                  {}
+                ],
+                "attributes": {
+                  "security_level": 4
+                },
+                "pathV2": null,
+                "locationV2": null
+              },
+              "resource_type": 2,
+              "expire_time": -1,
+              "condition": [
+                {
+                  "object.attributes.line_of_business": [
+                    "tag_261"
+                  ],
+                  "object.attributes.security_level": 4,
+                  "principal.attributes.work_country": [
+                    "CHN",
+                    "中国大陆"
+                  ],
+                  "object.attributes.general_tags": [
+                    "tag_1",
+                    "tag_2",
+                    "tag_7",
+                    "tag_8",
+                    "tag_9",
+                    "tag_10",
+                    "tag_11",
+                    "tag_12",
+                    "tag_13",
+                    "tag_14",
+                    "tag_17",
+                    "tag_56",
+                    "tag_61",
+                    "tag_65",
+                    "tag_66",
+                    "tag_67",
+                    "tag_100",
+                    "tag_139",
+                    "tag_140",
+                    "tag_147",
+                    "tag_148",
+                    "tag_149",
+                    "tag_150",
+                    "tag_171",
+                    "tag_238",
+                    "tag_239",
+                    "tag_240",
+                    "tag_309",
+                    "tag_314",
+                    "tag_315"
+                  ]
+                }
+              ],
+              "is_enable": true,
+              "is_break_glass": false,
+              "information": {},
+              "create_time": 1664225680388418000
+            }
+          ]
+        },
+        "start_id": null,
+        "batch_size": null,
+        "identity_reference_start_id": null,
+        "identity_reference_batch_size": null,
+        "role_reference_start_id": null,
+        "role_reference_batch_size": null,
+        "resource_reference_start_id": null,
+        "resource_reference_batch_size": null,
+        "access_token": null
+      }
+    ]
+  }
+}

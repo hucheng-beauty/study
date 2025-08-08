@@ -1,0 +1,118 @@
+{
+  "5220": {
+    "permission_types": [
+      {
+        "action": "admin",
+        "name": "project-5220_admin"
+      }
+    ],
+    "user_permissions": [
+      {
+        "name": "Bartosz Staneta",
+        "email": "bartoszstaneta@bytedance.com",
+        "permission_target": "user",
+        "permissions": [
+          {
+            "action": "admin",
+            "name": "project-5220_admin",
+            "temporality": "permanent"
+          }
+        ]
+      },
+      {
+        "name": "刘涛",
+        "email": "liutao.34@bytedance.com",
+        "permission_target": "user",
+        "permissions": [
+          {
+            "action": "admin",
+            "name": "project-5220_admin",
+            "temporality": "permanent"
+          }
+        ]
+      },
+      {
+        "name": "袁逸晨",
+        "email": "yuanyichen@bytedance.com",
+        "permission_target": "user",
+        "permissions": [
+          {
+            "action": "admin",
+            "name": "project-5220_admin",
+            "temporality": "permanent"
+          }
+        ]
+      },
+      {
+        "name": "魏巍",
+        "email": "weiwei.waynewei@bytedance.com",
+        "permission_target": "user",
+        "permissions": [
+          {
+            "action": "admin",
+            "name": "project-5220_admin",
+            "temporality": "permanent"
+          }
+        ]
+      }
+    ]
+  },
+  "5776": {
+    "permission_types": [
+      {
+        "action": "admin",
+        "name": "project-5776_admin"
+      }
+    ],
+    "user_permissions": [
+      {
+        "name": "Bartosz Staneta",
+        "email": "bartoszstaneta@bytedance.com",
+        "permission_target": "user",
+        "permissions": [
+          {
+            "action": "admin",
+            "name": "project-5776_admin",
+            "temporality": "permanent"
+          }
+        ]
+      },
+      {
+        "name": "刘涛",
+        "email": "liutao.34@bytedance.com",
+        "permission_target": "user",
+        "permissions": [
+          {
+            "action": "admin",
+            "name": "project-5776_admin",
+            "temporality": "permanent"
+          }
+        ]
+      },
+      {
+        "name": "袁逸晨",
+        "email": "yuanyichen@bytedance.com",
+        "permission_target": "user",
+        "permissions": [
+          {
+            "action": "admin",
+            "name": "project-5776_admin",
+            "temporality": "permanent"
+          }
+        ]
+      },
+      {
+        "name": "魏巍",
+        "email": "weiwei.waynewei@bytedance.com",
+        "permission_target": "user",
+        "permissions": [
+          {
+            "action": "admin",
+            "name": "project-5776_admin",
+            "temporality": "permanent"
+          }
+        ]
+      }
+    ]
+  }
+}

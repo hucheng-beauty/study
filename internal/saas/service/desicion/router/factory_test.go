@@ -1,33 +1,33 @@
 package router
 
 import (
+    "context"
     "log"
     "testing"
 
-    "github.com/gin-gonic/gin"
+    "github.com/cloudwego/hertz/pkg/app"
+    "github.com/cloudwego/hertz/pkg/app/server"
 )
 
 func TestFactory(t *testing.T) {
-    e := gin.New()
+    e := server.New()
 
     rf := NewFactory(e)
 
     userRouterFactory := rf.AddPath("/api").
         AppendBaseMiddleware(Auth()).
-        AppendInnerMiddleware(gin.Logger(), gin.Recovery()).
-        AppendOpenMiddleware(Logger())
+        AppendInnerMiddleware(Logger()).
+        AppendOpenMiddleware()
 
     userRouters := userRouterFactory.Clone().
         AddPath("/user").
-        Routers()
+        Groups()
 
     // path: /api/user/inner/list
-    userRouters.InnerRouter.GET("/list", func(c *gin.Context) {
-        c.JSON(200, gin.H{
-            "message": "Inner User List",
-        })
+    userRouters.InnerRouter.GET("/list", func(ctx context.Context, c *app.RequestContext) {
+        c.JSON(200, "hello world")
     })
 
     // curl -X GET http://localhost:8080/api/user/inner/list
-    log.Fatal(e.Run(":8080"))
+    log.Fatal(e.Run())
 }

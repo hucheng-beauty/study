@@ -1,0 +1,50 @@
+package model
+
+/*
+CREATE TABLE `resource_packs` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT COMMENT 'table primary key',
+  `configuration_code` varchar(256) DEFAULT NULL COMMENT 'resource pack configuration code',
+  `instance_number` varchar(256) DEFAULT NULL COMMENT 'number of volcengine instance',
+  `service_id` int(11) DEFAULT '0' COMMENT 'fk to service',
+  `is_quota` tinyint(1) DEFAULT NULL COMMENT 'if it needs quota recalculation',
+  `is_access` tinyint(1) DEFAULT NULL COMMENT 'if it needs resource_tree rebuild',
+  `created` bigint(20) DEFAULT NULL COMMENT 'milliseconds timestamp of order placed',
+  `purchased` bigint(20) DEFAULT NULL COMMENT 'milliseconds timestamp of purchase done, confirmation from MQ',
+  `quota_type` varchar(256) DEFAULT NULL COMMENT 'type of resource purchased',
+  `months` int(11) DEFAULT NULL COMMENT 'for how many months is resource pack available',
+  `value` bigint(20) NOT NULL DEFAULT '0' COMMENT 'how much was purchased',
+  `special_system_package` tinyint(1) DEFAULT NULL COMMENT 'true if business initial resource pack',
+  `expires` bigint(20) DEFAULT NULL COMMENT 'milliseconds timestamp of when the instance should expire, taken from MQ callback',
+  `is_given` tinyint(1) DEFAULT '0' COMMENT 'if it is given by operator',
+  `create_time` timestamp NULL DEFAULT CURRENT_TIMESTAMP COMMENT 'create time of entry',
+  `update_time` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT 'update time',
+  `pack_type` varchar(64) NOT NULL COMMENT 'resource pack type',
+  `begins` bigint(20) NOT NULL DEFAULT '0' COMMENT 'ms timestamp of when the instance should begin, 0 if it should take effect immediately',
+  `is_from_prepaid_service` tinyint(1) NOT NULL DEFAULT '0' COMMENT 'marks if such resource pack is generated as part of prepaid service',
+  `is_standalone` tinyint(1) NOT NULL DEFAULT '0' COMMENT 'marks if this resource pack owns a pseudo serivce created by template, if true then their state change should sync with each other',
+  `quota_type_meta` json DEFAULT NULL COMMENT 'meta data for quota type',
+  `attributes` json DEFAULT NULL COMMENT 'key-value pairs only meaningful for certain pack type',
+  `alias` varchar(512) DEFAULT '' COMMENT 'client preferred name of a resource pack',
+  `state` varchar(20) DEFAULT '' COMMENT 'resource pack state',
+  `top_account_id` varchar(20) DEFAULT '0' COMMENT 'volc account id',
+  `volc_product` varchar(128) DEFAULT '' COMMENT 'volc product name',
+  `train_id` varchar(64) CHARACTER SET utf8mb4 COLLATE utf8mb4_bin DEFAULT '' COMMENT 'train id, like speaker',
+  `volc_project_name` varchar(255) NOT NULL DEFAULT '' COMMENT '火山项目名',
+  PRIMARY KEY (`id`),
+  KEY `idx_instance_number` (`instance_number`),
+  KEY `idx_service_id` (`service_id`),
+  KEY `idx_top_account_id` (`top_account_id`),
+  KEY `idx_state` (`state`),
+  KEY `idx_quota_type` (`quota_type`),
+  KEY `idx_expires` (`expires`),
+  KEY `idx_special_system_package` (`special_system_package`),
+  KEY `idx_pack_type` (`pack_type`),
+  KEY `idx_configuration_code` (`configuration_code`),
+  KEY `idx_create_time` (`create_time`),
+  KEY `idx_begins` (`begins`),
+  KEY `idx_train_id` (`train_id`),
+  KEY `idx_volc_project_name` (`volc_project_name`)
+) ENGINE=InnoDB AUTO_INCREMENT=358967251257606 DEFAULT CHARSET=utf8 COMMENT='information on VolcEngine resource packs'
+*/
+
+type Resource struct{}

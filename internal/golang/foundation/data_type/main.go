@@ -28,6 +28,10 @@ func main() {
         fmt.Printf("%d\n", *i)
     }
     fmt.Printf("sli=%v, len(sli)=%d, cap(sli)=%d\n", sli, len(sli), cap(sli))
+
+    fmt.Println("======================================================")
+    fmt.Printf("[github.com/samber/lo]")
+    Lo()
 }
 
 func T(sli []*int) {

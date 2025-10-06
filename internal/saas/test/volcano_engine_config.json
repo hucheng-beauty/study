@@ -1,0 +1,3972 @@
+{
+  "hidden": false,
+  "product": "Speech_Synthesis",
+  "billing_rules": "https://www.volcengine.com/docs/6561/1359370",
+  "binding_platform": "",
+  "configuration_code": "API Usage",
+  "trial_duration_day": 180,
+  "access_documentation": [
+    {
+      "category": "API",
+      "access_methods": [
+        {
+          "url": "https://www.volcengine.com/docs/6561/79820",
+          "name": "接入文档"
+        }
+      ]
+    }
+  ],
+  "dummy_resource_packs": null,
+  "given_resource_packs": [
+    {
+      "code": "",
+      "period": "",
+      "details": {
+        "not_renewable": true
+      },
+      "is_quota": false,
+      "is_access": false,
+      "pack_type": "prepaid",
+      "quota_type": "requests",
+      "given_value": 20000,
+      "never_expire": true,
+      "price_display": "",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Free_API_Package_20000_requests_volc.tts.default",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "Free_API_Package_20000_requests_volc.tts.default",
+      "display_as_bought": false,
+      "configuration_code": "Free_API_Package_20000_requests_volc.tts.default",
+      "given_after_first_plant": true
+    }
+  ],
+  "quota_resource_packs": [
+    {
+      "code": "",
+      "period": "monthly",
+      "details": null,
+      "is_quota": true,
+      "is_access": false,
+      "pack_type": "quota",
+      "quota_type": "concurrency",
+      "never_expire": false,
+      "price_display": "100",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Concurrent",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "1并发/月",
+      "display_as_bought": false,
+      "configuration_code": "Concurrent Add-ons by month"
+    }
+  ],
+  "access_resource_packs": [
+    {
+      "code": "BR001",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BR001.wav",
+        "voice_type": "BR001_streaming",
+        "tone_number": "BR001",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "说唱小哥",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV001",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV001.mp3",
+        "voice_type": "BV001_streaming",
+        "tone_number": "BV001",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "通用女声",
+      "display_as_bought": true,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV002",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV002.mp3",
+        "voice_type": "BV002_streaming",
+        "tone_number": "BV002",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "通用男声",
+      "display_as_bought": true,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV004",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV004.mp3",
+        "voice_type": "BV004_streaming",
+        "tone_number": "BV004",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "开朗青年",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV005",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV005.mp3",
+        "voice_type": "BV005_streaming",
+        "tone_number": "BV005",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "活泼女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV006",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV006.mp3",
+        "voice_type": "BV006_streaming",
+        "tone_number": "BV006",
+        "recommended_scenario": "广告配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "磁性男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV007",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV007.mp3",
+        "voice_type": "BV007_streaming",
+        "tone_number": "BV007",
+        "recommended_scenario": "客服场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "亲切女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV008",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/979a5b68-da7b-4532-944d-30633a05d7b4.wav",
+        "voice_type": "BV008_streaming",
+        "tone_number": "BV008",
+        "recommended_scenario": "智能助手"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "亲切男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV009",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV009.mp3",
+        "voice_type": "BV009_streaming",
+        "tone_number": "BV009",
+        "recommended_scenario": "客服场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "知性女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV011",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV011.mp3",
+        "voice_type": "BV011_streaming",
+        "tone_number": "BV011",
+        "recommended_scenario": "新闻播报"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "新闻女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV012",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV012.mp3",
+        "voice_type": "BV012_streaming",
+        "tone_number": "BV012",
+        "recommended_scenario": "新闻播报"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "新闻男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV019",
+      "period": "monthly",
+      "details": {
+        "language": "重庆话",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV019.mp3",
+        "voice_type": "BV019_streaming",
+        "tone_number": "BV019",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "重庆小伙",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV021",
+      "period": "monthly",
+      "details": {
+        "language": "东北话",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV021.mp3",
+        "voice_type": "BV021_streaming",
+        "tone_number": "BV021",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "东北老铁",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV025",
+      "period": "monthly",
+      "details": {
+        "language": "台湾普通话",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV025.mp3",
+        "voice_type": "BV025_streaming",
+        "tone_number": "BV025",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "甜美台妹",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV026",
+      "period": "monthly",
+      "details": {
+        "language": "粤语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV026.mp3",
+        "voice_type": "BV026_streaming",
+        "tone_number": "BV026",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "港剧男神",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV027",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV027.mp3",
+        "voice_type": "BV027_streaming",
+        "tone_number": "BV027",
+        "recommended_scenario": "美式发音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "美式女声-Amelia",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV033",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV033.mp3",
+        "voice_type": "BV033_streaming",
+        "tone_number": "BV033",
+        "recommended_scenario": "教育场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "温柔小哥",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV034",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV034.mp3",
+        "voice_type": "BV034_streaming",
+        "tone_number": "BV034",
+        "recommended_scenario": "教育场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "知性姐姐-双语",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV050",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV050.mp3",
+        "voice_type": "BV050_streaming",
+        "tone_number": "BV050",
+        "recommended_scenario": "特色音色"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "动漫小新",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV051",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV051.mp3",
+        "voice_type": "BV051_streaming",
+        "tone_number": "BV051",
+        "recommended_scenario": "特色音色"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "奶气萌娃",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV056",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV056.mp3",
+        "voice_type": "BV056_streaming",
+        "tone_number": "BV056",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "阳光男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV061",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/fa21c17d-9715-4e65-bfa2-ecd8ec61a34e.wav",
+        "voice_type": "BV061_streaming",
+        "tone_number": "BV061",
+        "recommended_scenario": "特色音色"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "天才童声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV063",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV063.mp3",
+        "voice_type": "BV063_streaming",
+        "tone_number": "BV063",
+        "recommended_scenario": "特色音色"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "动漫海绵",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV065",
+      "period": "monthly",
+      "details": {
+        "language": "西班牙语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV065.mp3",
+        "voice_type": "BV065_streaming",
+        "tone_number": "BV065",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "气质御姐（墨西哥地区）",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV100",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV100.mp3",
+        "voice_type": "BV100_streaming",
+        "tone_number": "BV100",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "质朴青年",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV102",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV102.mp3",
+        "voice_type": "BV102_streaming",
+        "tone_number": "BV102",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "儒雅青年",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV104",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV104.mp3",
+        "voice_type": "BV104_streaming",
+        "tone_number": "BV104",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "温柔淑女",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV107",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV107.mp3",
+        "voice_type": "BV107_streaming",
+        "tone_number": "BV107",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "霸气青叔",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV113",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV113.mp3",
+        "voice_type": "BV113_streaming",
+        "tone_number": "BV113",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "甜宠少御",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV115",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV115.mp3",
+        "voice_type": "BV115_streaming",
+        "tone_number": "BV115",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "古风少御",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV119",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV119.mp3",
+        "voice_type": "BV119_streaming",
+        "tone_number": "BV119",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "通用赘婿",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV120",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV120.mp3",
+        "voice_type": "BV120_streaming",
+        "tone_number": "BV120",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "反卷青年",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV123",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV123.mp3",
+        "voice_type": "BV123_streaming",
+        "tone_number": "BV123",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "阳光青年",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV138",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/8ad100d0-800f-43ee-87e2-b24d21c21c4b.wav",
+        "voice_type": "BV138_streaming",
+        "tone_number": "BV138",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "情感女声-Lawrence",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV142",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV142.wav",
+        "voice_type": "BV142_streaming",
+        "tone_number": "BV142",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "沉稳解说男",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV143",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV143.wav",
+        "voice_type": "BV143_streaming",
+        "tone_number": "BV143",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "潇洒青年",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV157",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/50963e2a-6555-403e-b379-b1b6070721d6.wav",
+        "voice_type": "BV157_streaming",
+        "tone_number": "BV157",
+        "recommended_scenario": "特色音色"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "慈爱姥姥",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV158",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/539241c5-953e-4ffb-8547-547e47275bfc.wav",
+        "voice_type": "BV158_streaming",
+        "tone_number": "BV158",
+        "recommended_scenario": "特色音色"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "智慧老者",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV212",
+      "period": "monthly",
+      "details": {
+        "language": "天津话",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV212.mp3",
+        "voice_type": "BV212_streaming",
+        "tone_number": "BV212",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "相声演员",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV213",
+      "period": "monthly",
+      "details": {
+        "language": "广西普通话",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV213.mp3",
+        "voice_type": "BV213_streaming",
+        "tone_number": "BV213",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "广西表哥",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV214",
+      "period": "monthly",
+      "details": {
+        "language": "郑州话",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV214.mp3",
+        "voice_type": "BV214_streaming",
+        "tone_number": "BV214",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "乡村企业家",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV401",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV401.mp3",
+        "voice_type": "BV401_streaming",
+        "tone_number": "BV401",
+        "recommended_scenario": "广告配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "促销男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV402",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV402.mp3",
+        "voice_type": "BV402_streaming",
+        "tone_number": "BV402",
+        "recommended_scenario": "广告配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "促销女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV403",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/1976f007-97d4-4c63-a401-f074cc1955f6.wav",
+        "voice_type": "BV403_streaming",
+        "tone_number": "BV403",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "鸡汤女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV405",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV405.mp3",
+        "voice_type": "BV405_streaming",
+        "tone_number": "BV405",
+        "recommended_scenario": "智能助手"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "甜美小源",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV406",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E8%B6%85%E8%87%AA%E7%84%B6%E9%9F%B3%E8%89%B2-%E6%A2%93%E6%A2%932.0.mp3",
+        "voice_type": "BV406_streaming",
+        "tone_number": "BV406",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "超自然音色-梓梓",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV407_streaming",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E8%B6%85%E8%87%AA%E7%84%B6%E9%9F%B3%E8%89%B2-%E7%87%83%E7%87%832.0.mp3",
+        "voice_type": "BV407_streaming",
+        "tone_number": "BV407_streaming",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "超自然音色-燃燃",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV408",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/3d2a4b66-89c0-490c-be0d-256599a123de.wav",
+        "voice_type": "BV408_streaming",
+        "tone_number": "BV408",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "译制片男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV410",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/6c7ba809-b5d4-4f6a-9422-9c67d95de113.wav",
+        "voice_type": "BV410_streaming",
+        "tone_number": "BV410",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "活力解说男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV411_streaming",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/f830c252-960f-45fd-9b74-8a40baadeaa4.wav",
+        "voice_type": "BV411_streaming",
+        "tone_number": "BV411_streaming",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "影视解说小帅",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV412_streaming",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/c77093f2-a73a-4b43-ab02-08c107c6654a.wav",
+        "voice_type": "BV412_streaming",
+        "tone_number": "BV412_streaming",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "影视解说小美",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV415_streaming",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/0131412b-bad1-4a1b-a3d2-f87fa3d9585c.wav",
+        "voice_type": "BV415_streaming",
+        "tone_number": "BV415_streaming",
+        "recommended_scenario": "智能助手"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "童童",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV417_streaming",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/e7f72a4f-8833-4096-9e5a-bc57b039cbef.wav",
+        "voice_type": "BV417_streaming",
+        "tone_number": "BV417_streaming",
+        "recommended_scenario": "特色音色"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "动漫海星",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV419_streaming",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/899998a7-5390-4ca5-82ac-6b6271acd4ce.wav",
+        "voice_type": "BV419_streaming",
+        "tone_number": "BV419_streaming",
+        "recommended_scenario": "智能助手"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "诚诚",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV502",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV502.mp3",
+        "voice_type": "BV502_streaming",
+        "tone_number": "BV502",
+        "recommended_scenario": "美式发音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "讲述女声-Amanda",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV503",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV503.mp3",
+        "voice_type": "BV503_streaming",
+        "tone_number": "BV503",
+        "recommended_scenario": "美式发音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "活力女声-Ariana",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV504",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV504.mp3",
+        "voice_type": "BV504_streaming",
+        "tone_number": "BV504",
+        "recommended_scenario": "美式发音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "活力男声-Jackson",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV505",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/2916d4b9-0c7d-45f6-aa41-7121bb968cc9.wav",
+        "voice_type": "BV505_streaming",
+        "tone_number": "BV505",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "议论女声-Alicia",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV511",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/a1b134ee-8892-49a8-97fd-3da476f766df.wav",
+        "voice_type": "BV511_streaming",
+        "tone_number": "BV511",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "慵懒女声-Ava",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV516",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/16ad9d5a-8e44-44c2-adaf-31970ad2d110.wav",
+        "voice_type": "BV516_streaming",
+        "tone_number": "BV516",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "澳洲男声-Henry",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV520",
+      "period": "monthly",
+      "details": {
+        "language": "日语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV520.mp3",
+        "voice_type": "BV520_streaming",
+        "tone_number": "BV520",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "元气少女",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV521",
+      "period": "monthly",
+      "details": {
+        "language": "日语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV521.mp3",
+        "voice_type": "BV521_streaming",
+        "tone_number": "BV521",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "萌系少女",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV522",
+      "period": "monthly",
+      "details": {
+        "language": "日语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV522.mp3",
+        "voice_type": "BV522_streaming",
+        "tone_number": "BV522",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "气质女生",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV524",
+      "period": "monthly",
+      "details": {
+        "language": "日语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV524.mp3",
+        "voice_type": "BV524_streaming",
+        "tone_number": "BV524",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "日语男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV530",
+      "period": "monthly",
+      "details": {
+        "language": "葡萄牙语",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/85abe1df-11af-4edb-bf73-7cd8dade0498.wav",
+        "voice_type": "BV530_streaming",
+        "tone_number": "BV530",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "活力女声（巴西地区）",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV531",
+      "period": "monthly",
+      "details": {
+        "language": "葡萄牙语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV531.mp3",
+        "voice_type": "BV531_streaming",
+        "tone_number": "BV531",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "活力男声Carlos（巴西地区）",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV700",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/ad5c375d-4540-4764-baf5-e595364f8717.wav",
+        "voice_type": "BV700_streaming",
+        "tone_number": "BV700",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "灿灿",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV701",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/hstobyd_BV701.wav",
+        "voice_type": "BV701_streaming",
+        "tone_number": "BV701",
+        "recommended_scenario": "有声阅读"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "擎苍",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV016",
+      "period": "monthly",
+      "details": {
+        "language": "日语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV016.mp3",
+        "voice_type": "BV016_streaming",
+        "tone_number": "BV016",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "温柔姐姐",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV017",
+      "period": "monthly",
+      "details": {
+        "language": "日语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV017.mp3",
+        "voice_type": "BV017_streaming",
+        "tone_number": "BV017",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "元气萌妹",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV024",
+      "period": "monthly",
+      "details": {
+        "language": "日语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV024.mp3",
+        "voice_type": "BV024_streaming",
+        "tone_number": "BV024",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "强势御姐",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV028",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV028.mp3",
+        "voice_type": "BV028_streaming",
+        "tone_number": "BV028",
+        "recommended_scenario": "美式发音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "美式男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV031",
+      "period": "monthly",
+      "details": {
+        "language": "英语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV031.mp3",
+        "voice_type": "BV031_streaming",
+        "tone_number": "BV031",
+        "recommended_scenario": "英式发音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "英式女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV059",
+      "period": "monthly",
+      "details": {
+        "language": "韩语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV059.mp3",
+        "voice_type": "BV059_streaming",
+        "tone_number": "BV059",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "韩语女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV060",
+      "period": "monthly",
+      "details": {
+        "language": "葡萄牙语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV060.mp3",
+        "voice_type": "BV060_streaming",
+        "tone_number": "BV060",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "魅力男声Miguel（巴西地区）",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV071",
+      "period": "monthly",
+      "details": {
+        "language": "葡萄牙语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV071.mp3",
+        "voice_type": "BV071_streaming",
+        "tone_number": "BV071",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "魅力男声Luís（葡萄牙地区）",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV136",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV136.wav",
+        "voice_type": "BV136_streaming",
+        "tone_number": "BV136",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "灵气少女",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV409",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf26-speech.bytetos.com/obj/speech-tts-external/tts-robot/1474b9e4-7671-4d3f-85cd-cfd2057893e1.wav",
+        "voice_type": "BV409_streaming",
+        "tone_number": "BV409",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "TVB女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV159",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E7%BA%A8%E7%BB%94%E9%9D%92%E5%B9%B4.mp3",
+        "voice_type": "BV159_streaming",
+        "tone_number": "BV159",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "纨绔青年",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV418",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E7%9B%B4%E6%92%AD%E4%B8%80%E5%A7%90.mp3",
+        "voice_type": "BV418_streaming",
+        "tone_number": "BV418",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "直播一姐",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV020",
+      "period": "monthly",
+      "details": {
+        "language": "东北话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E4%B8%9C%E5%8C%97%E4%B8%AB%E5%A4%B4.mp3",
+        "voice_type": "BV020_streaming",
+        "tone_number": "BV020",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "东北丫头",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV210",
+      "period": "monthly",
+      "details": {
+        "language": "西安话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E8%A5%BF%E5%AE%89%E4%BD%9F%E6%8E%8C%E6%9F%9C.mp3",
+        "voice_type": "BV210_streaming",
+        "tone_number": "BV210",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "西安佟掌柜",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV217",
+      "period": "monthly",
+      "details": {
+        "language": "上海话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%90.mp3",
+        "voice_type": "BV217_streaming",
+        "tone_number": "BV217",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "沪上阿姐",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV221",
+      "period": "monthly",
+      "details": {
+        "language": "川渝话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E5%9B%9B%E5%B7%9D%E7%94%9C%E5%A6%B9%E5%84%BF.mp3",
+        "voice_type": "BV221_streaming",
+        "tone_number": "BV221",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "四川甜妹儿",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV423",
+      "period": "monthly",
+      "details": {
+        "language": "川渝话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E9%87%8D%E5%BA%86%E5%B9%BA%E5%A6%B9.mp3",
+        "voice_type": "BV423_streaming",
+        "tone_number": "BV423",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "重庆幺妹儿",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV424",
+      "period": "monthly",
+      "details": {
+        "language": "粤语",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E5%B9%BF%E4%B8%9C%E5%A5%B3%E4%BB%94.mp3",
+        "voice_type": "BV424_streaming",
+        "tone_number": "BV424",
+        "recommended_scenario": "粤语"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "广东女仔",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV040",
+      "period": "monthly",
+      "details": {
+        "language": "英式英语",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E4%BA%B2%E5%88%87%E5%A5%B3%E5%A3%B0-Anna.mp3",
+        "voice_type": "BV040_streaming",
+        "tone_number": "BV040",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "亲切女声-Anna",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV506",
+      "period": "monthly",
+      "details": {
+        "language": "美式英语",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E5%A4%A9%E7%9C%9F%E8%90%8C%E5%A8%83-Lily.mp3",
+        "voice_type": "BV506_streaming",
+        "tone_number": "BV506",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "天真萌娃-Lily",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV421",
+      "period": "monthly",
+      "details": {
+        "language": "中/英/日/泰/越/印/葡/西语",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/BV421.wav",
+        "voice_type": "BV421_streaming",
+        "tone_number": "BV421",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "天才少女",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV064",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/portal/Portal_Demo_BV064.mp3",
+        "voice_type": "BV064_streaming",
+        "tone_number": "BV064",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "小萝莉",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "GJ001",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/GJ001.wav",
+        "voice_type": "GJ001_streaming",
+        "tone_number": "GJ001",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "硅基专属_LR",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV702",
+      "period": "monthly",
+      "details": {
+        "language": "中/英/日/印/葡/西语",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/Stefan.mp3",
+        "voice_type": "BV702_streaming",
+        "tone_number": "BV702",
+        "recommended_scenario": "多语种"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "Stefan",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV216",
+      "period": "monthly",
+      "details": {
+        "language": "长沙话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E9%95%BF%E6%B2%99%E9%9D%93%E5%A5%B3.mp3",
+        "voice_type": "BV216_streaming",
+        "tone_number": "BV216",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "长沙靓女",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV704",
+      "period": "monthly",
+      "details": {
+        "language": "中文/东北/粤语/上海/重庆/西安/成都/台普/广西普通话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E6%96%B9%E8%A8%80%E7%81%BF%E7%81%BF.mp3",
+        "voice_type": "BV704_streaming",
+        "tone_number": "BV704",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "方言灿灿",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV222",
+      "period": "monthly",
+      "details": {
+        "language": "北京话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E5%8C%97%E4%BA%AC%E5%B0%8F%E4%BC%99%E5%84%BF.mp3",
+        "voice_type": "BV222_streaming",
+        "tone_number": "BV222",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "北京小伙儿",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV227",
+      "period": "monthly",
+      "details": {
+        "language": "台湾普通话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E5%8F%B0%E6%99%AE%E7%94%B7%E5%A3%B0.mp3",
+        "voice_type": "BV227_streaming",
+        "tone_number": "BV227",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "台普男声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV226",
+      "period": "monthly",
+      "details": {
+        "language": "长沙普通话",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E6%B9%96%E5%8D%97%E5%A6%B9%E5%9D%A8.mp3",
+        "voice_type": "BV226_streaming",
+        "tone_number": "BV226",
+        "recommended_scenario": "方言"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "湖南妹坨",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "GJ002",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/GJ002.wav",
+        "voice_type": "GJ002_streaming",
+        "tone_number": "GJ002",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "硅基专属_司马",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "GJ003",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/GJ003.wav",
+        "voice_type": "GJ003_streaming",
+        "tone_number": "GJ003",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "硅基专属_高菲",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH001",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH001.wav",
+        "voice_type": "DH001_streaming",
+        "tone_number": "DH001",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "张琦",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH003",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH003.wav",
+        "voice_type": "DH003_streaming",
+        "tone_number": "DH003",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "yejianping",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH004",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH004.wav",
+        "voice_type": "DH004_streaming",
+        "tone_number": "DH004",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "zhengxiangzhou",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH010",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH010.wav",
+        "voice_type": "DH010_streaming",
+        "tone_number": "DH010",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "zengrenwei",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV700_V2",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/BV7000.wav",
+        "voice_type": "BV700_V2_streaming",
+        "tone_number": "BV700_V2",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "灿灿2.0",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV701_V2",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/BV7011.wav",
+        "voice_type": "BV701_V2_streaming",
+        "tone_number": "BV701_V2",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "擎苍2.0",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV001_V2",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/BV0011.wav",
+        "voice_type": "BV001_V2_streaming",
+        "tone_number": "BV001_V2",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "通用女声2.0",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV425",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E9%BB%9B%E7%8E%89%E5%A6%B9%E5%A6%B9.mp3",
+        "voice_type": "BV425_streaming",
+        "tone_number": "BV425",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "黛玉妹妹",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV426",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E6%87%92%E5%B0%8F%E7%BE%8A.mp3",
+        "voice_type": "BV426_streaming",
+        "tone_number": "BV426",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "懒小羊",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV428",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E6%B8%85%E6%96%B0%E6%96%87%E8%89%BA%E5%A5%B3%E5%A3%B0.mp3",
+        "voice_type": "BV428_streaming",
+        "tone_number": "BV428",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "清新文艺女声",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV437",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E8%A7%A3%E8%AF%B4%E5%B0%8F%E5%B8%85-%E5%A4%9A%E6%83%85%E6%84%9F.mp3",
+        "voice_type": "BV437_streaming",
+        "tone_number": "BV437",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "解说小帅-多情感",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV406_V2",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E8%B6%85%E8%87%AA%E7%84%B6%E9%9F%B3%E8%89%B2-%E6%A2%93%E6%A2%932.0.mp3",
+        "voice_type": "BV406_V2_streaming",
+        "tone_number": "BV406_V2",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "超自然音色-梓梓2.0",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "BV407_V2",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E8%B6%85%E8%87%AA%E7%84%B6%E9%9F%B3%E8%89%B2-%E7%87%83%E7%87%832.0.mp3",
+        "voice_type": "BV407_V2_streaming",
+        "tone_number": "BV407_V2",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "1000",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Paid",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "超自然音色-燃燃2.0",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Paid"
+    },
+    {
+      "code": "DH031",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH031.wav",
+        "voice_type": "DH031_streaming",
+        "tone_number": "DH031",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "gujunhui",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "eonjbm44k2ly-2117aae3-6031-49cf-8ea6-6a6a82e16718",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/eonjbm44k2ly-2117aae3-6031-49cf-8ea6-6a6a82e16718.wav",
+        "voice_type": "eonjbm44k2ly-2117aae3-6031-49cf-8ea6-6a6a82e16718",
+        "tone_number": "eonjbm44k2ly-2117aae3-6031-49cf-8ea6-6a6a82e16718",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "wang20231010",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "eonjbm44k2ly-6b5dd493-1f45-4ab7-9f49-425d8a8c9ee1",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/eonjbm44k2ly-6b5dd493-1f45-4ab7-9f49-425d8a8c9ee1.wav",
+        "voice_type": "eonjbm44k2ly-6b5dd493-1f45-4ab7-9f49-425d8a8c9ee1",
+        "tone_number": "eonjbm44k2ly-6b5dd493-1f45-4ab7-9f49-425d8a8c9ee1",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "liu20231010",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "eonjbm44k2ly-0bd0dff4-f92b-4cb8-af92-8964972c2d5d",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/eonjbm44k2ly-0bd0dff4-f92b-4cb8-af92-8964972c2d5d.wav",
+        "voice_type": "eonjbm44k2ly-0bd0dff4-f92b-4cb8-af92-8964972c2d5d",
+        "tone_number": "eonjbm44k2ly-0bd0dff4-f92b-4cb8-af92-8964972c2d5d",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "zhou20231010",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "eonjbm44k2ly-d0a174a5-30f7-430b-bc8f-0355a36ecf6a",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/eonjbm44k2ly-d0a174a5-30f7-430b-bc8f-0355a36ecf6a.wav",
+        "voice_type": "eonjbm44k2ly-d0a174a5-30f7-430b-bc8f-0355a36ecf6a",
+        "tone_number": "eonjbm44k2ly-d0a174a5-30f7-430b-bc8f-0355a36ecf6a",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "xj",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "eonjbm44k2ly-f8199769-c3f7-4ca9-9ff7-1d51c2a2e721",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/eonjbm44k2ly-f8199769-c3f7-4ca9-9ff7-1d51c2a2e721.wav",
+        "voice_type": "eonjbm44k2ly-f8199769-c3f7-4ca9-9ff7-1d51c2a2e721",
+        "tone_number": "eonjbm44k2ly-f8199769-c3f7-4ca9-9ff7-1d51c2a2e721",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "lizi",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "eonjbm44k2ly-9fcd5eb5-8f9c-4bc0-be1a-6c1d22594c39",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "​https://lf3-speech.bytetos.com/obj/speech-tts-external/eonjbm44k2ly-9fcd5eb5-8f9c-4bc0-be1a-6c1d22594c39.wav",
+        "voice_type": "eonjbm44k2ly-9fcd5eb5-8f9c-4bc0-be1a-6c1d22594c39",
+        "tone_number": "eonjbm44k2ly-9fcd5eb5-8f9c-4bc0-be1a-6c1d22594c39",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "jingji100",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH066",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH066.wav",
+        "voice_type": "DH066_streaming",
+        "tone_number": "DH066",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "zhangqiV5",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH070",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH070.wav",
+        "voice_type": "DH070_streaming",
+        "tone_number": "DH070",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "xiaoxin",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "BV705",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/tts/%E7%82%80%E7%82%80.mp3",
+        "voice_type": "BV705_streaming",
+        "tone_number": "BV705",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "炀炀",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DZ003",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "http://tosv.byted.org/obj/speech-tts-general/DZ003_streaming_f3665bd7-6796-459c-b35f-64950209ac9e.mp3",
+        "voice_type": "DZ003_streaming",
+        "tone_number": "DZ003",
+        "recommended_scenario": "通用场景"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "人人影视-越哥",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH087",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH087.wav",
+        "voice_type": "DH087_streaming",
+        "tone_number": "DH087",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "zhengxiangzhou1124",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH083",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH083.wav",
+        "voice_type": "DH083_streaming",
+        "tone_number": "DH083",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "huangjing",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH091",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH091.wav",
+        "voice_type": "DH091_streaming",
+        "tone_number": "DH091",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "wangyu",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH095",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://lf3-speech.bytetos.com/obj/speech-tts-external/DH095.wav",
+        "voice_type": "DH095_streaming",
+        "tone_number": "DH095",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "gujunhui1218",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH104",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://tosv.byted.org/obj/speech-tts-general/tts_ps2_demo/8e86b840-5d8f-4d95-80f5-526324aa5d22/DH104.mp3",
+        "voice_type": "DH104_streaming",
+        "tone_number": "DH104",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "huanghongsheng1",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH105",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://tosv.byted.org/obj/speech-tts-general/tts_ps2_demo/9eb82619-f4b7-49bf-bffa-3ca331e3754d/DH105.mp3",
+        "voice_type": "DH105_streaming",
+        "tone_number": "DH105",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "huanghongsheng2",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH115",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://tosv.byted.org/obj/speech-tts-general/tts_ps2_demo/8ea84d06-6de2-42d8-b701-f7f2ed3b87de/DH115.mp3",
+        "voice_type": "DH115_streaming",
+        "tone_number": "DH115",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "hengyang",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH116",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://tosv.byted.org/obj/speech-tts-general/tts_ps2_demo/2a503cec-e408-4170-baa1-f241e612f61d/DH116.mp3",
+        "voice_type": "DH116_streaming",
+        "tone_number": "DH116",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "zhangyi",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH124",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "http://tosv.byted.org/obj/speech-tts-general/DH124_streaming_b20294af-ebc1-4008-a62c-547af56190d1.mp3",
+        "voice_type": "DH124_streaming",
+        "tone_number": "DH124",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "shangzongDH124",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH142",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://tosv.byted.org/obj/speech-tts-general/DH142_streaming_557f6aa5-a345-405c-a895-0d46a545b6ea.mp3",
+        "voice_type": "DH142_streaming",
+        "tone_number": "DH142",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "suzhou_xiaoli",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH149",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://tosv.byted.org/obj/speech-tts-general/DH149_streaming_278cab1e-fc43-4b59-8ea5-353ccbec139a.mp3",
+        "voice_type": "DH149_streaming",
+        "tone_number": "DH149",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "zhongan",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH162",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "http://tosv.byted.org/obj/speech-tts-general/DH162_streaming_9fbda77f-3f79-4c9a-a54a-4ada7b4d59e4.mp3",
+        "voice_type": "DH162_streaming",
+        "tone_number": "DH162",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "chenyuxia",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH161",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "http://tosv.byted.org/obj/speech-tts-general/DH161_streaming_2aa2fc77-0204-4a43-931a-0177858ff5b0.mp3",
+        "voice_type": "DH161_streaming",
+        "tone_number": "DH161",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "luoxiaoying",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH171",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "http://tosv.byted.org/obj/speech-tts-general/DH171_streaming_e4a7ba6e-d863-4e97-98eb-d8ababbb46a1.mp3",
+        "voice_type": "DH171_streaming",
+        "tone_number": "DH171",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "luoxiaoying2",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    },
+    {
+      "code": "DH191",
+      "period": "monthly",
+      "details": {
+        "language": "中文",
+        "demo_link": "https://tosv.byted.org/obj/speech-tts-general/DH191_streaming_1ed051dc-d67c-4711-8742-d86f59a7457e.mp3",
+        "voice_type": "DH191_streaming",
+        "tone_number": "DH191",
+        "recommended_scenario": "视频配音"
+      },
+      "is_quota": false,
+      "is_access": true,
+      "pack_type": "access",
+      "quota_type": "",
+      "never_expire": false,
+      "price_display": "0",
+      "expireQuantity": 0,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "Timbre-Free",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "huolala",
+      "display_as_bought": false,
+      "configuration_code": "Timbre-Free"
+    }
+  ],
+  "monitoring_quota_type": "concurrency",
+  "monitoring_usage_type": "requests",
+  "default_business_quota": 100,
+  "prepaid_resource_packs": [
+    {
+      "code": "",
+      "period": "monthly",
+      "details": null,
+      "is_quota": false,
+      "is_access": false,
+      "pack_type": "prepaid",
+      "quota_type": "requests",
+      "never_expire": false,
+      "price_display": "30",
+      "expireQuantity": 12,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "API_Package-10_thousand_requests",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "10千次/年",
+      "display_as_bought": false,
+      "configuration_code": "API_Package-10_thousand_requests"
+    },
+    {
+      "code": "",
+      "period": "monthly",
+      "details": null,
+      "is_quota": false,
+      "is_access": false,
+      "pack_type": "prepaid",
+      "quota_type": "requests",
+      "never_expire": false,
+      "price_display": "99",
+      "expireQuantity": 12,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "API_Package-30thousand_requests",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "30千次/年",
+      "display_as_bought": false,
+      "configuration_code": "API_Package-30thousand_requests"
+    },
+    {
+      "code": "",
+      "period": "monthly",
+      "details": null,
+      "is_quota": false,
+      "is_access": false,
+      "pack_type": "prepaid",
+      "quota_type": "requests",
+      "never_expire": false,
+      "price_display": "5000",
+      "expireQuantity": 12,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "API_Package-1250thousand_requests",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "1,250千次/年",
+      "display_as_bought": false,
+      "configuration_code": "API_Package-1250thousand_requests"
+    },
+    {
+      "code": "",
+      "period": "monthly",
+      "details": null,
+      "is_quota": false,
+      "is_access": false,
+      "pack_type": "prepaid",
+      "quota_type": "requests",
+      "never_expire": false,
+      "price_display": "50000",
+      "expireQuantity": 12,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "API Package:12500 thousand requests",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "12,500千次/年",
+      "display_as_bought": false,
+      "configuration_code": "API Package:12500 thousand requests"
+    },
+    {
+      "code": "",
+      "period": "monthly",
+      "details": null,
+      "is_quota": false,
+      "is_access": false,
+      "pack_type": "prepaid",
+      "quota_type": "requests",
+      "never_expire": false,
+      "price_display": "90000",
+      "expireQuantity": 12,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "API Package:30000 thousand requests",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "30,000千次/年",
+      "display_as_bought": false,
+      "configuration_code": "API Package:30000 thousand requests"
+    },
+    {
+      "code": "",
+      "period": "monthly",
+      "details": null,
+      "is_quota": false,
+      "is_access": false,
+      "pack_type": "prepaid",
+      "quota_type": "requests",
+      "never_expire": false,
+      "price_display": "200000",
+      "expireQuantity": 12,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "API Package:100000 thousand requests",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "100,000千次/年",
+      "display_as_bought": false,
+      "configuration_code": "API Package:100000 thousand requests"
+    },
+    {
+      "code": "",
+      "period": "monthly",
+      "details": null,
+      "is_quota": false,
+      "is_access": false,
+      "pack_type": "prepaid",
+      "quota_type": "requests",
+      "never_expire": false,
+      "price_display": "500000",
+      "expireQuantity": 12,
+      "specified_name": "",
+      "quota_type_meta": {
+        "unit_meta": {}
+      },
+      "charge_item_code": "API Package:300000 thousand requests",
+      "duration_display": "自购买之日起生效",
+      "resource_display": "300,000千次/年",
+      "display_as_bought": false,
+      "configuration_code": "API Package:300000 thousand requests"
+    }
+  ],
+  "pricing_display_config": {
+    "api_name": "语音合成",
+    "api_header": "API",
+    "price_header": "梯度价格（元/次）",
+    "gradient_header": "日调用量",
+    "gradient_value_unit": "调用次数",
+    "gradient_boundary_expression": "pretty_int(value)"
+  },
+  "pricing_display_method": "",
+  "formal_charge_item_code": "API Usage",
+  "monitoring_quota_type_meta": {
+    "unit_meta": {}
+  },
+  "monthly_configuration_code": "API_Usage_Paid_monthly",
+  "offline_access_resource_packs": null,
+  "prepaid_service_resource_packs": null,
+  "monitoring_usage_type_with_meta": {
+    "unit_meta": {}
+  },
+  "monthly_formal_charge_item_code": "API Usage",
+  "resource_pack_pricing_display_method": "",
+  "prepaid_service_resource_pack_display_filters": null
+}

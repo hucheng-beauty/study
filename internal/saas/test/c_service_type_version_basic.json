@@ -1,0 +1,111 @@
+{
+  "id": 10029,
+  "quotaType": "concurrency",
+  "chargeUnit": "text_words",
+  "resourceID": "volc.service_type.10029",
+  "trialQuota": 10,
+  "businessQuota": 10,
+  "serviceTypeCn": [
+    "字符版"
+  ],
+  "serviceTypeEn": [
+    "BigTTS"
+  ],
+  "clusterDisplays": [
+    "volcano_tts"
+  ],
+  "defaultPostpaid": "API_Usage-character_hourly",
+  "postpaidConfigs": [
+    {
+      "chargeItem": "API_Usage-character_hourly",
+      "configName": "API_Usage-character_hourly",
+      "nameDisplay": "API字数小时结",
+      "chargeMethod": "hourly",
+      "priceDisplay": "0.0005"
+    },
+    {
+      "chargeItem": "API_Usage-character_monthly",
+      "configName": "API_Usage-character_monthly",
+      "nameDisplay": "API字数月结",
+      "chargeMethod": "monthly",
+      "priceDisplay": "0.0005"
+    }
+  ],
+  "trialUsageQuota": 20000,
+  "trialExpireMonths": 6,
+  "chargeUnitWithMeta": {
+    "meta": {
+      "unit_meta": {}
+    },
+    "crop_type": "text_words"
+  },
+  "quotaResourcePacks": [
+    {
+      "chargeItem": "Concurrent",
+      "configName": "Concurrent",
+      "nameDisplay": "并发",
+      "chargeMethod": "monthly",
+      "priceDisplay": "100"
+    }
+  ],
+  "accessResourcePacks": null,
+  "prepaidResourcePacks": [
+    {
+      "times": 12,
+      "chargeItem": "API_Package-10w_chara",
+      "configName": "API_Package-10w_chara",
+      "nameDisplay": "字数包10万字",
+      "chargeMethod": "once_pre",
+      "priceDisplay": "45"
+    },
+    {
+      "times": 12,
+      "chargeItem": "API_Package-200w_chara",
+      "configName": "API_Package-200w_chara",
+      "nameDisplay": "字数包200万字",
+      "chargeMethod": "once_pre",
+      "priceDisplay": "800"
+    },
+    {
+      "times": 12,
+      "chargeItem": "API_Package-2000w_chara",
+      "configName": "API_Package-2000w_chara",
+      "nameDisplay": "字数包2000万字",
+      "chargeMethod": "once_pre",
+      "priceDisplay": "7000"
+    },
+    {
+      "times": 12,
+      "chargeItem": "API_Package-100000w_chara",
+      "configName": "API_Package-100000w_chara",
+      "nameDisplay": "字数包100000万字",
+      "chargeMethod": "once_pre",
+      "priceDisplay": "200000"
+    },
+    {
+      "times": 12,
+      "chargeItem": "API_Package-20000w_chara",
+      "configName": "API_Package-20000w_chara",
+      "nameDisplay": "字数包20000万字",
+      "chargeMethod": "once_pre",
+      "priceDisplay": "60000"
+    },
+    {
+      "times": 12,
+      "chargeItem": "API_Package-300000w_chara",
+      "configName": "API_Package-300000w_chara",
+      "nameDisplay": "字数包300000万字",
+      "chargeMethod": "once_pre",
+      "priceDisplay": "480000"
+    }
+  ],
+  "parameterLicenseEnabled": true,
+  "prepaidResourcePackName": "",
+  "trialUsageQuotaTypeCrop": "text_words_lifetime",
+  "trialUsageQuotaTypeWithMeta": {
+    "meta": {
+      "unit_meta": {}
+    },
+    "crop_type": "text_words_lifetime"
+  }
+}

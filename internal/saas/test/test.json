@@ -1,0 +1,266 @@
+{
+  "project": {
+    "id": 24991,
+    "appid": "8704510079",
+    "top_account_id": "2100486172",
+    "name": "test_0918_saas",
+    "description": "test",
+    "service_tree_node": "113953",
+    "service_tree_path": "|AI-Lab|Speech|PLATFORM|SaaS",
+    "created_timestamp": 1758186555354,
+    "test_project": true,
+    "system": "volcengine",
+    "state": "accepted",
+    "deactivated": false,
+    "alert_user_emails": null,
+    "accepted": true,
+    "user_permissions": null
+  },
+  "product": {
+    "id": 15,
+    "details_icon": "empty",
+    "listing_order": 6,
+    "system": "volcengine",
+    "business_line": "Audio Understanding",
+    "product_category": "API",
+    "api_service": null,
+    "service_tree_node": "2477094",
+    "service_tree_path": "|火山引擎-AI-tob|智能语音交互|语音技术|语音识别",
+    "psm": "lab.speech.asr",
+    "volc_product": "one-sentence-recognition",
+    "product_doc": "https://www.volcengine.com/docs/6561/109880",
+    "pricing_doc": "https://www.volcengine.com/docs/6561/111503",
+    "api_doc": "https://www.volcengine.com/docs/6561/80816",
+    "sdk_doc": "https://www.volcengine.com/docs/6561/116824",
+    "launch_status": "launched",
+    "delisted": false,
+    "listing_public": false,
+    "is_big_model": false,
+    "product_id": 15,
+    "details_name": "一句话识别",
+    "details_name_short": null,
+    "listing_group": "empty"
+  },
+  "service": {
+    "id": 13414,
+    "name": "volcengine-volc.service_type.10010-8704510079",
+    "project_id": 24991,
+    "inactive": false,
+    "state": "active",
+    "level": "business",
+    "active_quotas": [
+      {
+        "type": "concurrency",
+        "limit": 1
+      }
+    ],
+    "pending_quotas": {
+      "service_level": "",
+      "workflow_id": "",
+      "quota": null
+    },
+    "blueprint": {
+      "id": 10010,
+      "psm": "lab.speech.asr",
+      "product_id": 15,
+      "resource_id": "volc.service_type.10010",
+      "listing_order": 0,
+      "listing_public": false,
+      "system": "volcengine",
+      "clusters": [
+        "faswef"
+      ],
+      "details_name": "测试一",
+      "listing_group": "测试",
+      "details_description": "empty",
+      "details_price_trial": "empty",
+      "details_price_full": "empty",
+      "billing_product": "",
+      "billing_service": "",
+      "billing_service_node": null,
+      "billing_service_path": null,
+      "billing_location": "",
+      "billing_price_source": "",
+      "billing_price_expr": "",
+      "billing_username": "",
+      "billing_password": "",
+      "quota_trial": [
+        {
+          "type": "concurrency",
+          "crop_type_with_meta": {
+            "unit_meta": {}
+          },
+          "limit": 1
+        },
+        {
+          "type": "sessions",
+          "crop_type_with_meta": {
+            "unit_meta": {}
+          },
+          "limit": 1
+        }
+      ],
+      "quota_business": [
+        {
+          "name": "concurrency",
+          "crop_type_with_meta": {
+            "unit_meta": {}
+          }
+        }
+      ],
+      "volcengine_config": {
+        "product": "one-sentence-recognition",
+        "configuration_code": "API Usage",
+        "formal_charge_item_code": "API Usage",
+        "monthly_configuration_code": "API_Usage_Paid_monthly",
+        "monthly_formal_charge_item_code": "API Usage",
+        "billing_rules": "https://www.volcengine.com/docs/6561/111503",
+        "default_business_quota": 1,
+        "pricing_display_config": {
+          "api_header": "API",
+          "api_name": "一句话识别",
+          "gradient_header": "日调用量",
+          "gradient_value_unit": "调用次数",
+          "gradient_boundary_expression": "pretty_int(value)",
+          "price_header": "梯度价格（元/次）"
+        },
+        "prepaid_resource_packs": [
+          {
+            "code": "",
+            "configuration_code": "API Package:1000 thousand requests",
+            "charge_item_code": "API Package:1000 thousand requests",
+            "period": "monthly",
+            "never_expire": false,
+            "expireQuantity": 12,
+            "resource_display": "API次数包1000千次",
+            "price_display": "2200.000",
+            "duration_display": "自购买之日起生效",
+            "display_as_bought": false,
+            "details": null,
+            "is_quota": false,
+            "is_access": false,
+            "pack_type": "prepaid",
+            "quota_type": "sessions",
+            "quota_type_meta": {
+              "unit_meta": {}
+            },
+            "alias_generator": "specified_name",
+            "specified_name": ""
+          },
+          {
+            "code": "",
+            "configuration_code": "API Package:10000 thousand requests",
+            "charge_item_code": "API Package:10000 thousand requests",
+            "period": "monthly",
+            "never_expire": false,
+            "expireQuantity": 12,
+            "resource_display": "API次数包10000千次",
+            "price_display": "16000.000",
+            "duration_display": "自购买之日起生效",
+            "display_as_bought": false,
+            "details": null,
+            "is_quota": false,
+            "is_access": false,
+            "pack_type": "prepaid",
+            "quota_type": "sessions",
+            "quota_type_meta": {
+              "unit_meta": {}
+            },
+            "alias_generator": "specified_name",
+            "specified_name": ""
+          }
+        ],
+        "quota_resource_packs": [
+          {
+            "code": "",
+            "configuration_code": "Common-CN_Concurrent Add-ons by month",
+            "charge_item_code": "Common-CN_Concurrent",
+            "period": "monthly",
+            "never_expire": false,
+            "expireQuantity": 0,
+            "resource_display": "通用-中文增购并发按月",
+            "price_display": "100.000",
+            "duration_display": "自购买之日起生效",
+            "display_as_bought": false,
+            "details": null,
+            "is_quota": true,
+            "is_access": false,
+            "pack_type": "quota",
+            "quota_type": "concurrency",
+            "quota_type_meta": {
+              "unit_meta": {}
+            },
+            "specified_name": ""
+          }
+        ],
+        "access_resource_packs": [],
+        "dummy_resource_packs": null,
+        "offline_access_resource_packs": null,
+        "access_documentation": [
+          {
+            "category": "API",
+            "access_methods": [
+              {
+                "name": "接入文档",
+                "url": "https://www.volcengine.com/docs/6561/80816"
+              }
+            ]
+          },
+          {
+            "category": "SDK",
+            "access_methods": [
+              {
+                "name": "接入文档",
+                "url": "https://www.volcengine.com/docs/6561/116824"
+              }
+            ]
+          }
+        ],
+        "monitoring_quota_type": "concurrency",
+        "monitoring_quota_type_meta": {
+          "unit_meta": {}
+        },
+        "monitoring_usage_type": "sessions",
+        "monitoring_usage_type_with_meta": {
+          "unit_meta": {}
+        },
+        "hidden": false,
+        "trial_duration_day": 30,
+        "pricing_display_method": "",
+        "resource_pack_pricing_display_method": "",
+        "prepaid_service_resource_pack_display_filters": null,
+        "prepaid_service_resource_packs": null,
+        "binding_platform": "",
+        "given_resource_packs": [
+          {
+            "code": "",
+            "configuration_code": "Free_API_Package_1_sessions_volc.service_type.10010",
+            "charge_item_code": "Free_API_Package_1_sessions_volc.service_type.10010",
+            "period": "",
+            "never_expire": true,
+            "expireQuantity": 0,
+            "resource_display": "Free_API_Package_1_sessions_volc.service_type.10010",
+            "price_display": "",
+            "duration_display": "自购买之日起生效",
+            "display_as_bought": false,
+            "details": {
+              "not_renewable": true
+            },
+            "is_quota": false,
+            "is_access": false,
+            "pack_type": "prepaid",
+            "quota_type": "sessions",
+            "quota_type_meta": {
+              "unit_meta": {}
+            },
+            "specified_name": "",
+            "given_after_first_plant": true,
+            "given_value": 1
+          }
+        ]
+      }
+    },
+    "volc_instance_number": "One-sentence-recognition2000000050992949152",
+    "is_standalone": false
+  }
+}

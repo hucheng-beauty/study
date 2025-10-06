@@ -1,0 +1,108 @@
+{
+  "quotaType": "concurrency",
+  "trialQuota": 1,
+  "trialUsageQuota": 2,
+  "trialExpireMonths": 3,
+  "businessQuota": 4,
+  "serviceTypeCn": [
+    "请求版语音合成"
+  ],
+  "serviceTypeEn": [
+    "PackageSpeech_Synthesis"
+  ],
+  "postpaidConfigs": [
+    {
+      "configName": "API Usage",
+      "chargeItem": "API Usage",
+      "chargeMethod": "hourly",
+      "nameDisplay": "API调用次数",
+      "priceDisplay": "Interval:[0.0055,0.005,0.0045,0.004], LowerBound:[0,1000000,5000000,10000000]",
+      "chargeUnit": "request;业务含义:计费单位",
+      "chargeItemId": "1;业务含义:计费项Id,计费项组成部分(计费方法为hour+month的配置.后续扩展 realtime)"
+    },
+    {
+      "configName": "API_Usage_Paid_monthly",
+      "chargeItem": "API Usage",
+      "chargeMethod": "monthly",
+      "nameDisplay": "API调用次数_月结",
+      "priceDisplay": "Interval:[0.0055,0.005,0.0045,0.004], LowerBound:[0,1000000,5000000,10000000]",
+      "chargeUnit": "request",
+      "chargeItemId": 1
+    }
+  ],
+  "defaultPostpaid": "API Usage",
+  "prepaidResourcePacks": [
+    {
+      "configName": "API Package:100000 thousand requests",
+      "chargeItem": "API Package:100000 thousand requests",
+      "chargeMethod": "once_pre",
+      "nameDisplay": "API次数包100000千次",
+      "priceDisplay": "200000.000000",
+      "times": 1
+    },
+    {
+      "configName": "API Package:12500 thousand requests",
+      "chargeItem": "API Package:12500 thousand requests",
+      "chargeMethod": "once_pre",
+      "nameDisplay": "API次数包12500千次",
+      "priceDisplay": "50000.000000",
+      "times": 11
+    }
+  ],
+  "quotaResourcePacks": [
+    {
+      "configName": "Concurrent Add-ons by month",
+      "chargeItem": "Concurrent",
+      "chargeMethod": "monthly",
+      "nameDisplay": "增购并发按月",
+      "priceDisplay": "100.000000"
+    },
+    {
+      "configName": "Concurrent_only",
+      "chargeItem": "Concurrent_only",
+      "chargeMethod": "monthly",
+      "nameDisplay": "语音合成-仅按并发",
+      "priceDisplay": "300.000000"
+    }
+  ],
+  "chargeUnit": "requests",
+  "chargeUnitWithMeta": {
+    "crop_type": "requests",
+    "meta": {
+      "unit_meta": {}
+    }
+  },
+  "trialUsageQuotaTypeCrop": "requests_lifetime",
+  "trialUsageQuotaTypeWithMeta": {
+    "crop_type": "requests_lifetime",
+    "meta": {
+      "unit_meta": {}
+    }
+  },
+  "rateLimitConfigs": {
+    "businessLimit": [
+      {
+        "type": "tpm",
+        "id": 0,
+        "value": 10000
+      },
+      {
+        "type": "qpm",
+        "id": 1,
+        "value": 10000
+      }
+    ],
+    "trialLimit": [
+      {
+        "type": "audio_duration_life_time",
+        "durationUnit": "minute",
+        "value": 20
+      },
+      {
+        "type": "request_lifetime",
+        "durationUnit": "",
+        "value": 20
+      }
+    ]
+  }
+}

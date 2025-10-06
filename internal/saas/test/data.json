@@ -1,0 +1,5708 @@
+[
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/湾区大叔.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_wanqudashu_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_wanqudashu_moon_bigtts",
+    "nameDisplay": "湾区大叔",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_wanqudashu_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/呆萌川妹.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_daimengchuanmei_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_daimengchuanmei_moon_bigtts",
+    "nameDisplay": "呆萌川妹",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_daimengchuanmei_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/广州德哥.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_guozhoudege_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_guozhoudege_moon_bigtts",
+    "nameDisplay": "广州德哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_guozhoudege_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/北京小爷.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_beijingxiaoye_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_beijingxiaoye_moon_bigtts",
+    "nameDisplay": "北京小爷",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_beijingxiaoye_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/少年梓辛.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_male_shaonianzixin_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_shaonianzixin_moon_bigtts",
+    "nameDisplay": "少年梓辛/Brayan",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_shaonianzixin_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/魅力女友.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_meilinvyou_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_meilinvyou_moon_bigtts",
+    "nameDisplay": "魅力女友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_meilinvyou_moon_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/深夜播客.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_shenyeboke_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_shenyeboke_moon_bigtts",
+    "nameDisplay": "深夜播客",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_shenyeboke_moon_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/柔美女友.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_sajiaonvyou_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_sajiaonvyou_moon_bigtts",
+    "nameDisplay": "柔美女友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_sajiaonvyou_moon_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/撒娇学妹.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_yuanqinvyou_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_yuanqinvyou_moon_bigtts",
+    "nameDisplay": "撒娇学妹",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_yuanqinvyou_moon_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/浩宇小哥.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_haoyuxiaoge_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_haoyuxiaoge_moon_bigtts",
+    "nameDisplay": "浩宇小哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_haoyuxiaoge_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/广西远舟.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_guangxiyuanzhou_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_guangxiyuanzhou_moon_bigtts",
+    "nameDisplay": "广西远舟",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_guangxiyuanzhou_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/妹坨洁儿.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_meituojieer_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_meituojieer_moon_bigtts",
+    "nameDisplay": "妹坨洁儿",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_meituojieer_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/豫州子轩.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_yuzhouzixuan_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_yuzhouzixuan_moon_bigtts",
+    "nameDisplay": "豫州子轩",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_yuzhouzixuan_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/邻家女孩.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_linjianvhai_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_linjianvhai_moon_bigtts",
+    "nameDisplay": "邻家女孩",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_linjianvhai_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/高冷御姐.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_gaolengyujie_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_gaolengyujie_moon_bigtts",
+    "nameDisplay": "高冷御姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_gaolengyujie_moon_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/渊博小叔.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_yuanboxiaoshu_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_yuanboxiaoshu_moon_bigtts",
+    "nameDisplay": "渊博小叔",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_yuanboxiaoshu_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/阳光青年.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_yangguangqingnian_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_yangguangqingnian_moon_bigtts",
+    "nameDisplay": "阳光青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_yangguangqingnian_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/傲娇霸总.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_aojiaobazong_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_aojiaobazong_moon_bigtts",
+    "nameDisplay": "傲娇霸总",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_aojiaobazong_moon_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/京腔侃爷.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_male_jingqiangkanye_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_jingqiangkanye_moon_bigtts",
+    "nameDisplay": "京腔侃爷/Harmony",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_jingqiangkanye_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/爽快思思.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_shuangkuaisisi_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_shuangkuaisisi_moon_bigtts",
+    "nameDisplay": "爽快思思/Skye",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_shuangkuaisisi_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/温暖阿虎.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_male_wennuanahu_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_wennuanahu_moon_bigtts",
+    "nameDisplay": "温暖阿虎/Alvin",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_wennuanahu_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E6%B9%BE%E6%B9%BE%E5%B0%8F%E4%BD%95.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_wanwanxiaohe_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_wanwanxiaohe_moon_bigtts",
+    "nameDisplay": "湾湾小何",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_wanwanxiaohe_moon_bigtts"
+    ],
+    "recommendedScenario": "趣味方言",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/晴子.wav",
+    "language": "日/西",
+    "voiceType": [
+      "multi_female_shuangkuaisisi_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_female_shuangkuaisisi_moon_bigtts",
+    "nameDisplay": "はるこ/Esmeralda",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_female_shuangkuaisisi_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/和音.wav",
+    "language": "日/西",
+    "voiceType": [
+      "multi_male_jingqiangkanye_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_male_jingqiangkanye_moon_bigtts",
+    "nameDisplay": "かずね/Javier or Álvaro",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_male_jingqiangkanye_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/朱美.mp3",
+    "language": "日语",
+    "voiceType": [
+      "multi_female_gaolengyujie_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_female_gaolengyujie_moon_bigtts",
+    "nameDisplay": "あけみ",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_female_gaolengyujie_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/広志.mp3",
+    "language": "日/西",
+    "voiceType": [
+      "multi_male_wanqudashu_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_male_wanqudashu_moon_bigtts",
+    "nameDisplay": "ひろし/Roberto",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_male_wanqudashu_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E7%97%85%E5%BC%B1%E5%B0%91%E5%A5%B3.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_bingruoshaonv_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_bingruoshaonv_tob",
+    "nameDisplay": "病弱少女",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_bingruoshaonv_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E6%B4%BB%E6%B3%BC%E5%A5%B3%E5%AD%A9.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_huoponvhai_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_huoponvhai_tob",
+    "nameDisplay": "活泼女孩",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_huoponvhai_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E5%92%8C%E8%94%BC%E5%A5%B6%E5%A5%B6.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_heainainai_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_heainainai_tob",
+    "nameDisplay": "和蔼奶奶",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_heainainai_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E9%82%BB%E5%B1%85%E9%98%BF%E5%A7%A8.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_linjuayi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_linjuayi_tob",
+    "nameDisplay": "邻居阿姨",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_linjuayi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E6%B8%A9%E6%9F%94%E5%B0%8F%E9%9B%85.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_wenrouxiaoya_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_wenrouxiaoya_moon_bigtts",
+    "nameDisplay": "温柔小雅",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_wenrouxiaoya_moon_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E7%94%9C%E7%BE%8E%E5%B0%8F%E6%BA%90.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_tianmeixiaoyuan_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_tianmeixiaoyuan_moon_bigtts",
+    "nameDisplay": "甜美小源",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_tianmeixiaoyuan_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E6%B8%85%E6%BE%88%E6%A2%93%E6%A2%93.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_qingchezizi_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_qingchezizi_moon_bigtts",
+    "nameDisplay": "清澈梓梓",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_qingchezizi_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E4%B8%9C%E6%96%B9%E6%B5%A9%E7%84%B6.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_dongfanghaoran_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_dongfanghaoran_moon_bigtts",
+    "nameDisplay": "东方浩然",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_dongfanghaoran_moon_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E8%A7%A3%E8%AF%B4%E5%B0%8F%E6%98%8E.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_jieshuoxiaoming_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_jieshuoxiaoming_moon_bigtts",
+    "nameDisplay": "解说小明",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_jieshuoxiaoming_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E5%BC%80%E6%9C%97%E5%A7%90%E5%A7%90.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_kailangjiejie_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_kailangjiejie_moon_bigtts",
+    "nameDisplay": "开朗姐姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_kailangjiejie_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E9%82%BB%E5%AE%B6%E7%94%B7%E5%AD%A9.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_linjiananhai_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_linjiananhai_moon_bigtts",
+    "nameDisplay": "邻家男孩",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_linjiananhai_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E7%94%9C%E7%BE%8E%E6%82%A6%E6%82%A6.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_tianmeiyueyue_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_tianmeiyueyue_moon_bigtts",
+    "nameDisplay": "甜美悦悦",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_tianmeiyueyue_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/%E5%BF%83%E7%81%B5%E9%B8%A1%E6%B1%A4.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_xinlingjitang_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_xinlingjitang_moon_bigtts",
+    "nameDisplay": "心灵鸡汤",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_xinlingjitang_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/oppo/result_zh_female_oppo_mars_bigtts.wav",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_oppo_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_oppo_mars_bigtts",
+    "nameDisplay": "oppo_mars",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_oppo_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/xiaomi/result_zh_female_xiaoai1025_mars_bigtts.wav",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_xiaoai1025_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_xiaoai1025_mars_bigtts",
+    "nameDisplay": "xiaoai1025",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_xiaoai1025_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_cancan_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_cancan_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_cancan_mars_bigtts",
+    "nameDisplay": "灿灿",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_cancan_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/en_female_anna_mars_bigtts.mp3",
+    "language": "英文",
+    "voiceType": [
+      "en_female_anna_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_anna_mars_bigtts",
+    "nameDisplay": "Anna",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_anna_mars_bigtts"
+    ],
+    "recommendedScenario": "播报解说",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_tiancaitongsheng_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_tiancaitongsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_tiancaitongsheng_mars_bigtts",
+    "nameDisplay": "天才童声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_tiancaitongsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_naiqimengwa_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_naiqimengwa_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_naiqimengwa_mars_bigtts",
+    "nameDisplay": "奶气萌娃",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_naiqimengwa_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_sunwukong_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_sunwukong_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_sunwukong_mars_bigtts",
+    "nameDisplay": "猴哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_sunwukong_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_xionger_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_xionger_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_xionger_mars_bigtts",
+    "nameDisplay": "熊二",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_xionger_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_peiqi_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_peiqi_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_peiqi_mars_bigtts",
+    "nameDisplay": "佩奇猪",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_peiqi_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_zhixingnvsheng_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_zhixingnvsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_zhixingnvsheng_mars_bigtts",
+    "nameDisplay": "知性女声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_zhixingnvsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_qingxinnvsheng_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_qingxinnvsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_qingxinnvsheng_mars_bigtts",
+    "nameDisplay": "清新女声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_qingxinnvsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_changtianyi_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_changtianyi_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_changtianyi_mars_bigtts",
+    "nameDisplay": "悬疑解说",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_changtianyi_mars_bigtts"
+    ],
+    "recommendedScenario": "播报解说",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_popo_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_popo_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_popo_mars_bigtts",
+    "nameDisplay": "婆婆",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_popo_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_wuzetian_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_wuzetian_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_wuzetian_mars_bigtts",
+    "nameDisplay": "武则天",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_wuzetian_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_linjia_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_linjia_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_linjia_mars_bigtts",
+    "nameDisplay": "邻家小妹",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_linjia_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_shaoergushi_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_shaoergushi_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_shaoergushi_mars_bigtts",
+    "nameDisplay": "少儿故事",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_shaoergushi_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_silang_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_male_silang_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_silang_mars_bigtts",
+    "nameDisplay": "四郎",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_silang_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_gujie_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_gujie_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_gujie_mars_bigtts",
+    "nameDisplay": "顾姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_gujie_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_yingtaowanzi_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_yingtaowanzi_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_yingtaowanzi_mars_bigtts",
+    "nameDisplay": "樱桃丸子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_yingtaowanzi_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_jieshuonansheng_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_male_jieshuonansheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_jieshuonansheng_mars_bigtts",
+    "nameDisplay": "磁性解说男声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_jieshuonansheng_mars_bigtts"
+    ],
+    "recommendedScenario": "播报解说",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_jitangmeimei_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_jitangmeimei_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_jitangmeimei_mars_bigtts",
+    "nameDisplay": "鸡汤妹妹",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_jitangmeimei_mars_bigtts"
+    ],
+    "recommendedScenario": "播报解说",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_chunhui_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_chunhui_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_chunhui_mars_bigtts",
+    "nameDisplay": "广告解说",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_chunhui_mars_bigtts"
+    ],
+    "recommendedScenario": "播报解说",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_qingshuangnanda_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_qingshuangnanda_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_qingshuangnanda_mars_bigtts",
+    "nameDisplay": "清爽男大",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_qingshuangnanda_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_tiexinnvsheng_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_tiexinnvsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_tiexinnvsheng_mars_bigtts",
+    "nameDisplay": "贴心女声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_tiexinnvsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_qiaopinvsheng_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_qiaopinvsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_qiaopinvsheng_mars_bigtts",
+    "nameDisplay": "俏皮女声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_qiaopinvsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_mengyatou_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_mengyatou_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_mengyatou_mars_bigtts",
+    "nameDisplay": "萌丫头",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_mengyatou_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/en_male_adam_mars_bigtts.mp3",
+    "language": "英语",
+    "voiceType": [
+      "en_male_adam_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_adam_mars_bigtts",
+    "nameDisplay": "Adam",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_adam_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/en_female_sarah_mars_bigtts.mp3",
+    "language": "英语",
+    "voiceType": [
+      "en_female_sarah_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_sarah_mars_bigtts",
+    "nameDisplay": "Sarah",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_sarah_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/en_male_dryw_mars_bigtts.mp3",
+    "language": "英语",
+    "voiceType": [
+      "en_male_dryw_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_dryw_mars_bigtts",
+    "nameDisplay": "Dryw",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_dryw_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/en_male_smith_mars_bigtts.mp3",
+    "language": "英语",
+    "voiceType": [
+      "en_male_smith_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_smith_mars_bigtts",
+    "nameDisplay": "Smith",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_smith_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_ruyaqingnian_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_ruyaqingnian_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_ruyaqingnian_mars_bigtts",
+    "nameDisplay": "儒雅青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_ruyaqingnian_mars_bigtts"
+    ],
+    "recommendedScenario": "有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_baqiqingshu_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_baqiqingshu_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_baqiqingshu_mars_bigtts",
+    "nameDisplay": "霸气青叔",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_baqiqingshu_mars_bigtts"
+    ],
+    "recommendedScenario": "有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_qingcang_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_qingcang_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_qingcang_mars_bigtts",
+    "nameDisplay": "擎苍",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_qingcang_mars_bigtts"
+    ],
+    "recommendedScenario": "有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_yangguangqingnian_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_yangguangqingnian_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_yangguangqingnian_mars_bigtts",
+    "nameDisplay": "活力小哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_yangguangqingnian_mars_bigtts"
+    ],
+    "recommendedScenario": "有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_gufengshaoyu_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_gufengshaoyu_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_gufengshaoyu_mars_bigtts",
+    "nameDisplay": "古风少御",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_gufengshaoyu_mars_bigtts"
+    ],
+    "recommendedScenario": "有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_wenroushunv_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_wenroushunv_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_wenroushunv_mars_bigtts",
+    "nameDisplay": "温柔淑女",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_wenroushunv_mars_bigtts"
+    ],
+    "recommendedScenario": "有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_zhixingwenwan_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_zhixingwenwan_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_zhixingwenwan_tob",
+    "nameDisplay": "知性温婉",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_zhixingwenwan_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_lvchaxiaoge_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lvchaxiaoge_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lvchaxiaoge_tob",
+    "nameDisplay": "绿茶小哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lvchaxiaoge_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_jiaoruoluoli_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_jiaoruoluoli_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_jiaoruoluoli_tob",
+    "nameDisplay": "娇弱萝莉",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_jiaoruoluoli_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_lengdanshuli_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lengdanshuli_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lengdanshuli_tob",
+    "nameDisplay": "冷淡疏离",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lengdanshuli_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_nuanxintitie_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_nuanxintitie_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_nuanxintitie_tob",
+    "nameDisplay": "暖心体贴",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_nuanxintitie_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_hanhoudunshi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_hanhoudunshi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_hanhoudunshi_tob",
+    "nameDisplay": "憨厚敦实",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_hanhoudunshi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_wenrouwenya_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_wenrouwenya_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_wenrouwenya_tob",
+    "nameDisplay": "温柔文雅",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_wenrouwenya_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_aiqilingren_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_aiqilingren_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_aiqilingren_tob",
+    "nameDisplay": "傲气凌人",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_aiqilingren_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_kailangqingkuai_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_kailangqingkuai_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_kailangqingkuai_tob",
+    "nameDisplay": "开朗轻快",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_kailangqingkuai_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_huopodiaoman_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_huopodiaoman_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_huopodiaoman_tob",
+    "nameDisplay": "活泼刁蛮",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_huopodiaoman_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_guzhibingjiao_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_guzhibingjiao_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_guzhibingjiao_tob",
+    "nameDisplay": "固执病娇",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_guzhibingjiao_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_huoposhuanglang_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_huoposhuanglang_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_huoposhuanglang_tob",
+    "nameDisplay": "活泼爽朗",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_huoposhuanglang_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_sajiaonianren_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_sajiaonianren_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_sajiaonianren_tob",
+    "nameDisplay": "撒娇粘人",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_sajiaonianren_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_aomanjiaosheng_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_aomanjiaosheng_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_aomanjiaosheng_tob",
+    "nameDisplay": "傲慢娇声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_aomanjiaosheng_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_xiaosasuixing_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_xiaosasuixing_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_xiaosasuixing_tob",
+    "nameDisplay": "潇洒随性",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_xiaosasuixing_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_fuheigongzi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_fuheigongzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_fuheigongzi_tob",
+    "nameDisplay": "腹黑公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_fuheigongzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_guiyishenmi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_guiyishenmi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_guiyishenmi_tob",
+    "nameDisplay": "诡异神秘",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_guiyishenmi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_ruyacaijun_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_ruyacaijun_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_ruyacaijun_tob",
+    "nameDisplay": "儒雅才俊",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_ruyacaijun_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_bingjiaobailian_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_bingjiaobailian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_bingjiaobailian_tob",
+    "nameDisplay": "病娇白莲",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_bingjiaobailian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_zhengzhiqingnian_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_zhengzhiqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_zhengzhiqingnian_tob",
+    "nameDisplay": "正直青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_zhengzhiqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_shuaizhenxiaohuo_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_shuaizhenxiaohuo_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_shuaizhenxiaohuo_tob",
+    "nameDisplay": "率真小伙",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_shuaizhenxiaohuo_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_jiaohannvwang_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_jiaohannvwang_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_jiaohannvwang_tob",
+    "nameDisplay": "娇憨女王",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_jiaohannvwang_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_bingjiaomengmei_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_bingjiaomengmei_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_bingjiaomengmei_tob",
+    "nameDisplay": "病娇萌妹",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_bingjiaomengmei_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_qingsenaigou_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_qingsenaigou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_qingsenaigou_tob",
+    "nameDisplay": "青涩小生",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_qingsenaigou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_chunzhenxuedi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_chunzhenxuedi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_chunzhenxuedi_tob",
+    "nameDisplay": "纯真学弟",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_chunzhenxuedi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_nuanxinxuejie_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_nuanxinxuejie_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_nuanxinxuejie_tob",
+    "nameDisplay": "暖心学姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_nuanxinxuejie_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_keainvsheng_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_keainvsheng_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_keainvsheng_tob",
+    "nameDisplay": "可爱女生",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_keainvsheng_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_chengshujiejie_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_chengshujiejie_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_chengshujiejie_tob",
+    "nameDisplay": "成熟姐姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_chengshujiejie_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_bingjiaojiejie_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_bingjiaojiejie_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_bingjiaojiejie_tob",
+    "nameDisplay": "病娇姐姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_bingjiaojiejie_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_youroubangzhu_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_youroubangzhu_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_youroubangzhu_tob",
+    "nameDisplay": "优柔帮主",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_youroubangzhu_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_yourougongzi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_yourougongzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_yourougongzi_tob",
+    "nameDisplay": "优柔公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_yourougongzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_wumeiyujie_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_wumeiyujie_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_wumeiyujie_tob",
+    "nameDisplay": "妩媚御姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_wumeiyujie_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_tiaopigongzhu_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_tiaopigongzhu_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_tiaopigongzhu_tob",
+    "nameDisplay": "调皮公主",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_tiaopigongzhu_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_aojiaonvyou_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_aojiaonvyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_aojiaonvyou_tob",
+    "nameDisplay": "傲娇女友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_aojiaonvyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_tiexinnanyou_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_tiexinnanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_tiexinnanyou_tob",
+    "nameDisplay": "贴心男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_tiexinnanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_shaonianjiangjun_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_shaonianjiangjun_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_shaonianjiangjun_tob",
+    "nameDisplay": "少年将军",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_shaonianjiangjun_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_tiexinnvyou_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_tiexinnvyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_tiexinnvyou_tob",
+    "nameDisplay": "贴心女友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_tiexinnvyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_bingjiaogege_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_bingjiaogege_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_bingjiaogege_tob",
+    "nameDisplay": "病娇哥哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_bingjiaogege_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_xuebanantongzhuo_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_xuebanantongzhuo_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_xuebanantongzhuo_tob",
+    "nameDisplay": "学霸男同桌",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_xuebanantongzhuo_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_youmoshushu_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_youmoshushu_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_youmoshushu_tob",
+    "nameDisplay": "幽默叔叔",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_youmoshushu_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_xingganyujie_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_xingganyujie_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_xingganyujie_tob",
+    "nameDisplay": "性感御姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_xingganyujie_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_female_jiaxiaozi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_jiaxiaozi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_jiaxiaozi_tob",
+    "nameDisplay": "假小子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_jiaxiaozi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_lengjunshangsi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lengjunshangsi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lengjunshangsi_tob",
+    "nameDisplay": "冷峻上司",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lengjunshangsi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_wenrounantongzhuo_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_wenrounantongzhuo_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_wenrounantongzhuo_tob",
+    "nameDisplay": "温柔男同桌",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_wenrounantongzhuo_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_bingjiaodidi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_bingjiaodidi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_bingjiaodidi_tob",
+    "nameDisplay": "病娇弟弟",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_bingjiaodidi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_youmodaye_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_youmodaye_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_youmodaye_tob",
+    "nameDisplay": "幽默大爷",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_youmodaye_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_aomanshaoye_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_aomanshaoye_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_aomanshaoye_tob",
+    "nameDisplay": "傲慢少爷",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_aomanshaoye_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/ICL_zh_male_shenmifashi_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_shenmifashi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_shenmifashi_tob",
+    "nameDisplay": "神秘法师",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_shenmifashi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_fanjuanqingnian_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_fanjuanqingnian_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_fanjuanqingnian_mars_bigtts",
+    "nameDisplay": "反卷青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_fanjuanqingnian_mars_bigtts"
+    ],
+    "recommendedScenario": "有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/en_male_jackson_mars_bigtts.mp3",
+    "language": "英语",
+    "voiceType": [
+      "en_male_jackson_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_jackson_mars_bigtts",
+    "nameDisplay": "Jackson",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_jackson_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/en_female_amanda_mars_bigtts.mp3",
+    "language": "英语",
+    "voiceType": [
+      "en_female_amanda_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_amanda_mars_bigtts",
+    "nameDisplay": "Amanda",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_amanda_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_dongmanhaimian_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_dongmanhaimian_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_dongmanhaimian_mars_bigtts",
+    "nameDisplay": "亮嗓萌仔",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_dongmanhaimian_mars_bigtts"
+    ],
+    "recommendedScenario": "视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_wenrouxiaoge_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_wenrouxiaoge_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_wenrouxiaoge_mars_bigtts",
+    "nameDisplay": "温柔小哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_wenrouxiaoge_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_lanxiaoyang_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_lanxiaoyang_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_lanxiaoyang_mars_bigtts",
+    "nameDisplay": "懒音绵宝",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_lanxiaoyang_mars_bigtts"
+    ],
+    "recommendedScenario": "视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_yuanqinvsheng_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_yuanqinvsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_yuanqinvsheng_mars_bigtts",
+    "nameDisplay": "元气女生",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_yuanqinvsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_beijingxiaoye_emo_v2_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_beijingxiaoye_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_beijingxiaoye_emo_v2_mars_bigtts",
+    "nameDisplay": "北京小爷（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_beijingxiaoye_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_roumeinvyou_emo_v2_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_roumeinvyou_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_roumeinvyou_emo_v2_mars_bigtts",
+    "nameDisplay": "柔美女友（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_roumeinvyou_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_yangguangqingnian_emo_v2_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_yangguangqingnian_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_yangguangqingnian_emo_v2_mars_bigtts",
+    "nameDisplay": "阳光青年（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_yangguangqingnian_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_meilinvyou_emo_v2_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_meilinvyou_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_meilinvyou_emo_v2_mars_bigtts",
+    "nameDisplay": "魅力女友（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_meilinvyou_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_female_shuangkuaisisi_emo_v2_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_shuangkuaisisi_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts",
+    "nameDisplay": "爽快思思（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_shuangkuaisisi_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_jacksonw_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_jacksonw_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_jacksonw_mars_bigtts",
+    "nameDisplay": "jacksonw",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_jacksonw_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://sf16-sg.tiktokcdn.com/obj/eden-sg/lm-ojllwz-hahk/ljhwZthlaukjlkulzlp/portal/bigtts/zh_female_kiwi_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_kiwi_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_kiwi_mars_bigtts",
+    "nameDisplay": "甜美桃子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_kiwi_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "http://tosv.byted.org/obj/speech-tts-general/zh_female_yuanqishaonv_mars_bigtts_a3df4e22-eaa9-4fbd-a6ce-c85487939655.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_yuanqishaonv_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_yuanqishaonv_mars_bigtts",
+    "nameDisplay": "元气少女",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_yuanqishaonv_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/甜美桃子.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_tianmeitaozi_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_tianmeitaozi_mars_bigtts",
+    "nameDisplay": "甜美桃子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_tianmeitaozi_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/暖阳女声.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_kefunvsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_kefunvsheng_mars_bigtts",
+    "nameDisplay": "暖阳女声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_kefunvsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/妩媚可人.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_ganli_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_ganli_v1_tob",
+    "nameDisplay": "妩媚可人",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_ganli_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/儒雅公子.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_flc_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_flc_v1_tob",
+    "nameDisplay": "儒雅公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_flc_v1_tob"
+    ],
+    "recommendedScenario": "通用场景、有声阅读、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/性感魅惑.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_luoqing_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_luoqing_v1_tob",
+    "nameDisplay": "性感魅惑",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_luoqing_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/亲切女声.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_qinqienvsheng_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_qinqienvsheng_moon_bigtts",
+    "nameDisplay": "亲切女声",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_qinqienvsheng_moon_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/冷酷哥哥.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lengkugege_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lengkugege_v1_tob",
+    "nameDisplay": "冷酷哥哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lengkugege_v1_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Daníel.mp3",
+    "language": "日/西",
+    "voiceType": [
+      "multi_male_xudong_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_male_xudong_conversation_wvae_bigtts",
+    "nameDisplay": "まさお（正男）/Daníel",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_male_xudong_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Sofía.mp3",
+    "language": "日/西",
+    "voiceType": [
+      "multi_female_sophie_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_female_sophie_conversation_wvae_bigtts",
+    "nameDisplay": "さとみ（智美）/Sofía",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_female_sophie_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/悠悠君子.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_male_M100_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_M100_conversation_wvae_bigtts",
+    "nameDisplay": "悠悠君子/Lucas",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_M100_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/快乐小东.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_male_xudong_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_xudong_conversation_wvae_bigtts",
+    "nameDisplay": "快乐小东/Daniel",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_xudong_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/文静毛毛.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_maomao_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_maomao_conversation_wvae_bigtts",
+    "nameDisplay": "文静毛毛",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_maomao_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "通用场景、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/阳光阿辰.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_qingyiyuxuan_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_qingyiyuxuan_mars_bigtts",
+    "nameDisplay": "阳光阿辰",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_qingyiyuxuan_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/魅力苏菲.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_sophie_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_sophie_conversation_wvae_bigtts",
+    "nameDisplay": "魅力苏菲/Sophie",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_sophie_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/邪魅女王.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_bingjiao3_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_bingjiao3_tob",
+    "nameDisplay": "邪魅女王",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_bingjiao3_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Emily.mp3",
+    "language": "英文",
+    "voiceType": [
+      "en_female_emily_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_emily_mars_bigtts",
+    "nameDisplay": "Emily",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_emily_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ひかる（光）.mp3",
+    "language": "日文",
+    "voiceType": [
+      "multi_zh_male_youyoujunzi_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_zh_male_youyoujunzi_moon_bigtts",
+    "nameDisplay": "ひかる（光）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_zh_male_youyoujunzi_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_en_male_cc_sha_v1_tob_eb4a14df-284f-4287-a77d-26432cd0ba63.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_cc_sha_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_cc_sha_v1_tob",
+    "nameDisplay": "Cartoon Chef",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_cc_sha_v1_tob"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/温暖少年.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_yangyang_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_yangyang_v1_tob",
+    "nameDisplay": "温暖少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_yangyang_v1_tob"
+    ],
+    "recommendedScenario": "通用场景、有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/知心姐姐.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_wenyinvsheng_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_wenyinvsheng_v1_tob",
+    "nameDisplay": "知心姐姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_wenyinvsheng_v1_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/咆哮小哥.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_BV144_paoxiaoge_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_BV144_paoxiaoge_v1_tob",
+    "nameDisplay": "咆哮小哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_BV144_paoxiaoge_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/俊朗男友（多情感）.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_junlangnanyou_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_junlangnanyou_emo_v2_mars_bigtts",
+    "nameDisplay": "俊朗男友（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_junlangnanyou_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/儒雅男友.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_ruyayichen_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_ruyayichen_emo_v2_mars_bigtts",
+    "nameDisplay": "儒雅男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_ruyayichen_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Alastor.mp3",
+    "language": "英式英语",
+    "voiceType": [
+      "ICL_en_male_cc_alastor_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_cc_alastor_tob",
+    "nameDisplay": "Alastor",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_cc_alastor_tob"
+    ],
+    "recommendedScenario": "多语种、角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Charlie.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_female_cc_cm_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_female_cc_cm_v1_tob",
+    "nameDisplay": "Charlie",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_female_cc_cm_v1_tob"
+    ],
+    "recommendedScenario": "多语种、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Noah.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_cc_dracula_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_cc_dracula_v1_tob",
+    "nameDisplay": "Noah",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_cc_dracula_v1_tob"
+    ],
+    "recommendedScenario": "多语种、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Xavier.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_xavier1_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_xavier1_v1_tob",
+    "nameDisplay": "Xavier",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_xavier1_v1_tob"
+    ],
+    "recommendedScenario": "多语种、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_en_male_cc_penny_v1_tob_82d9f07d-9b2e-4796-8fd0-6159ef6c7324.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_cc_penny_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_cc_penny_v1_tob",
+    "nameDisplay": "Clown Man",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_cc_penny_v1_tob"
+    ],
+    "recommendedScenario": "多语种、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Chucky.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_cc_chucky_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_cc_chucky_tob",
+    "nameDisplay": "Chucky",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_cc_chucky_tob"
+    ],
+    "recommendedScenario": "多语种、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Ethan.mp3",
+    "language": "澳洲英语",
+    "voiceType": [
+      "ICL_en_male_aussie_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_aussie_v1_tob",
+    "nameDisplay": "Ethan",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_aussie_v1_tob"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Jigsaw.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_cc_jigsaw_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_cc_jigsaw_tob",
+    "nameDisplay": "Jigsaw",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_cc_jigsaw_tob"
+    ],
+    "recommendedScenario": "多语种、角色扮演、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Zayne.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_zayne_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_zayne_tob",
+    "nameDisplay": "Zayne",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_zayne_tob"
+    ],
+    "recommendedScenario": "多语种、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_en_male_grinch2_tob_5d60fdc3-d842-4c99-8105-1e68743554e1.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_grinch2_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_grinch2_tob",
+    "nameDisplay": "The Grinch",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_grinch2_tob"
+    ],
+    "recommendedScenario": "多语种、角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_en_male_frosty1_tob_fb4bd11a-4f15-4a1e-b8b1-a34d339236bb.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_frosty1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_frosty1_tob",
+    "nameDisplay": "Frosty Man",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_frosty1_tob"
+    ],
+    "recommendedScenario": "多语种、角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_en_male_oogie2_tob_e699cdb8-47b4-439a-803c-82c7d18e9bf0.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_oogie2_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_oogie2_tob",
+    "nameDisplay": "Big Boogie",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_oogie2_tob"
+    ],
+    "recommendedScenario": "多语种、角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Michael.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_michael_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_michael_tob",
+    "nameDisplay": "Michael",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_michael_tob"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/病弱公子.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_bingruogongzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_bingruogongzi_tob",
+    "nameDisplay": "病弱公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_bingruogongzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_en_male_kevin2_tob_2db1c07b-f33e-472e-8264-b8ab16d275b1.mp3",
+    "language": "英文",
+    "voiceType": [
+      "ICL_en_male_kevin2_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_en_male_kevin2_tob",
+    "nameDisplay": "Kevin McCallister",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_en_male_kevin2_tob"
+    ],
+    "recommendedScenario": "视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Gavin.mp3",
+    "language": "中文",
+    "voiceType": [
+      "en_male_jason_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_jason_conversation_wvae_bigtts",
+    "nameDisplay": "开朗学长",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_jason_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Owen.mp3",
+    "language": "英文",
+    "voiceType": [
+      "en_male_charlie_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_charlie_conversation_wvae_bigtts",
+    "nameDisplay": "Owen",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_charlie_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Luna.mp3",
+    "language": "英文",
+    "voiceType": [
+      "en_female_sarah_new_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_sarah_new_conversation_wvae_bigtts",
+    "nameDisplay": "Luna",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_sarah_new_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/双节棍小哥.mp3",
+    "language": "中文-台湾口音",
+    "voiceType": [
+      "zh_male_zhoujielun_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_zhoujielun_emo_v2_mars_bigtts",
+    "nameDisplay": "双节棍小哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_zhoujielun_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/优柔公子（多情感）.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_yourougongzi_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_yourougongzi_emo_v2_mars_bigtts",
+    "nameDisplay": "优柔公子（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_yourougongzi_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/邻居阿姨（多情感）.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_linjuayi_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_linjuayi_emo_v2_mars_bigtts",
+    "nameDisplay": "邻居阿姨（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_linjuayi_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/京腔侃爷（多情感）.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_jingqiangkanye_emo_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_jingqiangkanye_emo_mars_bigtts",
+    "nameDisplay": "京腔侃爷（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_jingqiangkanye_emo_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/广州德哥（多情感）.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_guangzhoudege_emo_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_guangzhoudege_emo_mars_bigtts",
+    "nameDisplay": "广州德哥（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_guangzhoudege_emo_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/傲娇霸总（多情感）.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_aojiaobazong_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_aojiaobazong_emo_v2_mars_bigtts",
+    "nameDisplay": "傲娇霸总（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_aojiaobazong_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/甜心小美（多情感）.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_tianxinxiaomei_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_tianxinxiaomei_emo_v2_mars_bigtts",
+    "nameDisplay": "甜心小美（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_tianxinxiaomei_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/高冷御姐（多情感）.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_gaolengyujie_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_gaolengyujie_emo_v2_mars_bigtts",
+    "nameDisplay": "高冷御姐（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_gaolengyujie_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/元气甜妹.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_wuxi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_wuxi_tob",
+    "nameDisplay": "元气甜妹",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_wuxi_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/油腻大叔.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_you_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_you_tob",
+    "nameDisplay": "油腻大叔",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_you_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/嚣张小哥.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_ms_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_ms_tob",
+    "nameDisplay": "嚣张小哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_ms_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/贴心妹妹.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_yilin_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_yilin_tob",
+    "nameDisplay": "贴心妹妹",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_yilin_tob"
+    ],
+    "recommendedScenario": "通用场景、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/温柔白月光.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_yry_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_yry_tob",
+    "nameDisplay": "温柔白月光",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_yry_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/贴心闺蜜.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_xnx_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_xnx_tob",
+    "nameDisplay": "贴心闺蜜",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_xnx_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/初恋女友.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_yuxin_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_yuxin_v1_tob",
+    "nameDisplay": "初恋女友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_yuxin_v1_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/倾心少女.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_qiuling_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_qiuling_v1_tob",
+    "nameDisplay": "倾心少女",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_qiuling_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演、视频配音",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/机灵小伙.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_shenmi_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_shenmi_v1_tob",
+    "nameDisplay": "机灵小伙",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_shenmi_v1_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/胡子叔叔.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_huzi_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_huzi_v1_tob",
+    "nameDisplay": "胡子叔叔",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_huzi_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/醇厚低音.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_buyan_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_buyan_v1_tob",
+    "nameDisplay": "醇厚低音",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_buyan_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演、视频配音、有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/纯澈女生.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_feicui_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_feicui_v1_tob",
+    "nameDisplay": "纯澈女生",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_feicui_v1_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Daisy.mp3",
+    "language": "英文",
+    "voiceType": [
+      "en_female_dacey_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_dacey_conversation_wvae_bigtts",
+    "nameDisplay": "Daisy",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_dacey_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/邪魅御姐.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_xiangliangya_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_xiangliangya_v1_tob",
+    "nameDisplay": "邪魅御姐",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_xiangliangya_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/孤傲公子.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_guaogongzi_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_guaogongzi_v1_tob",
+    "nameDisplay": "孤傲公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_guaogongzi_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/枕边低语.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_asmryexiu_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_asmryexiu_tob",
+    "nameDisplay": "枕边低语",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_asmryexiu_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Diana.mp3",
+    "language": "日/西",
+    "voiceType": [
+      "multi_female_maomao_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_female_maomao_conversation_wvae_bigtts",
+    "nameDisplay": "つき（月）/Diana",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_female_maomao_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/Lucía.mp3",
+    "language": "西语",
+    "voiceType": [
+      "multi_male_M100_conversation_wvae_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "multi_male_M100_conversation_wvae_bigtts",
+    "nameDisplay": "Lucía",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "multi_male_M100_conversation_wvae_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_aomanqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_aomanqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_aomanqingnian_tob",
+    "nameDisplay": "傲慢青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_aomanqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_cujingnanyou_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_cujingnanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_cujingnanyou_tob",
+    "nameDisplay": "醋精男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_cujingnanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_cujingnansheng_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_cujingnansheng_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_cujingnansheng_tob",
+    "nameDisplay": "醋精男生",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_cujingnansheng_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_shuanglangshaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_shuanglangshaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_shuanglangshaonian_tob",
+    "nameDisplay": "爽朗少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_shuanglangshaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_sajiaonanyou_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_sajiaonanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_sajiaonanyou_tob",
+    "nameDisplay": "撒娇男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_sajiaonanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_wenrounanyou_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_wenrounanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_wenrounanyou_tob",
+    "nameDisplay": "温柔男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_wenrounanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_wenshunshaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_wenshunshaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_wenshunshaonian_tob",
+    "nameDisplay": "温顺少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_wenshunshaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_naigounanyou_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_naigounanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_naigounanyou_tob",
+    "nameDisplay": "粘人男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_naigounanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_sajiaonansheng_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_sajiaonansheng_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_sajiaonansheng_tob",
+    "nameDisplay": "撒娇男生",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_sajiaonansheng_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_huoponanyou_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_huoponanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_huoponanyou_tob",
+    "nameDisplay": "活泼男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_huoponanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_tianxinanyou_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_tianxinanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_tianxinanyou_tob",
+    "nameDisplay": "甜系男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_tianxinanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_huoliqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_huoliqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_huoliqingnian_tob",
+    "nameDisplay": "活力青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_huoliqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_kailangqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_kailangqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_kailangqingnian_tob",
+    "nameDisplay": "开朗青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_kailangqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_lengmoxiongzhang_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lengmoxiongzhang_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lengmoxiongzhang_tob",
+    "nameDisplay": "冷漠兄长",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lengmoxiongzhang_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_tiancaitongzhuo_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_tiancaitongzhuo_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_tiancaitongzhuo_tob",
+    "nameDisplay": "天才同桌",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_tiancaitongzhuo_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_aojiaojingying_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_aojiaojingying_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_aojiaojingying_tob",
+    "nameDisplay": "傲娇精英",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_aojiaojingying_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_pianpiangongzi_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_pianpiangongzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_pianpiangongzi_tob",
+    "nameDisplay": "翩翩公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_pianpiangongzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_mengdongqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_mengdongqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_mengdongqingnian_tob",
+    "nameDisplay": "懵懂青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_mengdongqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_lenglianxiongzhang_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lenglianxiongzhang_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lenglianxiongzhang_tob",
+    "nameDisplay": "冷脸兄长",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lenglianxiongzhang_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_bingjiaoshaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_bingjiaoshaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_bingjiaoshaonian_tob",
+    "nameDisplay": "病娇少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_bingjiaoshaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_bingjiaonanyou_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_bingjiaonanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_bingjiaonanyou_tob",
+    "nameDisplay": "病娇男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_bingjiaonanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_bingruoshaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_bingruoshaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_bingruoshaonian_tob",
+    "nameDisplay": "病弱少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_bingruoshaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_yiqishaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_yiqishaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_yiqishaonian_tob",
+    "nameDisplay": "意气少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_yiqishaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_ganjingshaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_ganjingshaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_ganjingshaonian_tob",
+    "nameDisplay": "干净少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_ganjingshaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_lengmonanyou_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lengmonanyou_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lengmonanyou_tob",
+    "nameDisplay": "冷漠男友",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lengmonanyou_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_jingyingqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_jingyingqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_jingyingqingnian_tob",
+    "nameDisplay": "精英青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_jingyingqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_fengfashaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_fengfashaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_fengfashaonian_tob",
+    "nameDisplay": "风发少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_fengfashaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_rexueshaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_rexueshaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_rexueshaonian_tob",
+    "nameDisplay": "热血少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_rexueshaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_qingshuangshaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_qingshuangshaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_qingshuangshaonian_tob",
+    "nameDisplay": "清爽少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_qingshuangshaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_zhongerqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_zhongerqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_zhongerqingnian_tob",
+    "nameDisplay": "中二青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_zhongerqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_lingyunqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lingyunqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lingyunqingnian_tob",
+    "nameDisplay": "凌云青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lingyunqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_zifuqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_zifuqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_zifuqingnian_tob",
+    "nameDisplay": "自负青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_zifuqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_bujiqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_bujiqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_bujiqingnian_tob",
+    "nameDisplay": "不羁青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_bujiqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_ruyajunzi_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_ruyajunzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_ruyajunzi_tob",
+    "nameDisplay": "儒雅君子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_ruyajunzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_diyinchenyu_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_diyinchenyu_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_diyinchenyu_tob",
+    "nameDisplay": "低音沉郁",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_diyinchenyu_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_lenglianxueba_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lenglianxueba_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lenglianxueba_tob",
+    "nameDisplay": "冷脸学霸",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lenglianxueba_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_ruyazongcai_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_ruyazongcai_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_ruyazongcai_tob",
+    "nameDisplay": "儒雅总裁",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_ruyazongcai_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_shenchenzongcai_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_shenchenzongcai_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_shenchenzongcai_tob",
+    "nameDisplay": "深沉总裁",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_shenchenzongcai_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_xiaohouye_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_xiaohouye_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_xiaohouye_tob",
+    "nameDisplay": "小侯爷",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_xiaohouye_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_gugaogongzi_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_gugaogongzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_gugaogongzi_tob",
+    "nameDisplay": "孤高公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_gugaogongzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_zhangjianjunzi_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_zhangjianjunzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_zhangjianjunzi_tob",
+    "nameDisplay": "仗剑君子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_zhangjianjunzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_wenrunxuezhe_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_wenrunxuezhe_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_wenrunxuezhe_tob",
+    "nameDisplay": "温润学者",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_wenrunxuezhe_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_qinqieqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_qinqieqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_qinqieqingnian_tob",
+    "nameDisplay": "亲切青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_qinqieqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_wenrouxuezhang_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_wenrouxuezhang_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_wenrouxuezhang_tob",
+    "nameDisplay": "温柔学长",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_wenrouxuezhang_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_cixingnansang_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_cixingnansang_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_cixingnansang_tob",
+    "nameDisplay": "磁性男嗓",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_cixingnansang_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_gaolengzongcai_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_gaolengzongcai_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_gaolengzongcai_tob",
+    "nameDisplay": "高冷总裁",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_gaolengzongcai_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_lengjungaozhi_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lengjungaozhi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lengjungaozhi_tob",
+    "nameDisplay": "冷峻高智",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lengjungaozhi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_chanruoshaoye_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_chanruoshaoye_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_chanruoshaoye_tob",
+    "nameDisplay": "孱弱少爷",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_chanruoshaoye_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_zixinqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_zixinqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_zixinqingnian_tob",
+    "nameDisplay": "自信青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_zixinqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_qingseqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_qingseqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_qingseqingnian_tob",
+    "nameDisplay": "青涩青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_qingseqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_xuebatongzhuo_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_xuebatongzhuo_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_xuebatongzhuo_tob",
+    "nameDisplay": "学霸同桌",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_xuebatongzhuo_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_lengaozongcai_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_lengaozongcai_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_lengaozongcai_tob",
+    "nameDisplay": "冷傲总裁",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_lengaozongcai_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_badaoshaoye_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_badaoshaoye_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_badaoshaoye_tob",
+    "nameDisplay": "霸道少爷",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_badaoshaoye_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_yuanqishaonian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_yuanqishaonian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_yuanqishaonian_tob",
+    "nameDisplay": "元气少年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_yuanqishaonian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_satuoqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_satuoqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_satuoqingnian_tob",
+    "nameDisplay": "洒脱青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_satuoqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_zhishuaiqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_zhishuaiqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_zhishuaiqingnian_tob",
+    "nameDisplay": "直率青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_zhishuaiqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_siwenqingnian_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_siwenqingnian_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_siwenqingnian_tob",
+    "nameDisplay": "斯文青年",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_siwenqingnian_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_chengshuzongcai_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_chengshuzongcai_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_chengshuzongcai_tob",
+    "nameDisplay": "成熟总裁",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_chengshuzongcai_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_junyigongzi_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_junyigongzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_junyigongzi_tob",
+    "nameDisplay": "俊逸公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_junyigongzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_aojiaogongzi_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_aojiaogongzi_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_aojiaogongzi_tob",
+    "nameDisplay": "傲娇公子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_aojiaogongzi_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_zhangjianxiake_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_zhangjianxiake_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_zhangjianxiake_tob",
+    "nameDisplay": "仗剑侠客",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_zhangjianxiake_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_jijiaozhineng_tob.wav",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_jijiaozhineng_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_jijiaozhineng_tob",
+    "nameDisplay": "机甲智能",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_jijiaozhineng_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_jacksonw_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_jacksonwang_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_jacksonwang_mars_bigtts",
+    "nameDisplay": "jacksonwang",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_jacksonwang_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/console/bigtts/zh_male_jacksonw_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_jacksonwangv2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_jacksonwangv2_mars_bigtts",
+    "nameDisplay": "jacksonwangv2",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_jacksonwangv2_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "/",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_wenrounvsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_wenrounvsheng_mars_bigtts",
+    "nameDisplay": "wenrounvsheng",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_wenrounvsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "/",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_nuanxinnvsheng_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_nuanxinnvsheng_mars_bigtts",
+    "nameDisplay": "nuanxinnvsheng",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_nuanxinnvsheng_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "/",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_oppov1_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_oppov1_mars_bigtts",
+    "nameDisplay": "oppov1",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_oppov1_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/zh_male_lengkugege_emo_v2_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_male_lengkugege_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_male_lengkugege_emo_v2_mars_bigtts",
+    "nameDisplay": "冷酷哥哥（多情感）",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_male_lengkugege_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多情感",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_badaozongcai_v1_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_badaozongcai_v1_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_badaozongcai_v1_tob",
+    "nameDisplay": "霸道总裁",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_badaozongcai_v1_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_campaign_jamal_moon_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_male_campaign_jamal_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_campaign_jamal_moon_bigtts",
+    "nameDisplay": "Energetic Male II",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_campaign_jamal_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_chris_moon_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_male_chris_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_chris_moon_bigtts",
+    "nameDisplay": "Gotham Hero",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_chris_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_daisy_moon_bigtts.mp3",
+    "language": "英式英语",
+    "voiceType": [
+      "en_female_daisy_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_daisy_moon_bigtts",
+    "nameDisplay": "Delicate Girl",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_daisy_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_product_darcie_moon_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_female_product_darcie_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_product_darcie_moon_bigtts",
+    "nameDisplay": "Flirty Female",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_product_darcie_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_emotional_moon_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_female_emotional_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_emotional_moon_bigtts",
+    "nameDisplay": "Peaceful Female",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_emotional_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_bruce_moon_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_male_bruce_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_bruce_moon_bigtts",
+    "nameDisplay": "Bruce",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_bruce_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_dave_moon_bigtts.mp3",
+    "language": "英式英语",
+    "voiceType": [
+      "en_male_dave_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_dave_moon_bigtts",
+    "nameDisplay": "Dave",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_dave_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_hades_moon_bigtts.mp3",
+    "language": "英式英语",
+    "voiceType": [
+      "en_male_hades_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_hades_moon_bigtts",
+    "nameDisplay": "Hades",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_hades_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_michael_moon_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_male_michael_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_michael_moon_bigtts",
+    "nameDisplay": "Michael",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_michael_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_onez_moon_bigtts.mp3",
+    "language": "英式英语",
+    "voiceType": [
+      "en_female_onez_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_onez_moon_bigtts",
+    "nameDisplay": "Onez",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_onez_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_nara_moon_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_female_nara_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_nara_moon_bigtts",
+    "nameDisplay": "Nara",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_nara_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_candice_emo_v2_mars_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_female_candice_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_candice_emo_v2_mars_bigtts",
+    "nameDisplay": "Candice",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_candice_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_corey_emo_v2_mars_bigtts.mp3",
+    "language": "英式英语",
+    "voiceType": [
+      "en_male_corey_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_corey_emo_v2_mars_bigtts",
+    "nameDisplay": "Corey",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_corey_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_glen_emo_v2_mars_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_male_glen_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_glen_emo_v2_mars_bigtts",
+    "nameDisplay": "Glen",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_glen_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_nadia_tips_emo_v2_mars_bigtts.mp3",
+    "language": "英式英语",
+    "voiceType": [
+      "en_female_nadia_tips_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_nadia_tips_emo_v2_mars_bigtts",
+    "nameDisplay": "Nadia1",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_nadia_tips_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_nadia_poetry_emo_v2_mars_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_female_nadia_poetry_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_nadia_poetry_emo_v2_mars_bigtts",
+    "nameDisplay": "Nadia2",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_nadia_poetry_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_male_sylus_emo_v2_mars_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_male_sylus_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_male_sylus_emo_v2_mars_bigtts",
+    "nameDisplay": "Sylus",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_male_sylus_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_skye_emo_v2_mars_bigtts.mp3",
+    "language": "美式英语",
+    "voiceType": [
+      "en_female_skye_emo_v2_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_skye_emo_v2_mars_bigtts",
+    "nameDisplay": "Serena",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_skye_emo_v2_mars_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/zh_female_yingyujiaoyu_mars_bigtts.mp3",
+    "language": "中/英",
+    "voiceType": [
+      "zh_female_yingyujiaoyu_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_yingyujiaoyu_mars_bigtts",
+    "nameDisplay": "Tina老师",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_yingyujiaoyu_mars_bigtts"
+    ],
+    "recommendedScenario": "教育场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/zh_female_vv_mars_bigtts.mp3",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_vv_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_vv_mars_bigtts",
+    "nameDisplay": "Vivi",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_vv_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_anrenqinzhu_cd62e63dcdab_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_anrenqinzhu_cd62e63dcdab_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_anrenqinzhu_cd62e63dcdab_tob",
+    "nameDisplay": "黯刃秦主",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_anrenqinzhu_cd62e63dcdab_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_wenrounvshen_239eff5e8ffa_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_wenrounvshen_239eff5e8ffa_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_wenrounvshen_239eff5e8ffa_tob",
+    "nameDisplay": "温柔女神",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_wenrounvshen_239eff5e8ffa_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_neiliancaijun_e991be511569_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_neiliancaijun_e991be511569_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_neiliancaijun_e991be511569_tob",
+    "nameDisplay": "内敛才俊",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_neiliancaijun_e991be511569_tob"
+    ],
+    "recommendedScenario": "有声阅读",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_chunzhenshaonv_e588402fb8ad_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_chunzhenshaonv_e588402fb8ad_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_chunzhenshaonv_e588402fb8ad_tob",
+    "nameDisplay": "纯真少女",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_chunzhenshaonv_e588402fb8ad_tob"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_xiaonaigou_edf58cf28b8b_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_xiaonaigou_edf58cf28b8b_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_xiaonaigou_edf58cf28b8b_tob",
+    "nameDisplay": "奶气小生",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_xiaonaigou_edf58cf28b8b_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_jinglingxiangdao_1beb294a9e3e_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_jinglingxiangdao_1beb294a9e3e_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_jinglingxiangdao_1beb294a9e3e_tob",
+    "nameDisplay": "精灵向导",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_jinglingxiangdao_1beb294a9e3e_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_menyoupingxiaoge_ffed9fc2fee7_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_menyoupingxiaoge_ffed9fc2fee7_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_menyoupingxiaoge_ffed9fc2fee7_tob",
+    "nameDisplay": "闷油瓶小哥",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_menyoupingxiaoge_ffed9fc2fee7_tob"
+    ],
+    "recommendedScenario": "角色扮演",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_tianmeixiaoyu_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_tianmeixiaoyu_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_tianmeixiaoyu_cs_tob",
+    "nameDisplay": "甜美小雨",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_tianmeixiaoyu_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_reqingaina_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_reqingaina_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_reqingaina_cs_tob",
+    "nameDisplay": "热情艾娜",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_reqingaina_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_tianmeixiaoju_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_tianmeixiaoju_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_tianmeixiaoju_cs_tob",
+    "nameDisplay": "甜美小橘",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_tianmeixiaoju_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_chenwenmingzai_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_chenwenmingzai_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_chenwenmingzai_cs_tob",
+    "nameDisplay": "沉稳明仔",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_chenwenmingzai_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_qinqiexiaozhuo_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_qinqiexiaozhuo_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_qinqiexiaozhuo_cs_tob",
+    "nameDisplay": "亲切小卓",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_qinqiexiaozhuo_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_lingdongxinxin_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_lingdongxinxin_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_lingdongxinxin_cs_tob",
+    "nameDisplay": "灵动欣欣",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_lingdongxinxin_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_guaiqiaokeer_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_guaiqiaokeer_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_guaiqiaokeer_cs_tob",
+    "nameDisplay": "乖巧可儿",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_guaiqiaokeer_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_nuanxinqianqian_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_nuanxinqianqian_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_nuanxinqianqian_cs_tob",
+    "nameDisplay": "暖心茜茜",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_nuanxinqianqian_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_ruanmengtuanzi_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_ruanmengtuanzi_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_ruanmengtuanzi_cs_tob",
+    "nameDisplay": "软萌团子",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_ruanmengtuanzi_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_male_yangguangyangyang_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_male_yangguangyangyang_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_male_yangguangyangyang_cs_tob",
+    "nameDisplay": "阳光洋洋",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_male_yangguangyangyang_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_ruanmengtangtang_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_ruanmengtangtang_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_ruanmengtangtang_cs_tob",
+    "nameDisplay": "软萌糖糖",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_ruanmengtangtang_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_xiuliqianqian_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_xiuliqianqian_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_xiuliqianqian_cs_tob",
+    "nameDisplay": "秀丽倩倩",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_xiuliqianqian_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_kaixinxiaohong_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_kaixinxiaohong_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_kaixinxiaohong_cs_tob",
+    "nameDisplay": "开心小鸿",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_kaixinxiaohong_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/ICL_zh_female_qingyingduoduo_cs_tob.mp3",
+    "language": "中文",
+    "voiceType": [
+      "ICL_zh_female_qingyingduoduo_cs_tob"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "ICL_zh_female_qingyingduoduo_cs_tob",
+    "nameDisplay": "轻盈朵朵",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "ICL_zh_female_qingyingduoduo_cs_tob"
+    ],
+    "recommendedScenario": "客服场景",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/en_female_lauren1_moon_bigtts.mp3",
+    "language": "美式英文",
+    "voiceType": [
+      "en_female_lauren_moon_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "en_female_lauren_moon_bigtts",
+    "nameDisplay": "Lauren",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "en_female_lauren_moon_bigtts"
+    ],
+    "recommendedScenario": "多语种",
+    "available_by_default": true
+  },
+  {
+    "demoLink": "-",
+    "language": "中文",
+    "voiceType": [
+      "zh_female_yoyo_mars_bigtts"
+    ],
+    "chargeItem": "Timbre-Free",
+    "configName": "Timbre-Free",
+    "toneNumber": "zh_female_yoyo_mars_bigtts",
+    "nameDisplay": "yoyo",
+    "chargeMethod": "monthly",
+    "priceDisplay": "0",
+    "voiceTypeDisplay": [
+      "zh_female_yoyo_mars_bigtts"
+    ],
+    "recommendedScenario": "通用场景",
+    "available_by_default": false
+  }
+]

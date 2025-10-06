@@ -1,0 +1,993 @@
+{
+  "status": 0,
+  "data": {
+    "operation": 1,
+    "policies": [
+      {
+        "id": 18172583883,
+        "version": 1690256873219362000,
+        "identity": {
+          "id": 54655,
+          "version": 1699402287039864000,
+          "ns": "user",
+          "location": "",
+          "path": "id:bartoszstaneta",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "dimission_stage": 0,
+            "email": "bartoszstaneta@bytedance.com",
+            "employee_type": 1,
+            "en_ldap_role": "Regular",
+            "en_ldap_title": "RD",
+            "en_name": "Bartosz Staneta",
+            "en_work_country": "Poland",
+            "is_eu_white": 1,
+            "is_gso_white": 0,
+            "is_tg": 0,
+            "large_department": "Data",
+            "ldap_role": "正式",
+            "ldap_title": "技术",
+            "name": "Bartosz Staneta",
+            "work_country": "波兰"
+          },
+          "pathV2": [
+            {
+              "key": "id",
+              "val": "bartoszstaneta"
+            }
+          ],
+          "locationV2": [],
+          "is_enable": false,
+          "create_time": 1642657029507629000
+        },
+        "identity_type": 0,
+        "role": {
+          "id": 1891914,
+          "version": 1666594958838165000,
+          "ns": "reftype_kani_841",
+          "location": "r:cn",
+          "path": "action:admin",
+          "metadata": [
+            {}
+          ],
+          "pathV2": [
+            {
+              "key": "action",
+              "val": "admin"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1644545543186052000
+        },
+        "role_type": 1,
+        "resource": {
+          "id": 21859956,
+          "version": 1690256873163000000,
+          "ns": "kani_841",
+          "location": "r:cn",
+          "path": "key:project-5220",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "admin_url": "https://ee.byted.org/kani/",
+            "audit_periodicity": 360,
+            "audit_status": 0,
+            "auth_block_type": 0,
+            "authorizable": 1,
+            "creator": 81942,
+            "description": "project-5220",
+            "en_name": "project-5220",
+            "name": "project-5220",
+            "product": {
+              "default": "kani_product_112549_6gv5ym1p"
+            },
+            "region": "",
+            "region_type": 2,
+            "resource_url": "https://ee.byted.org/kani",
+            "security_level": 2
+          },
+          "pathV2": [
+            {
+              "key": "key",
+              "val": "project-5220"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1690256873163000000
+        },
+        "resource_type": 2,
+        "expire_time": 0,
+        "condition": [
+          {}
+        ],
+        "is_enable": true,
+        "is_break_glass": false,
+        "information": {},
+        "create_time": 1690256873219362000
+      },
+      {
+        "id": 18172583884,
+        "version": 1690256873219362000,
+        "identity": {
+          "id": 54683,
+          "version": 1704189176944126000,
+          "ns": "user",
+          "location": "",
+          "path": "id:yuanyichen",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "customer": {
+              "hodor": {
+                "auditbase": "0",
+                "job_status": "UNKNOWN",
+                "sku": [],
+                "tenant_id": "6776513279733793211"
+              }
+            },
+            "dimission_stage": -1,
+            "email": "yuanyichen@bytedance.com",
+            "employee_type": 1,
+            "en_ldap_role": "Regular",
+            "en_ldap_title": "Product",
+            "en_name": "Yichen Yuan",
+            "en_work_country": "Chinese Mainland",
+            "is_eu_white": 1,
+            "is_gso_white": 1,
+            "is_tg": 0,
+            "large_department": "Data",
+            "ldap_role": "正式",
+            "ldap_title": "产品",
+            "name": "袁逸晨",
+            "work_country": "中国大陆"
+          },
+          "pathV2": [
+            {
+              "key": "id",
+              "val": "yuanyichen"
+            }
+          ],
+          "locationV2": [],
+          "is_enable": true,
+          "create_time": 1642657037980935000
+        },
+        "identity_type": 0,
+        "role": {
+          "id": 1891914,
+          "version": 1666594958838165000,
+          "ns": "reftype_kani_841",
+          "location": "r:cn",
+          "path": "action:admin",
+          "metadata": [
+            {}
+          ],
+          "pathV2": [
+            {
+              "key": "action",
+              "val": "admin"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1644545543186052000
+        },
+        "role_type": 1,
+        "resource": {
+          "id": 21859956,
+          "version": 1690256873163000000,
+          "ns": "kani_841",
+          "location": "r:cn",
+          "path": "key:project-5220",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "admin_url": "https://ee.byted.org/kani/",
+            "audit_periodicity": 360,
+            "audit_status": 0,
+            "auth_block_type": 0,
+            "authorizable": 1,
+            "creator": 81942,
+            "description": "project-5220",
+            "en_name": "project-5220",
+            "name": "project-5220",
+            "product": {
+              "default": "kani_product_112549_6gv5ym1p"
+            },
+            "region": "",
+            "region_type": 2,
+            "resource_url": "https://ee.byted.org/kani",
+            "security_level": 2
+          },
+          "pathV2": [
+            {
+              "key": "key",
+              "val": "project-5220"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1690256873163000000
+        },
+        "resource_type": 2,
+        "expire_time": 0,
+        "condition": [
+          {}
+        ],
+        "is_enable": true,
+        "is_break_glass": false,
+        "information": {},
+        "create_time": 1690256873219362000
+      },
+      {
+        "id": 18172583885,
+        "version": 1690256873219362000,
+        "identity": {
+          "id": 117271,
+          "version": 1703296268093414000,
+          "ns": "user",
+          "location": "",
+          "path": "id:liutao.34",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "customer": {
+              "hodor": {
+                "auditbase": "0",
+                "job_status": "UNKNOWN",
+                "sku": [],
+                "tenant_id": "6776513279733793211"
+              }
+            },
+            "dimission_stage": -1,
+            "email": "liutao.34@bytedance.com",
+            "employee_type": 1,
+            "en_ldap_role": "Regular",
+            "en_ldap_title": "Enterprise Solutions",
+            "en_name": "Tao Liu",
+            "en_work_country": "Chinese Mainland",
+            "is_eu_white": 1,
+            "is_gso_white": 0,
+            "is_tg": 0,
+            "large_department": "Data",
+            "ldap_role": "正式",
+            "ldap_title": "企业解决方案",
+            "name": "刘涛",
+            "work_country": "中国大陆"
+          },
+          "pathV2": [
+            {
+              "key": "id",
+              "val": "liutao.34"
+            }
+          ],
+          "locationV2": [],
+          "is_enable": true,
+          "create_time": 1642674976801563000
+        },
+        "identity_type": 0,
+        "role": {
+          "id": 1891914,
+          "version": 1666594958838165000,
+          "ns": "reftype_kani_841",
+          "location": "r:cn",
+          "path": "action:admin",
+          "metadata": [
+            {}
+          ],
+          "pathV2": [
+            {
+              "key": "action",
+              "val": "admin"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1644545543186052000
+        },
+        "role_type": 1,
+        "resource": {
+          "id": 21859956,
+          "version": 1690256873163000000,
+          "ns": "kani_841",
+          "location": "r:cn",
+          "path": "key:project-5220",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "admin_url": "https://ee.byted.org/kani/",
+            "audit_periodicity": 360,
+            "audit_status": 0,
+            "auth_block_type": 0,
+            "authorizable": 1,
+            "creator": 81942,
+            "description": "project-5220",
+            "en_name": "project-5220",
+            "name": "project-5220",
+            "product": {
+              "default": "kani_product_112549_6gv5ym1p"
+            },
+            "region": "",
+            "region_type": 2,
+            "resource_url": "https://ee.byted.org/kani",
+            "security_level": 2
+          },
+          "pathV2": [
+            {
+              "key": "key",
+              "val": "project-5220"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1690256873163000000
+        },
+        "resource_type": 2,
+        "expire_time": 0,
+        "condition": [
+          {}
+        ],
+        "is_enable": true,
+        "is_break_glass": false,
+        "information": {},
+        "create_time": 1690256873219362000
+      },
+      {
+        "id": 18172583886,
+        "version": 1690256873219362000,
+        "identity": {
+          "id": 1955820,
+          "version": 1704195841485641000,
+          "ns": "user",
+          "location": "",
+          "path": "id:weiwei.waynewei",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "customer": {
+              "hodor": {
+                "auditbase": "0",
+                "job_status": "UNKNOWN",
+                "sku": [],
+                "tenant_id": "6776513279733793211"
+              }
+            },
+            "dimission_stage": -1,
+            "email": "weiwei.waynewei@bytedance.com",
+            "employee_type": 1,
+            "en_ldap_role": "Regular",
+            "en_ldap_title": "RD",
+            "en_name": "Wei Wei",
+            "en_work_country": "Chinese Mainland",
+            "is_eu_white": 1,
+            "is_gso_white": 0,
+            "is_tg": 0,
+            "large_department": "Data",
+            "ldap_role": "正式",
+            "ldap_title": "技术",
+            "name": "魏巍",
+            "work_country": "中国大陆"
+          },
+          "pathV2": [
+            {
+              "key": "id",
+              "val": "weiwei.waynewei"
+            }
+          ],
+          "locationV2": [],
+          "is_enable": true,
+          "create_time": 1652673788265302000
+        },
+        "identity_type": 0,
+        "role": {
+          "id": 1891914,
+          "version": 1666594958838165000,
+          "ns": "reftype_kani_841",
+          "location": "r:cn",
+          "path": "action:admin",
+          "metadata": [
+            {}
+          ],
+          "pathV2": [
+            {
+              "key": "action",
+              "val": "admin"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1644545543186052000
+        },
+        "role_type": 1,
+        "resource": {
+          "id": 21859956,
+          "version": 1690256873163000000,
+          "ns": "kani_841",
+          "location": "r:cn",
+          "path": "key:project-5220",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "admin_url": "https://ee.byted.org/kani/",
+            "audit_periodicity": 360,
+            "audit_status": 0,
+            "auth_block_type": 0,
+            "authorizable": 1,
+            "creator": 81942,
+            "description": "project-5220",
+            "en_name": "project-5220",
+            "name": "project-5220",
+            "product": {
+              "default": "kani_product_112549_6gv5ym1p"
+            },
+            "region": "",
+            "region_type": 2,
+            "resource_url": "https://ee.byted.org/kani",
+            "security_level": 2
+          },
+          "pathV2": [
+            {
+              "key": "key",
+              "val": "project-5220"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1690256873163000000
+        },
+        "resource_type": 2,
+        "expire_time": 0,
+        "condition": [
+          {}
+        ],
+        "is_enable": true,
+        "is_break_glass": false,
+        "information": {},
+        "create_time": 1690256873219362000
+      },
+      {
+        "id": 19855888968,
+        "version": 1692534165091516000,
+        "identity": {
+          "id": 54655,
+          "version": 1699402287039864000,
+          "ns": "user",
+          "location": "",
+          "path": "id:bartoszstaneta",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "dimission_stage": 0,
+            "email": "bartoszstaneta@bytedance.com",
+            "employee_type": 1,
+            "en_ldap_role": "Regular",
+            "en_ldap_title": "RD",
+            "en_name": "Bartosz Staneta",
+            "en_work_country": "Poland",
+            "is_eu_white": 1,
+            "is_gso_white": 0,
+            "is_tg": 0,
+            "large_department": "Data",
+            "ldap_role": "正式",
+            "ldap_title": "技术",
+            "name": "Bartosz Staneta",
+            "work_country": "波兰"
+          },
+          "pathV2": [
+            {
+              "key": "id",
+              "val": "bartoszstaneta"
+            }
+          ],
+          "locationV2": [],
+          "is_enable": false,
+          "create_time": 1642657029507629000
+        },
+        "identity_type": 0,
+        "role": {
+          "id": 1891914,
+          "version": 1666594958838165000,
+          "ns": "reftype_kani_841",
+          "location": "r:cn",
+          "path": "action:admin",
+          "metadata": [
+            {}
+          ],
+          "pathV2": [
+            {
+              "key": "action",
+              "val": "admin"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1644545543186052000
+        },
+        "role_type": 1,
+        "resource": {
+          "id": 22925448,
+          "version": 1692534165039156000,
+          "ns": "kani_841",
+          "location": "r:cn",
+          "path": "key:project-5776",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "admin_url": "https://ee.byted.org/kani/",
+            "audit_periodicity": 360,
+            "audit_status": 0,
+            "auth_block_type": 0,
+            "authorizable": 1,
+            "creator": 81942,
+            "description": "project-5776",
+            "en_name": "project-5776",
+            "name": "project-5776",
+            "product": {
+              "default": "kani_product_112549_6gv5ym1p"
+            },
+            "region": "",
+            "region_type": 2,
+            "resource_url": "https://ee.byted.org/kani",
+            "security_level": 2
+          },
+          "pathV2": [
+            {
+              "key": "key",
+              "val": "project-5776"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1692534165039156000
+        },
+        "resource_type": 2,
+        "expire_time": 0,
+        "condition": [
+          {}
+        ],
+        "is_enable": true,
+        "is_break_glass": false,
+        "information": {},
+        "create_time": 1692534165091516000
+      },
+      {
+        "id": 19855888969,
+        "version": 1692534165091516000,
+        "identity": {
+          "id": 54683,
+          "version": 1704189176944126000,
+          "ns": "user",
+          "location": "",
+          "path": "id:yuanyichen",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "customer": {
+              "hodor": {
+                "auditbase": "0",
+                "job_status": "UNKNOWN",
+                "sku": [],
+                "tenant_id": "6776513279733793211"
+              }
+            },
+            "dimission_stage": -1,
+            "email": "yuanyichen@bytedance.com",
+            "employee_type": 1,
+            "en_ldap_role": "Regular",
+            "en_ldap_title": "Product",
+            "en_name": "Yichen Yuan",
+            "en_work_country": "Chinese Mainland",
+            "is_eu_white": 1,
+            "is_gso_white": 1,
+            "is_tg": 0,
+            "large_department": "Data",
+            "ldap_role": "正式",
+            "ldap_title": "产品",
+            "name": "袁逸晨",
+            "work_country": "中国大陆"
+          },
+          "pathV2": [
+            {
+              "key": "id",
+              "val": "yuanyichen"
+            }
+          ],
+          "locationV2": [],
+          "is_enable": true,
+          "create_time": 1642657037980935000
+        },
+        "identity_type": 0,
+        "role": {
+          "id": 1891914,
+          "version": 1666594958838165000,
+          "ns": "reftype_kani_841",
+          "location": "r:cn",
+          "path": "action:admin",
+          "metadata": [
+            {}
+          ],
+          "pathV2": [
+            {
+              "key": "action",
+              "val": "admin"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1644545543186052000
+        },
+        "role_type": 1,
+        "resource": {
+          "id": 22925448,
+          "version": 1692534165039156000,
+          "ns": "kani_841",
+          "location": "r:cn",
+          "path": "key:project-5776",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "admin_url": "https://ee.byted.org/kani/",
+            "audit_periodicity": 360,
+            "audit_status": 0,
+            "auth_block_type": 0,
+            "authorizable": 1,
+            "creator": 81942,
+            "description": "project-5776",
+            "en_name": "project-5776",
+            "name": "project-5776",
+            "product": {
+              "default": "kani_product_112549_6gv5ym1p"
+            },
+            "region": "",
+            "region_type": 2,
+            "resource_url": "https://ee.byted.org/kani",
+            "security_level": 2
+          },
+          "pathV2": [
+            {
+              "key": "key",
+              "val": "project-5776"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1692534165039156000
+        },
+        "resource_type": 2,
+        "expire_time": 0,
+        "condition": [
+          {}
+        ],
+        "is_enable": true,
+        "is_break_glass": false,
+        "information": {},
+        "create_time": 1692534165091516000
+      },
+      {
+        "id": 19855888970,
+        "version": 1692534165091516000,
+        "identity": {
+          "id": 117271,
+          "version": 1703296268093414000,
+          "ns": "user",
+          "location": "",
+          "path": "id:liutao.34",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "customer": {
+              "hodor": {
+                "auditbase": "0",
+                "job_status": "UNKNOWN",
+                "sku": [],
+                "tenant_id": "6776513279733793211"
+              }
+            },
+            "dimission_stage": -1,
+            "email": "liutao.34@bytedance.com",
+            "employee_type": 1,
+            "en_ldap_role": "Regular",
+            "en_ldap_title": "Enterprise Solutions",
+            "en_name": "Tao Liu",
+            "en_work_country": "Chinese Mainland",
+            "is_eu_white": 1,
+            "is_gso_white": 0,
+            "is_tg": 0,
+            "large_department": "Data",
+            "ldap_role": "正式",
+            "ldap_title": "企业解决方案",
+            "name": "刘涛",
+            "work_country": "中国大陆"
+          },
+          "pathV2": [
+            {
+              "key": "id",
+              "val": "liutao.34"
+            }
+          ],
+          "locationV2": [],
+          "is_enable": true,
+          "create_time": 1642674976801563000
+        },
+        "identity_type": 0,
+        "role": {
+          "id": 1891914,
+          "version": 1666594958838165000,
+          "ns": "reftype_kani_841",
+          "location": "r:cn",
+          "path": "action:admin",
+          "metadata": [
+            {}
+          ],
+          "pathV2": [
+            {
+              "key": "action",
+              "val": "admin"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1644545543186052000
+        },
+        "role_type": 1,
+        "resource": {
+          "id": 22925448,
+          "version": 1692534165039156000,
+          "ns": "kani_841",
+          "location": "r:cn",
+          "path": "key:project-5776",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "admin_url": "https://ee.byted.org/kani/",
+            "audit_periodicity": 360,
+            "audit_status": 0,
+            "auth_block_type": 0,
+            "authorizable": 1,
+            "creator": 81942,
+            "description": "project-5776",
+            "en_name": "project-5776",
+            "name": "project-5776",
+            "product": {
+              "default": "kani_product_112549_6gv5ym1p"
+            },
+            "region": "",
+            "region_type": 2,
+            "resource_url": "https://ee.byted.org/kani",
+            "security_level": 2
+          },
+          "pathV2": [
+            {
+              "key": "key",
+              "val": "project-5776"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1692534165039156000
+        },
+        "resource_type": 2,
+        "expire_time": 0,
+        "condition": [
+          {}
+        ],
+        "is_enable": true,
+        "is_break_glass": false,
+        "information": {},
+        "create_time": 1692534165091516000
+      },
+      {
+        "id": 19855888971,
+        "version": 1692534165091516000,
+        "identity": {
+          "id": 1955820,
+          "version": 1704195841485641000,
+          "ns": "user",
+          "location": "",
+          "path": "id:weiwei.waynewei",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "customer": {
+              "hodor": {
+                "auditbase": "0",
+                "job_status": "UNKNOWN",
+                "sku": [],
+                "tenant_id": "6776513279733793211"
+              }
+            },
+            "dimission_stage": -1,
+            "email": "weiwei.waynewei@bytedance.com",
+            "employee_type": 1,
+            "en_ldap_role": "Regular",
+            "en_ldap_title": "RD",
+            "en_name": "Wei Wei",
+            "en_work_country": "Chinese Mainland",
+            "is_eu_white": 1,
+            "is_gso_white": 0,
+            "is_tg": 0,
+            "large_department": "Data",
+            "ldap_role": "正式",
+            "ldap_title": "技术",
+            "name": "魏巍",
+            "work_country": "中国大陆"
+          },
+          "pathV2": [
+            {
+              "key": "id",
+              "val": "weiwei.waynewei"
+            }
+          ],
+          "locationV2": [],
+          "is_enable": true,
+          "create_time": 1652673788265302000
+        },
+        "identity_type": 0,
+        "role": {
+          "id": 1891914,
+          "version": 1666594958838165000,
+          "ns": "reftype_kani_841",
+          "location": "r:cn",
+          "path": "action:admin",
+          "metadata": [
+            {}
+          ],
+          "pathV2": [
+            {
+              "key": "action",
+              "val": "admin"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1644545543186052000
+        },
+        "role_type": 1,
+        "resource": {
+          "id": 22925448,
+          "version": 1692534165039156000,
+          "ns": "kani_841",
+          "location": "r:cn",
+          "path": "key:project-5776",
+          "metadata": [
+            {}
+          ],
+          "attributes": {
+            "admin_url": "https://ee.byted.org/kani/",
+            "audit_periodicity": 360,
+            "audit_status": 0,
+            "auth_block_type": 0,
+            "authorizable": 1,
+            "creator": 81942,
+            "description": "project-5776",
+            "en_name": "project-5776",
+            "name": "project-5776",
+            "product": {
+              "default": "kani_product_112549_6gv5ym1p"
+            },
+            "region": "",
+            "region_type": 2,
+            "resource_url": "https://ee.byted.org/kani",
+            "security_level": 2
+          },
+          "pathV2": [
+            {
+              "key": "key",
+              "val": "project-5776"
+            }
+          ],
+          "locationV2": [
+            {
+              "key": "r",
+              "val": "cn"
+            }
+          ],
+          "is_enable": true,
+          "create_time": 1692534165039156000
+        },
+        "resource_type": 2,
+        "expire_time": 0,
+        "condition": [
+          {}
+        ],
+        "is_enable": true,
+        "is_break_glass": false,
+        "information": {},
+        "create_time": 1692534165091516000
+      }
+    ],
+    "base_policy": null
+  }
+}

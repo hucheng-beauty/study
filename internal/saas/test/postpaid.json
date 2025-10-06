@@ -1,0 +1,20 @@
+{
+  "postpaidConfigs": [
+    {
+      "configName": "API Usage",
+      "chargeItem": "API Usage",
+      "chargeMethod": "hourly",
+      "nameDisplay": "API调用次数",
+      "priceDisplay": "Interval:[0.0055,0.005,0.0045,0.004], LowerBound:[0,1000000,5000000,10000000]",
+      "chargeItemId": "计费项的Id"
+    },
+    {
+      "configName": "API_Usage_Paid_monthly",
+      "chargeItem": "API Usage",
+      "chargeMethod": "monthly",
+      "nameDisplay": "API调用次数_月结",
+      "priceDisplay": "Interval:[0.0055,0.005,0.0045,0.004], LowerBound:[0,1000000,5000000,10000000]",
+      "chargeItemId": "1"
+    }
+  ]
+}

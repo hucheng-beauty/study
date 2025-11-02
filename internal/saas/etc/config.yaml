@@ -1,0 +1,9 @@
+idl_info:
+  source: bam
+
+platform_info:
+  type: tcc
+  root: china.shanghai.pudong # psm
+
+
+

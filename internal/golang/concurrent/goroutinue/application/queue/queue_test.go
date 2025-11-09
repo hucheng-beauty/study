@@ -1,58 +1,60 @@
-package queue
+package toolkit
 
 import (
     "context"
-    "fmt"
     "log"
-    "runtime"
     "strconv"
     "testing"
     "time"
 )
 
-var Q *Queue
+var StoreKafkaQ *Queue
 
 type StoreKafka struct{ opts *Options }
 
 func NewStoreKafka(opts *Options) *StoreKafka { return &StoreKafka{opts: opts} }
 
 func (sk *StoreKafka) Start() {
-    Q = NewQueue(&Options{
-        Ctx:          sk.opts.Ctx,
-        Func:         sk.handle,
-        WorkersCount: sk.opts.WorkersCount,
-        QueueLength:  sk.opts.QueueLength,
+    StoreKafkaQ = NewQueue(&Options{
+        Ctx:        context.Background(),
+        BatchWait:  time.Duration(sk.opts.BatchWait) * time.Second,
+        BatchSize:  sk.opts.BatchSize,
+        ChanSize:   sk.opts.ChanSize,
+        RoutineNum: sk.opts.RoutineNum,
+        Func:       sk.handle,
     })
 
-    Q.Start()
+    StoreKafkaQ.Start()
 }
 
-func (sk *StoreKafka) handle(job interface{}) {
-    if job == nil {
+func (sk *StoreKafka) handle(jobs []interface{}) {
+    log.Printf("[handle] jobs:%v\n", jobs)
+    if jobs == nil || 0 >= len(jobs) {
         return
     }
-    log.Println("[handle] job: ", job)
+
+    messages := make([]string, len(jobs))
+    for i, job := range jobs {
+        message, ok := job.(string)
+        if !ok {
+            continue
+        }
+        messages[i] = message
+    }
+    log.Println("[handle] messages:", messages)
 }
 
 func TestQueue(t *testing.T) {
-    ctx, cancel := context.WithCancel(context.Background())
     sk := NewStoreKafka(&Options{
-        Ctx:          ctx,
-        WorkersCount: 100,
-        QueueLength:  1000,
+        Ctx:        context.Background(),
+        BatchWait:  2,
+        BatchSize:  200,
+        RoutineNum: 1,
+        ChanSize:   200,
     })
-
     sk.Start()
 
     for i := 0; i < 1000; i++ {
-        Q.Chan() <- strconv.Itoa(i + 1)
+        StoreKafkaQ.Chan() <- strconv.Itoa(i)
     }
-
-    time.Sleep(time.Second * 3)
-    fmt.Println("go number 1:", runtime.NumGoroutine())
-    Q.Quit <- struct{}{}
-    cancel()
-    close(Q.Chan())
-    time.Sleep(time.Second * 1)
-    fmt.Println("go number 2:", runtime.NumGoroutine())
 }
